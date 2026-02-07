@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,868 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 11000_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 324
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fda9036a76a4e070800000000000000
+      internalID: 8134809871515758070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11001_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 366
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd8b1a0eb883c740800000000000000
+      internalID: 5171127146946203066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11002_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 366
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325cc4dcb3ae2a1d0800000000000000
+      internalID: -3340850430987156189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11003_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 370
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f5b49e337bd2c0800000000000000
+      internalID: -4405801097831778441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11004_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d31c8e581b459d10800000000000000
+      internalID: 2131692566667334613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11005_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 370
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a53b48c4ce7f4480800000000000000
+      internalID: -8912765753903860313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11006_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 416
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b4a42e03cca66d0800000000000000
+      internalID: -2996358091734627465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11007_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 416
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf19e791a9652faa0800000000000000
+      internalID: -6128740923045146116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11008_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 278
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65572f24ede371770800000000000000
+      internalID: 8581396739304617302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11009_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 276
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824bb6eabaf274cb0800000000000000
+      internalID: -4879879256820435928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11010_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 278
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b358a93d2f25f360800000000000000
+      internalID: 7202715050336342968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11011_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 320
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c44b159770c1770800000000000000
+      internalID: 8582743207504530533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11012_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91f35d688c923640800000000000000
+      internalID: 5058277441254191514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11013_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 280
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19e672c5524c8e30800000000000000
+      internalID: 4507050263193250077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11014_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 324
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5635a6dca674a80800000000000000
+      internalID: -8482693942644349474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11015_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 322
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e10a1ca5936c3240800000000000000
+      internalID: 4772799199594545640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11016_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 10
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032f2cb857bab0b00800000000000000
+      internalID: 795918280505356848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11017_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad25336d0d9b92cc0800000000000000
+      internalID: -3735250109329091878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11018_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 10
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13bacd7ec0b16220800000000000000
+      internalID: 2477455670950671134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11019_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 10
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835a4328d7cf8b100800000000000000
+      internalID: 124126605738288440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11020_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aadbe6b077dfcd0800000000000000
+      internalID: -2522729325271340502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11021_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 100
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4914bff5bdd1c50800000000000000
+      internalID: 6637702631097734364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11022_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 186
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca542e8e092bc6c0800000000000000
+      internalID: -4122155891436528950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11023_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 184
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4740b0fe3dfe2800800000000000000
+      internalID: 589687047999997770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11024_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 186
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba914217b14a818a0800000000000000
+      internalID: -6334132438127339093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11025_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 228
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4129324b7e07525d0800000000000000
+      internalID: -3087937829030620652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11026_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194e299b6afb1e70800000000000000
+      internalID: 9087132013188499738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11027_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 232
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546e11a707d11d990800000000000000
+      internalID: -7363071546852514235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11028_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 230
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa12d9486523b2660800000000000000
+      internalID: 7362033363040674218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11029_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 232
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052fe75a1e99ad8e0800000000000000
+      internalID: -1667851517564095920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11030_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 274
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c6e9732c43d46d0800000000000000
+      internalID: -3004687367624823752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11031_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 274
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f310009c43d88d7d0800000000000000
+      internalID: -2893407502735507137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11032_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 190
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db79df24903d3cfb0800000000000000
+      internalID: -4628623955274655811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11033_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 412
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9b12768b51e83c0800000000000000
+      internalID: -4355519907872261718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11034_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5085906cd95c10be0800000000000000
+      internalID: -1512710718396737531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11035_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 412
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ec5a5a3bfc63c30800000000000000
+      internalID: 4338883661503254092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11036_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 462
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e584918a73e91e200800000000000000
+      internalID: 207621019716372574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11037_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 462
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bdd606d9d539cd0800000000000000
+      internalID: -2552593633279878302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11038_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 462
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103aa8e32f8d4fe70800000000000000
+      internalID: 9148175278039278337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11039_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 462
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222b118639a2a6ac0800000000000000
+      internalID: -3861226917922229726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11040_deco_floor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 460
+        width: 94
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9597950e0d8da80800000000000000
+      internalID: -8441767839513617989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +999,48 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      11000_deco_floor: 8134809871515758070
+      11001_deco_floor: 5171127146946203066
+      11002_deco_floor: -3340850430987156189
+      11003_deco_floor: -4405801097831778441
+      11004_deco_floor: 2131692566667334613
+      11005_deco_floor: -8912765753903860313
+      11006_deco_floor: -2996358091734627465
+      11007_deco_floor: -6128740923045146116
+      11008_deco_floor: 8581396739304617302
+      11009_deco_floor: -4879879256820435928
+      11010_deco_floor: 7202715050336342968
+      11011_deco_floor: 8582743207504530533
+      11012_deco_floor: 5058277441254191514
+      11013_deco_floor: 4507050263193250077
+      11014_deco_floor: -8482693942644349474
+      11015_deco_floor: 4772799199594545640
+      11016_deco_floor: 795918280505356848
+      11017_deco_floor: -3735250109329091878
+      11018_deco_floor: 2477455670950671134
+      11019_deco_floor: 124126605738288440
+      11020_deco_floor: -2522729325271340502
+      11021_deco_floor: 6637702631097734364
+      11022_deco_floor: -4122155891436528950
+      11023_deco_floor: 589687047999997770
+      11024_deco_floor: -6334132438127339093
+      11025_deco_floor: -3087937829030620652
+      11026_deco_floor: 9087132013188499738
+      11027_deco_floor: -7363071546852514235
+      11028_deco_floor: 7362033363040674218
+      11029_deco_floor: -1667851517564095920
+      11030_deco_floor: -3004687367624823752
+      11031_deco_floor: -2893407502735507137
+      11032_deco_floor: -4628623955274655811
+      11033_deco_floor: -4355519907872261718
+      11034_deco_floor: -1512710718396737531
+      11035_deco_floor: 4338883661503254092
+      11036_deco_floor: 207621019716372574
+      11037_deco_floor: -2552593633279878302
+      11038_deco_floor: 9148175278039278337
+      11039_deco_floor: -3861226917922229726
+      11040_deco_floor: -8441767839513617989
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

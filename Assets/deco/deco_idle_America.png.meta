@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,1183 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 69861_deco_goods_stand_snack_b_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 598
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0f84d9def20c4b0800000000000000
+      internalID: -5422281253761519388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69861_deco_goods_stand_snack_b_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 480
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cbae683a2c27b70800000000000000
+      internalID: 8895386221609139330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69861_deco_goods_stand_snack_b_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 760
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c4eeefa225085a0800000000000000
+      internalID: -6521121915813344167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69861_deco_goods_stand_snack_b_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 492
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6434b551495430fc0800000000000000
+      internalID: -3529901180612558010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69861_deco_goods_stand_snack_f_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 656
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128f8bceebfd29e70800000000000000
+      internalID: 9120598206487001121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69861_deco_goods_stand_snack_f_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 712
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e8d04c312eb4bc0800000000000000
+      internalID: -3797693286235402642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69861_deco_goods_stand_snack_f_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 806
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e21e51fe45683330800000000000000
+      internalID: 3690811284361450214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69861_deco_goods_stand_snack_f_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 518
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e265f107a51bd780800000000000000
+      internalID: -8657302051653066011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69862_deco_goods_stand_snack_b_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 540
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af6dbfe4502a9e0800000000000000
+      internalID: -1611719879854458263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69862_deco_goods_stand_snack_b_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 538
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c316a647d220820800000000000000
+      internalID: 2882916689494752390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69862_deco_goods_stand_snack_b_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 770
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80000e5733f1cb5b0800000000000000
+      internalID: -5351367951341584376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69862_deco_goods_stand_snack_b_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 544
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032920ffb66bbd1e0800000000000000
+      internalID: -2171941820320017872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69862_deco_goods_stand_snack_f_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 572
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f68cf4e8ea3e2620800000000000000
+      internalID: 2751201194318530297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69862_deco_goods_stand_snack_f_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 596
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a13d8efd64ba0e0800000000000000
+      internalID: -2257632860698371543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69862_deco_goods_stand_snack_f_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 816
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa3c8ee607efc390800000000000000
+      internalID: -7795758412997051655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69862_deco_goods_stand_snack_f_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 716
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860116eb4fc00cd30800000000000000
+      internalID: 4449570677147635816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69863_deco_goods_stand_ramen_b_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 586
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262f90fb43a0a0570800000000000000
+      internalID: 8433564473864352354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69863_deco_goods_stand_ramen_b_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 934
+        width: 130
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60402a61946dc27a0800000000000000
+      internalID: -6400505360999644154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69863_deco_goods_stand_ramen_b_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 474
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cb3fd7d2ee8bff0800000000000000
+      internalID: -20004319169102717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69863_deco_goods_stand_ramen_f_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 634
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab67d7e76025a8d0800000000000000
+      internalID: -2835824759716484177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69863_deco_goods_stand_ramen_f_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 852
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc2b295c09620da0800000000000000
+      internalID: -5980101853438071616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69863_deco_goods_stand_ramen_f_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 570
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c621fcbed265f0db0800000000000000
+      internalID: -4823541920660778388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69864_deco_goods_stand_ramen_b_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 934
+        width: 130
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8a9966e941f5a80800000000000000
+      internalID: -8476033303129249564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69864_deco_goods_stand_ramen_b_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 468
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601c3047439a552e0800000000000000
+      internalID: -2137616405367635706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69864_deco_goods_stand_ramen_b_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 630
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7c2a85fd82be050800000000000000
+      internalID: 5830799082291120074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69864_deco_goods_stand_ramen_f_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 938
+        width: 130
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9367ddfd26514e00800000000000000
+      internalID: 1027196945549452189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69864_deco_goods_stand_ramen_f_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 522
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dd0cf2076515800800000000000000
+      internalID: 599355265254481158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69864_deco_goods_stand_ramen_f_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 568
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ed8036ba0609760800000000000000
+      internalID: 7462570871770111503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69865_deco_goods_stand_tissue_b_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 694
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb1c2d83834a5380800000000000000
+      internalID: -8981792274548778053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69865_deco_goods_stand_tissue_f_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 636
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011b5a931bb91a350800000000000000
+      internalID: 6026268961877111056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69866_deco_goods_stand_tissue_b_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 614
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef85b9c9dbd2ed0800000000000000
+      internalID: -2437083343018721789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69866_deco_goods_stand_tissue_f_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 634
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c244790fc1f6917f0800000000000000
+      internalID: -641359301837372372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69867_deco_goods_stand_ice_b_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 528
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8661462e2b93560800000000000000
+      internalID: 7294057756914772153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69867_deco_goods_stand_ice_b_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 590
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce17e89b07d6abed0800000000000000
+      internalID: -2397483520704482836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69867_deco_goods_stand_ice_f_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 510
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa354d2a93fca43d0800000000000000
+      internalID: -3221534736978259025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69867_deco_goods_stand_ice_f_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 382
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff98be0b5c0e2540800000000000000
+      internalID: 4984935422774255607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69868_deco_goods_stand_ice_b_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 416
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4737b6a022054acd0800000000000000
+      internalID: -2547823382050933900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69868_deco_goods_stand_ice_b_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 504
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16682ee254dbe0d70800000000000000
+      internalID: 9011348009251931745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69868_deco_goods_stand_ice_f_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 564
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6a965b1b33ca6b0800000000000000
+      internalID: -5283791424466606361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69868_deco_goods_stand_ice_f_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 446
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243efff72413366f0800000000000000
+      internalID: -692655755999845566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69869_deco_goods_stand_drink_b_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 790
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537e77ed75686c000800000000000000
+      internalID: 55879757341386549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69869_deco_goods_stand_drink_f_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 728
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435136e7d9b5dfad0800000000000000
+      internalID: -2666874672345049804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69869_deco_goods_stand_drink_f_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 486
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b11835b29840ab0800000000000000
+      internalID: -5042754863570543771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69869_deco_goods_stand_drink_f_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 844
+        width: 120
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476a169a3d389d000800000000000000
+      internalID: 61225015049299572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69870_deco_goods_stand_drink_b_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 774
+        width: 106
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1691deb8d0fa0dd0800000000000000
+      internalID: -2518936227855362533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69870_deco_goods_stand_drink_f_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 716
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16e696191edcffe0800000000000000
+      internalID: -1153803205179152870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69870_deco_goods_stand_drink_f_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 524
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c77891ba35dd4c0800000000000000
+      internalID: -4261157678089798655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69870_deco_goods_stand_drink_f_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 862
+        width: 120
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbad2a5b92c040ee0800000000000000
+      internalID: -1295897419495318852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69871_deco_goods_stand_fresh_b_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 778
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f580e4af093eea20800000000000000
+      internalID: 3093472733403579889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69871_deco_goods_stand_fresh_f_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 714
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31efec162cd73e060800000000000000
+      internalID: 6981562121172483603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69871_deco_goods_stand_fresh_f_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 434
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f226306ab2a6330800000000000000
+      internalID: 3704821635486986019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69871_deco_goods_stand_fresh_f_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 884
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e73565c7c06aeea0800000000000000
+      internalID: -5842751155433293849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69872_deco_goods_stand_fresh_b_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 788
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da4f5d78e9e1a30800000000000000
+      internalID: 4187959009748495758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69872_deco_goods_stand_fresh_f_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 654
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2ad0457a5aa0cf0800000000000000
+      internalID: -285233488296303964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69872_deco_goods_stand_fresh_f_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 434
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14dae21b523e9380800000000000000
+      internalID: -8962670841679916006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69872_deco_goods_stand_fresh_f_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 954
+        width: 110
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0c21b449cec0af0800000000000000
+      internalID: -428707742848204587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +1314,63 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      69861_deco_goods_stand_snack_b_1: -5422281253761519388
+      69861_deco_goods_stand_snack_b_2: 8895386221609139330
+      69861_deco_goods_stand_snack_b_3: -6521121915813344167
+      69861_deco_goods_stand_snack_b_4: -3529901180612558010
+      69861_deco_goods_stand_snack_f_1: 9120598206487001121
+      69861_deco_goods_stand_snack_f_2: -3797693286235402642
+      69861_deco_goods_stand_snack_f_3: 3690811284361450214
+      69861_deco_goods_stand_snack_f_4: -8657302051653066011
+      69862_deco_goods_stand_snack_b_1: -1611719879854458263
+      69862_deco_goods_stand_snack_b_2: 2882916689494752390
+      69862_deco_goods_stand_snack_b_3: -5351367951341584376
+      69862_deco_goods_stand_snack_b_4: -2171941820320017872
+      69862_deco_goods_stand_snack_f_1: 2751201194318530297
+      69862_deco_goods_stand_snack_f_2: -2257632860698371543
+      69862_deco_goods_stand_snack_f_3: -7795758412997051655
+      69862_deco_goods_stand_snack_f_4: 4449570677147635816
+      69863_deco_goods_stand_ramen_b_1: 8433564473864352354
+      69863_deco_goods_stand_ramen_b_2: -6400505360999644154
+      69863_deco_goods_stand_ramen_b_3: -20004319169102717
+      69863_deco_goods_stand_ramen_f_1: -2835824759716484177
+      69863_deco_goods_stand_ramen_f_2: -5980101853438071616
+      69863_deco_goods_stand_ramen_f_3: -4823541920660778388
+      69864_deco_goods_stand_ramen_b_1: -8476033303129249564
+      69864_deco_goods_stand_ramen_b_2: -2137616405367635706
+      69864_deco_goods_stand_ramen_b_3: 5830799082291120074
+      69864_deco_goods_stand_ramen_f_1: 1027196945549452189
+      69864_deco_goods_stand_ramen_f_2: 599355265254481158
+      69864_deco_goods_stand_ramen_f_3: 7462570871770111503
+      69865_deco_goods_stand_tissue_b_1: -8981792274548778053
+      69865_deco_goods_stand_tissue_f_1: 6026268961877111056
+      69866_deco_goods_stand_tissue_b_1: -2437083343018721789
+      69866_deco_goods_stand_tissue_f_1: -641359301837372372
+      69867_deco_goods_stand_ice_b_1: 7294057756914772153
+      69867_deco_goods_stand_ice_b_2: -2397483520704482836
+      69867_deco_goods_stand_ice_f_1: -3221534736978259025
+      69867_deco_goods_stand_ice_f_2: 4984935422774255607
+      69868_deco_goods_stand_ice_b_1: -2547823382050933900
+      69868_deco_goods_stand_ice_b_2: 9011348009251931745
+      69868_deco_goods_stand_ice_f_1: -5283791424466606361
+      69868_deco_goods_stand_ice_f_2: -692655755999845566
+      69869_deco_goods_stand_drink_b_1: 55879757341386549
+      69869_deco_goods_stand_drink_f_1: -2666874672345049804
+      69869_deco_goods_stand_drink_f_2: -5042754863570543771
+      69869_deco_goods_stand_drink_f_3: 61225015049299572
+      69870_deco_goods_stand_drink_b_1: -2518936227855362533
+      69870_deco_goods_stand_drink_f_1: -1153803205179152870
+      69870_deco_goods_stand_drink_f_2: -4261157678089798655
+      69870_deco_goods_stand_drink_f_3: -1295897419495318852
+      69871_deco_goods_stand_fresh_b_1: 3093472733403579889
+      69871_deco_goods_stand_fresh_f_1: 6981562121172483603
+      69871_deco_goods_stand_fresh_f_2: 3704821635486986019
+      69871_deco_goods_stand_fresh_f_3: -5842751155433293849
+      69872_deco_goods_stand_fresh_b_1: 4187959009748495758
+      69872_deco_goods_stand_fresh_f_1: -285233488296303964
+      69872_deco_goods_stand_fresh_f_2: -8962670841679916006
+      69872_deco_goods_stand_fresh_f_3: -428707742848204587
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

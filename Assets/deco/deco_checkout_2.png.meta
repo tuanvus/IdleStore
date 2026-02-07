@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,427 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 90043_doeco_checkout_1_b
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 238
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d97b2c15d192f880800000000000000
+      internalID: -8578633995700700713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90043_doeco_checkout_1_f
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f609c33c9b62f5b0800000000000000
+      internalID: -5336084289852733706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90043_doeco_checkout_2_b
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 240
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c348aac7bd5fddd40800000000000000
+      internalID: 5610911033811698748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90043_doeco_checkout_2_f
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7cabbe86edcf370800000000000000
+      internalID: 8357799550705649612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90054_deco_checkout_b
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 286
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52526c93e2e269070800000000000000
+      internalID: 8112722554827187493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90054_deco_checkout_f
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 288
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40e6c450d81ae900800000000000000
+      internalID: 714410773946228813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90055_deco_checkout_1_b
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a69c205f70e51e0800000000000000
+      internalID: -2207318018469828004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90055_deco_checkout_1_f
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 62
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1c9fbcfe1e74500800000000000000
+      internalID: 380521113571672521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90055_deco_checkout_2_b_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 250
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc36b7562937eb5c0800000000000000
+      internalID: -4197790730057718836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90055_deco_checkout_2_b_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 184
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9a3432baac3a5b0800000000000000
+      internalID: -5358216295260902953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90055_deco_checkout_2_f_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 184
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba705b364624a7270800000000000000
+      internalID: 8248978666419455915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90055_deco_checkout_2_f_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 188
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c12890faa0970300800000000000000
+      internalID: 218302170806100424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90058_deco_checkout_b_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124740abee6871690800000000000000
+      internalID: -7631482683674823647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90058_deco_checkout_b_2_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 316
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34be6a0524064e60800000000000000
+      internalID: 7946043149677147197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90058_deco_checkout_b_2_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 316
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac320a35ee91e6730800000000000000
+      internalID: 3994158430920123338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90058_deco_checkout_f_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e969733f6a97290800000000000000
+      internalID: -7892093308450202009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90058_deco_checkout_f_2_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 304
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f6dc55587c4a70800000000000000
+      internalID: 8812550878882362539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90058_deco_checkout_f_2_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51e6a35925e55930800000000000000
+      internalID: 4131460198842163549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90059_deco_checkout_b_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3244d8714de7720800000000000000
+      internalID: 2845945212164121528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 90059_deco_checkout_f_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d782d382418dd920800000000000000
+      internalID: 3016709448087537621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +558,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      90043_doeco_checkout_1_b: -8578633995700700713
+      90043_doeco_checkout_1_f: -5336084289852733706
+      90043_doeco_checkout_2_b: 5610911033811698748
+      90043_doeco_checkout_2_f: 8357799550705649612
+      90054_deco_checkout_b: 8112722554827187493
+      90054_deco_checkout_f: 714410773946228813
+      90055_deco_checkout_1_b: -2207318018469828004
+      90055_deco_checkout_1_f: 380521113571672521
+      90055_deco_checkout_2_b_1: -4197790730057718836
+      90055_deco_checkout_2_b_2: -5358216295260902953
+      90055_deco_checkout_2_f_1: 8248978666419455915
+      90055_deco_checkout_2_f_2: 218302170806100424
+      90058_deco_checkout_b_1: -7631482683674823647
+      90058_deco_checkout_b_2_1: 7946043149677147197
+      90058_deco_checkout_b_2_2: 3994158430920123338
+      90058_deco_checkout_f_1: -7892093308450202009
+      90058_deco_checkout_f_2_1: 8812550878882362539
+      90058_deco_checkout_f_2_2: 4131460198842163549
+      90059_deco_checkout_b_1: 2845945212164121528
+      90059_deco_checkout_f_1: 3016709448087537621
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,1918 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 31000_deco_walldeco_b_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 904
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe4fbb6b41e2aa60800000000000000
+      internalID: 7683951628293983995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31000_deco_walldeco_b_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 904
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0218a5059cefa2cd0800000000000000
+      internalID: -2581971295753567968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31000_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 904
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8343e182618441e70800000000000000
+      internalID: 9084965608312681528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31001_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 488
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bb265e8a5856a90800000000000000
+      internalID: -7321298658771420357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31001_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 518
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df43201f7f25de50800000000000000
+      internalID: 6833420232382697429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31002_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 668
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43de0be19a4ab3290800000000000000
+      internalID: -7909547274274804428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31002_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 668
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25021d4da4f8f270800000000000000
+      internalID: 8284640539707573551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31003_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 560
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8879628451ca3210800000000000000
+      internalID: 1313574810041284751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31003_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 678
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1502c6bd2255550800000000000000
+      internalID: 6148859192051519963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31004_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 782
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6e27fbc3d069d0800000000000000
+      internalID: -2782991696736129980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31004_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 782
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012f694c22bf227c0800000000000000
+      internalID: -4097436584208043504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31005_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 580
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca97e7f4328e2c020800000000000000
+      internalID: 2360704393050749356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31005_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 560
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e96bea132a75cd20800000000000000
+      internalID: 3298176593312836064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31006_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 478
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2924d219b1f817300800000000000000
+      internalID: 248136803044639378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31006_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 436
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b05f76d3a5b0bc70800000000000000
+      internalID: 8984880971887104176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31007_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 576
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0158ed9f19c60f0800000000000000
+      internalID: -1122361704755949347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31007_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 610
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb4eb09763fcefc0800000000000000
+      internalID: -3464126387219182627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31008_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 664
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deacbb357374cc980800000000000000
+      internalID: -8517354492310861075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31008_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 706
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab227f9f2e307e10800000000000000
+      internalID: 2193321392788876200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31009_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 556
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c14b7f0f80673c80800000000000000
+      internalID: -8343093617124228669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31009_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 566
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fac5a8ca5784170800000000000000
+      internalID: 8162903708525178684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31010_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 852
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32db83761d265e690800000000000000
+      internalID: -7573538546834162397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31010_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 852
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e7e766661b984c0800000000000000
+      internalID: -4284698517101969795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31011_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 800
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af88bb5c1e3ce4d0800000000000000
+      internalID: -3104037751646285917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31011_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 740
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1b2e4c10762d00800000000000000
+      internalID: 947568038480912030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31012_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 470
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b49a52b62c5d3a0800000000000000
+      internalID: -6641188310038787309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31012_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 422
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f43ee2d589641a00800000000000000
+      internalID: 726321463403885811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31013_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 538
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0c14ba01c4f3a30800000000000000
+      internalID: 4197157012208992485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31013_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 542
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad38437a0a3c89b0800000000000000
+      internalID: -5076618863395193425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31014_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 568
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c757cc56ae5226c60800000000000000
+      internalID: 7809846392474334588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31014_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 608
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ac7d21e64f2f9e0800000000000000
+      internalID: -1588938964908651990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31015_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 574
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6729596a1e1033220800000000000000
+      internalID: 2464315489775882870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31015_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 742
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d755452ead8850800000000000000
+      internalID: 6380947722154268503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31016_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 720
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d83e819b0c7f6f0800000000000000
+      internalID: -650839719912698487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31016_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 610
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc9531ac8a3a9880800000000000000
+      internalID: -8603499762463433529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31017_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 382
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d82fbf0c858122b0800000000000000
+      internalID: -5611056824120825641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31017_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 454
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20d078d02f12e2b0800000000000000
+      internalID: -5556844764291084242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31018_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 574
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8d5fe94c49b24c0800000000000000
+      internalID: -4311188646075705139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31018_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 622
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af9f7764f86f530800000000000000
+      internalID: 3888452861104355901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31019_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 614
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1933d7ba70ca19a0800000000000000
+      internalID: -6261480698602637025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31019_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 630
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4f584e159cb5ec0800000000000000
+      internalID: -3577044125452208927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31020_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 480
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f90d852b652c0a10800000000000000
+      internalID: 1876916286828382705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31020_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 520
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a8ca3c712d8dfa0800000000000000
+      internalID: -5775635522593715654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31021_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 358
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfec29c7b9cbed50800000000000000
+      internalID: 6767724656245665740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31021_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 390
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f091e1c4a4b1316d0800000000000000
+      internalID: -3021040919116900081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31022_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 488
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fff07a3dce85cff0800000000000000
+      internalID: -16450011526004747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31022_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 488
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7442f0f3514de8260800000000000000
+      internalID: 7101846850127209543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31023_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 400
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29bad13c7d8d9ed0800000000000000
+      internalID: -2405611061394097878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31023_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 412
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d0a1846b3c9ac90800000000000000
+      internalID: -7157974945067561700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31024_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 854
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5736e27c4545a00800000000000000
+      internalID: 744313052876469740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31024_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 854
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640b86a093cec2330800000000000000
+      internalID: 3687581924641517638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31025_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 628
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88038e45c45fc1610800000000000000
+      internalID: 1593418076373135496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31025_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 520
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a32403a8e409130800000000000000
+      internalID: 3571440859926903346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31026_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 462
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e00671cb1b29d10800000000000000
+      internalID: 2130960995103805054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31026_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 462
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6d06882503c120800000000000000
+      internalID: 2432793895316057156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31027_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 638
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950edea75339e8a50800000000000000
+      internalID: 6525314768011386969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31027_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 668
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fc76e161f8d4ec0800000000000000
+      internalID: -3581048803527503999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31028_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 816
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464f66f87034f0570800000000000000
+      internalID: 8435034326837949540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31028_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 920
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb70a0ce55117770800000000000000
+      internalID: 8606683859584580605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31029_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 522
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246c1661b6d850080800000000000000
+      internalID: -9221809170894698942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31029_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 488
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c010a668c6f9340800000000000000
+      internalID: 4872732646398037048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31030_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 442
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0b3c8ca2507acf0800000000000000
+      internalID: -241218373725998879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31030_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 490
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6463c54082d68f40800000000000000
+      internalID: 5730499024243614826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31031_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 390
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4a3e2eabdfe8380800000000000000
+      internalID: -8966950828935764821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31031_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 408
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576de4c0d80412cd0800000000000000
+      internalID: -2584713736592894347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31032_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 424
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379a4b808fcf98be0800000000000000
+      internalID: -1474369260758980237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31032_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 456
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b60362d1321fd90800000000000000
+      internalID: -7065827732265866457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31033_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 334
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c221a3fe8e362600800000000000000
+      internalID: 443110397036274373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31033_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 362
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2181d7aac45a08fe0800000000000000
+      internalID: -1188768552929388526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31034_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 704
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b82991840098e3d0800000000000000
+      internalID: -3177131188081317706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31034_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 722
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7baad95a247dc260800000000000000
+      internalID: 7119474311187573626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31035_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 480
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5494cfe18978e70800000000000000
+      internalID: 9117423229483959768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31035_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 734
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7d3bda0b64f28a0800000000000000
+      internalID: -6327761226789824580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31036_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 474
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa3d7490911e150800000000000000
+      internalID: 5900024514482515817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31036_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 442
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cfb0c04eb1034c0800000000000000
+      internalID: -4309914177124959112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31037_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 598
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb58a91bd9850fe0800000000000000
+      internalID: -1223420149639914548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31037_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 644
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd423f79285c7560800000000000000
+      internalID: 7312816830193749467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31038_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 528
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5d2edd4be89b5d0800000000000000
+      internalID: -3046246765471541827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31038_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 538
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054cefb4f6485df90800000000000000
+      internalID: -6929486838088416176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31039_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 800
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38d0b992e8770c90800000000000000
+      internalID: -7203656164319373249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31039_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 690
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeba13cdc5a2ab50800000000000000
+      internalID: 6603022306838757118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31040_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 454
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976b672b4860f35d0800000000000000
+      internalID: -3080736453098555783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31040_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 454
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2a514ecb5888ba0800000000000000
+      internalID: -6086467850064256340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31041_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 670
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ecb58f364b18380800000000000000
+      internalID: -8970690641283789194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31041_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 686
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5a61491e4a0ee80800000000000000
+      internalID: -8151334036781488723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31042_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 734
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adfd05c3e3e37f50800000000000000
+      internalID: 6878091623327989156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31042_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 734
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d769de1736100100800000000000000
+      internalID: 72082020034504657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31043_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 780
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c2d5bd358dcd680800000000000000
+      internalID: -8728864123076662245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31043_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 748
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b29764037427ac0800000000000000
+      internalID: -3858943658036745320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31044_deco_walldeco_b
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 538
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac51fe1d75bdb340800000000000000
+      internalID: 4881257120134159520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31044_deco_walldeco_f
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 518
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522f72e03bb23b080800000000000000
+      internalID: -9172939967986929115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +2049,98 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      31000_deco_walldeco_b_1: 7683951628293983995
+      31000_deco_walldeco_b_2: -2581971295753567968
+      31000_deco_walldeco_f: 9084965608312681528
+      31001_deco_walldeco_b: -7321298658771420357
+      31001_deco_walldeco_f: 6833420232382697429
+      31002_deco_walldeco_b: -7909547274274804428
+      31002_deco_walldeco_f: 8284640539707573551
+      31003_deco_walldeco_b: 1313574810041284751
+      31003_deco_walldeco_f: 6148859192051519963
+      31004_deco_walldeco_b: -2782991696736129980
+      31004_deco_walldeco_f: -4097436584208043504
+      31005_deco_walldeco_b: 2360704393050749356
+      31005_deco_walldeco_f: 3298176593312836064
+      31006_deco_walldeco_b: 248136803044639378
+      31006_deco_walldeco_f: 8984880971887104176
+      31007_deco_walldeco_b: -1122361704755949347
+      31007_deco_walldeco_f: -3464126387219182627
+      31008_deco_walldeco_b: -8517354492310861075
+      31008_deco_walldeco_f: 2193321392788876200
+      31009_deco_walldeco_b: -8343093617124228669
+      31009_deco_walldeco_f: 8162903708525178684
+      31010_deco_walldeco_b: -7573538546834162397
+      31010_deco_walldeco_f: -4284698517101969795
+      31011_deco_walldeco_b: -3104037751646285917
+      31011_deco_walldeco_f: 947568038480912030
+      31012_deco_walldeco_b: -6641188310038787309
+      31012_deco_walldeco_f: 726321463403885811
+      31013_deco_walldeco_b: 4197157012208992485
+      31013_deco_walldeco_f: -5076618863395193425
+      31014_deco_walldeco_b: 7809846392474334588
+      31014_deco_walldeco_f: -1588938964908651990
+      31015_deco_walldeco_b: 2464315489775882870
+      31015_deco_walldeco_f: 6380947722154268503
+      31016_deco_walldeco_b: -650839719912698487
+      31016_deco_walldeco_f: -8603499762463433529
+      31017_deco_walldeco_b: -5611056824120825641
+      31017_deco_walldeco_f: -5556844764291084242
+      31018_deco_walldeco_b: -4311188646075705139
+      31018_deco_walldeco_f: 3888452861104355901
+      31019_deco_walldeco_b: -6261480698602637025
+      31019_deco_walldeco_f: -3577044125452208927
+      31020_deco_walldeco_b: 1876916286828382705
+      31020_deco_walldeco_f: -5775635522593715654
+      31021_deco_walldeco_b: 6767724656245665740
+      31021_deco_walldeco_f: -3021040919116900081
+      31022_deco_walldeco_b: -16450011526004747
+      31022_deco_walldeco_f: 7101846850127209543
+      31023_deco_walldeco_b: -2405611061394097878
+      31023_deco_walldeco_f: -7157974945067561700
+      31024_deco_walldeco_b: 744313052876469740
+      31024_deco_walldeco_f: 3687581924641517638
+      31025_deco_walldeco_b: 1593418076373135496
+      31025_deco_walldeco_f: 3571440859926903346
+      31026_deco_walldeco_b: 2130960995103805054
+      31026_deco_walldeco_f: 2432793895316057156
+      31027_deco_walldeco_b: 6525314768011386969
+      31027_deco_walldeco_f: -3581048803527503999
+      31028_deco_walldeco_b: 8435034326837949540
+      31028_deco_walldeco_f: 8606683859584580605
+      31029_deco_walldeco_b: -9221809170894698942
+      31029_deco_walldeco_f: 4872732646398037048
+      31030_deco_walldeco_b: -241218373725998879
+      31030_deco_walldeco_f: 5730499024243614826
+      31031_deco_walldeco_b: -8966950828935764821
+      31031_deco_walldeco_f: -2584713736592894347
+      31032_deco_walldeco_b: -1474369260758980237
+      31032_deco_walldeco_f: -7065827732265866457
+      31033_deco_walldeco_b: 443110397036274373
+      31033_deco_walldeco_f: -1188768552929388526
+      31034_deco_walldeco_b: -3177131188081317706
+      31034_deco_walldeco_f: 7119474311187573626
+      31035_deco_walldeco_b: 9117423229483959768
+      31035_deco_walldeco_f: -6327761226789824580
+      31036_deco_walldeco_b: 5900024514482515817
+      31036_deco_walldeco_f: -4309914177124959112
+      31037_deco_walldeco_b: -1223420149639914548
+      31037_deco_walldeco_f: 7312816830193749467
+      31038_deco_walldeco_b: -3046246765471541827
+      31038_deco_walldeco_f: -6929486838088416176
+      31039_deco_walldeco_b: -7203656164319373249
+      31039_deco_walldeco_f: 6603022306838757118
+      31040_deco_walldeco_b: -3080736453098555783
+      31040_deco_walldeco_f: -6086467850064256340
+      31041_deco_walldeco_b: -8970690641283789194
+      31041_deco_walldeco_f: -8151334036781488723
+      31042_deco_walldeco_b: 6878091623327989156
+      31042_deco_walldeco_f: 72082020034504657
+      31043_deco_walldeco_b: -8728864123076662245
+      31043_deco_walldeco_f: -3858943658036745320
+      31044_deco_walldeco_b: 4881257120134159520
+      31044_deco_walldeco_f: -9172939967986929115
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

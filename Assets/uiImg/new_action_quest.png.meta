@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,1729 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: action_quest_arrow_key
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 0
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f72a59ed470d4b0800000000000000
+      internalID: -5417701852384690314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_arrow_key2
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec3e207f4770ab40800000000000000
+      internalID: 5449486732186500335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_arrow_key_bg
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 305
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9aeb589378bf7b0800000000000000
+      internalID: -5189405464487614003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_barricade
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 102
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb88e5d2a3357ef0800000000000000
+      internalID: -111125841334203448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_bg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1282
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62ac57793ee06e10800000000000000
+      internalID: 2189011349485167214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_bullet_1
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 186
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88573b9b7e1777910800000000000000
+      internalID: 1835060613243696520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_bullet_2
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 243
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0cad3f665d63ea0800000000000000
+      internalID: -5893288424213135160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_explan_theif
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 381
+        width: 1549
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a19a8351b58e130800000000000000
+      internalID: 3596224449158388328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_explan_ufo
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 632
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c31eae57706da80800000000000000
+      internalID: -8442552248426218459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_explan_zombie
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1549
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b44e531165b4510800000000000000
+      internalID: 1534414729968372581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_grab_btn
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29f7ca1480743d70800000000000000
+      internalID: 9021959666217253162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_gray_btn
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1401
+        width: 259
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee35d861bbb0becb0800000000000000
+      internalID: -4833756876886944786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_green_btn
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1339
+        width: 259
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7e2d8dd97cfac30800000000000000
+      internalID: 4372933243961534458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_guest_icon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2bdca11cc0a3400800000000000000
+      internalID: 304569948318839466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_guest_icon_white
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 150
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f43310da86bcb4b0800000000000000
+      internalID: -5423259143948258057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_gunshot_btn
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5046176b6f0d36310800000000000000
+      internalID: 1397190067456402437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_icon_coin_white
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f607a44edf3ec8f0800000000000000
+      internalID: -518406683233941776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_icon_ufo
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202698cd0a6375000800000000000000
+      internalID: 24548387496485378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_icon_ufo_white
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 203
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ac425c3ea7de180800000000000000
+      internalID: -9084469754652734895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_lock_icon
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 5
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d060fd36607e66a90800000000000000
+      internalID: -7320910129612782067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_bar1
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 356
+        width: 24
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d0a4230f44cf7b0800000000000000
+      internalID: -5189196872211100325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_bar2
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1309
+        width: 248
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2c9bb873d0cd000800000000000000
+      internalID: 61939027094913764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_bar3
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 2008
+        width: 272
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561d83a6cffbce00800000000000000
+      internalID: 1066226965415794269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_bg
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 368
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff4f3d6607b44d30800000000000000
+      internalID: 4414854772960481279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_bg_2
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 861
+        width: 206
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fcd32fe8ac5b470800000000000000
+      internalID: 8409850594482573133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_box
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 0
+        width: 546
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dc919eff78eb260800000000000000
+      internalID: 7115273994489154897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_box_line
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1778
+        width: 4
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2715f46600fe0de40800000000000000
+      internalID: 5679301915109708146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_box_lock
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 321
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dfdb3d8fe9d5b10800000000000000
+      internalID: 1971907003399666984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_img_1
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1463
+        width: 259
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566ba5861451e6800800000000000000
+      internalID: 607446370409428581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_img_2
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1779
+        width: 271
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d98387329eabea0800000000000000
+      internalID: -5856112026891805406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_img_3
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 638
+        width: 189
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65568d37749c74700800000000000000
+      internalID: 524609190335374678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_mission_ruby
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b787000df9add58c0800000000000000
+      internalID: -4008807713365526405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_elite_theif_icon
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c54fb0ef31beec20800000000000000
+      internalID: 3237720070037652928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_elite_theif_icon_white
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c00323d1a934770800000000000000
+      internalID: 8593881964139777143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_fail_icon
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14d2b676454dcd10800000000000000
+      internalID: 2147448766267053082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_goods_icon
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54e5e85e90ae8920800000000000000
+      internalID: 2994507404204696668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_goods_icon_white
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39e2bab59dc387f0800000000000000
+      internalID: -611419081426147010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_guest_icon
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 240
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5016dfd8dc25a05b0800000000000000
+      internalID: -5401413760273522427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_guest_icon2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d60d32151f170190800000000000000
+      internalID: -7996388438012262700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_reward_bg_1
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 28
+        width: 244
+        height: 1279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880fa6730e1612610800000000000000
+      internalID: 1594663358696190088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_reward_bg_2
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 799
+        width: 198
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f35d08d85fa6bf0800000000000000
+      internalID: -330181634557657225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_star_bg
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 128
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c3298f30f4ca760800000000000000
+      internalID: 7470432760374639625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_success_icon
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1718
+        width: 266
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d7624ebd78a220800000000000000
+      internalID: 2497384249488298173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_target_icon
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5132d3e5d449dd80800000000000000
+      internalID: -8225467558974574244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_theif_icon
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd7cf5dc20f3ab10800000000000000
+      internalID: 1991699535587212792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_theif_icon_white
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 195
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bfce1326fd22cb0800000000000000
+      internalID: -4890100632533533929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_timer_icon
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 0
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ef26872529abf90800000000000000
+      internalID: -6937071393106100612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_ufo_icon
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745d7c6f0d7882b80800000000000000
+      internalID: -8419330171805903545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_result_zombie_icon
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033543549c300af20800000000000000
+      internalID: 3431747079040684848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_target_big_icon
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c207f0c4172db670800000000000000
+      internalID: 8556037837164053186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_target_icon_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bdcb3c484a34900800000000000000
+      internalID: 667558059907537789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_target_icon_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34db52ef50be94580800000000000000
+      internalID: -8842277982394008253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_theif_icon
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27df95fe36ebb3b0800000000000000
+      internalID: -5495545762192304340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_txt
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 361
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7f66800298e6410800000000000000
+      internalID: 1472264898869655481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_zombie_bar1
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1690
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec945a8047ebccb0800000000000000
+      internalID: -4842522709922112285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_zombie_bar2
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1734
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f945fe1b8277a40800000000000000
+      internalID: 5365802225724858121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_quest_zombie_icon
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9cc4c4dfbf0e50800000000000000
+      internalID: 6777846884771601546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_0
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 113
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec1de84051559130800000000000000
+      internalID: 3572851284651089129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_1
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 762
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea400c468a09766a0800000000000000
+      internalID: -6456032487893105490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_2
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 248
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e56b75111fffa590800000000000000
+      internalID: -7660623992293988890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_3
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 284
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe5332093ff46570800000000000000
+      internalID: 8459166620423773939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_4
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 77
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bbd1d20ca18df90800000000000000
+      internalID: -6928758614016541837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_5
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 320
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e21c5a2fdcc8690800000000000000
+      internalID: -7598472029234188720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_6
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1303
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aa669d51e923730800000000000000
+      internalID: 3977415237600455238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_7
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 602
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc59e475dc3c4ce0800000000000000
+      internalID: -1419692895041397520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_8
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 5
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a30e7f847ee0f00800000000000000
+      internalID: 1085058860825197209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_9
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 41
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137ddfcaaa7314f0800000000000000
+      internalID: -859208229847207146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combo_txt
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 252
+        width: 154
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5d4de7d4c2091e0800000000000000
+      internalID: -2193204307177449995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_stamp_2
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70fa22c661f99bd0800000000000000
+      internalID: -2622799884320051075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_action_quest_bar1
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 295
+        width: 32
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25bfc30df9b4470800000000000000
+      internalID: 8379967248378057464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_action_quest_bar2
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 799
+        width: 32
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20e3315117b48b0800000000000000
+      internalID: -5166911812146429186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_action_quest_btn_gray
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ada97700bab8b40800000000000000
+      internalID: 5443632593102363292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_action_quest_btn_green
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 12
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a5df4944b5c380800000000000000
+      internalID: -8951550457363978771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_action_quest_btn_red
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 70
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d0b8754f8c4c730800000000000000
+      internalID: 4018557719287631131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_action_quest_icon
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f3523beb891bd0800000000000000
+      internalID: -2658940262707629160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_action_quest_box1
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 0
+        width: 472
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f416220f40036a50800000000000000
+      internalID: 6513049825446335733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_action_quest_comming_soon
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 489
+        width: 184
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bbdc0e7c1c3eec0800000000000000
+      internalID: -3538771817968845962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_bg_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 556
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89defe20e0e0a2c00800000000000000
+      internalID: 876528530818592152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_double_ad_icon
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113bd71964a46f390800000000000000
+      internalID: -7784953238914223343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_double_box_icon
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 0
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f1f5e6eb9fa070800000000000000
+      internalID: 8119880069174915992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_double_btn
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 572
+        width: 186
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37838a8ae28db7360800000000000000
+      internalID: 7168560926799968371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_bg_bottom
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1015
+        width: 1764
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533f3b5a89e25fd70800000000000000
+      internalID: 9076211857185043253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +1860,89 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      action_quest_arrow_key: -5417701852384690314
+      action_quest_arrow_key2: 5449486732186500335
+      action_quest_arrow_key_bg: -5189405464487614003
+      action_quest_barricade: -111125841334203448
+      action_quest_bg: 2189011349485167214
+      action_quest_bullet_1: 1835060613243696520
+      action_quest_bullet_2: -5893288424213135160
+      action_quest_explan_theif: 3596224449158388328
+      action_quest_explan_ufo: -8442552248426218459
+      action_quest_explan_zombie: 1534414729968372581
+      action_quest_grab_btn: 9021959666217253162
+      action_quest_gray_btn: -4833756876886944786
+      action_quest_green_btn: 4372933243961534458
+      action_quest_guest_icon: 304569948318839466
+      action_quest_guest_icon_white: -5423259143948258057
+      action_quest_gunshot_btn: 1397190067456402437
+      action_quest_icon_coin_white: -518406683233941776
+      action_quest_icon_ufo: 24548387496485378
+      action_quest_icon_ufo_white: -9084469754652734895
+      action_quest_lock_icon: -7320910129612782067
+      action_quest_mission_bar1: -5189196872211100325
+      action_quest_mission_bar2: 61939027094913764
+      action_quest_mission_bar3: 1066226965415794269
+      action_quest_mission_bg: 4414854772960481279
+      action_quest_mission_bg_2: 8409850594482573133
+      action_quest_mission_box: 7115273994489154897
+      action_quest_mission_box_line: 5679301915109708146
+      action_quest_mission_box_lock: 1971907003399666984
+      action_quest_mission_img_1: 607446370409428581
+      action_quest_mission_img_2: -5856112026891805406
+      action_quest_mission_img_3: 524609190335374678
+      action_quest_mission_ruby: -4008807713365526405
+      action_quest_result_elite_theif_icon: 3237720070037652928
+      action_quest_result_elite_theif_icon_white: 8593881964139777143
+      action_quest_result_fail_icon: 2147448766267053082
+      action_quest_result_goods_icon: 2994507404204696668
+      action_quest_result_goods_icon_white: -611419081426147010
+      action_quest_result_guest_icon: -5401413760273522427
+      action_quest_result_guest_icon2: -7996388438012262700
+      action_quest_result_reward_bg_1: 1594663358696190088
+      action_quest_result_reward_bg_2: -330181634557657225
+      action_quest_result_star_bg: 7470432760374639625
+      action_quest_result_success_icon: 2497384249488298173
+      action_quest_result_target_icon: -8225467558974574244
+      action_quest_result_theif_icon: 1991699535587212792
+      action_quest_result_theif_icon_white: -4890100632533533929
+      action_quest_result_timer_icon: -6937071393106100612
+      action_quest_result_ufo_icon: -8419330171805903545
+      action_quest_result_zombie_icon: 3431747079040684848
+      action_quest_target_big_icon: 8556037837164053186
+      action_quest_target_icon_2: 667558059907537789
+      action_quest_target_icon_3: -8842277982394008253
+      action_quest_theif_icon: -5495545762192304340
+      action_quest_txt: 1472264898869655481
+      action_quest_zombie_bar1: -4842522709922112285
+      action_quest_zombie_bar2: 5365802225724858121
+      action_quest_zombie_icon: 6777846884771601546
+      combo_0: 3572851284651089129
+      combo_1: -6456032487893105490
+      combo_2: -7660623992293988890
+      combo_3: 8459166620423773939
+      combo_4: -6928758614016541837
+      combo_5: -7598472029234188720
+      combo_6: 3977415237600455238
+      combo_7: -1419692895041397520
+      combo_8: 1085058860825197209
+      combo_9: -859208229847207146
+      combo_txt: -2193204307177449995
+      level_reward_stamp_2: -2622799884320051075
+      main_action_quest_bar1: 8379967248378057464
+      main_action_quest_bar2: -5166911812146429186
+      main_action_quest_btn_gray: 5443632593102363292
+      main_action_quest_btn_green: -8951550457363978771
+      main_action_quest_btn_red: 4018557719287631131
+      main_action_quest_icon: -2658940262707629160
+      popup_action_quest_box1: 6513049825446335733
+      popup_action_quest_comming_soon: -3538771817968845962
+      popup_bg_4: 876528530818592152
+      reward_double_ad_icon: -7784953238914223343
+      reward_double_box_icon: 8119880069174915992
+      reward_double_btn: 7168560926799968371
+      space_bg_bottom: 9076211857185043253
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

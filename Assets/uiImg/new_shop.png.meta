@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,1750 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ad_remove_30days
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 372
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e34483102db42770800000000000000
+      internalID: 8585194735139046377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ad_remove_3months
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 0
+        width: 267
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478123d514c2e29d0800000000000000
+      internalID: -2797249659302438796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ad_remove_icon
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 551
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b0672ab9f575ff0800000000000000
+      internalID: -47464149013886190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beginner_package
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 970
+        width: 228
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92da180e55a9aef0800000000000000
+      internalID: -96364093730270566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_gift_box_arrow
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1306
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43bfdf6148af3d80800000000000000
+      internalID: -8268705391825669298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_gift_box_button_orange_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 554
+        width: 212
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d510a27c4d2250800000000000000
+      internalID: 5921473140257839285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_full_package
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 746
+        width: 251
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a340af0dbd2b3b6d0800000000000000
+      internalID: -2975838271588137926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_goods_full_package
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1258
+        width: 242
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9db16f242947a330800000000000000
+      internalID: 3722024036807589277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_full_package
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 76
+        width: 222
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85089ec4ea7afe100800000000000000
+      internalID: 139514480528293976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fresh_package
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 0
+        width: 222
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c1c85147aba8440800000000000000
+      internalID: 4938964949105646734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_crown_vip
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1865
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580f748a9953047f0800000000000000
+      internalID: -630445013762314107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_king
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 145
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cdde9b7e22a7060800000000000000
+      internalID: 6951907353451945085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_prince
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 0
+        width: 145
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d521559bb2b5c45a0800000000000000
+      internalID: -6535748715870350755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_princess
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1789
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1160c1c40e616580800000000000000
+      internalID: -8835660027214667494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king_package
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 217
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ae05b37980687e0800000000000000
+      internalID: -1763712758440727974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_11,000
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1212
+        width: 35
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471da860fa6af9010800000000000000
+      internalID: 1197859296563089780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_12,000
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 547
+        width: 35
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5982281851211c8c0800000000000000
+      internalID: -3980880712042403691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_120,000
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1041
+        width: 183
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08989ab5caf8eedd0800000000000000
+      internalID: -2454866776435357312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_15,000
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 626
+        width: 159
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8682271fa9f4e700800000000000000
+      internalID: 568853983358256783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_2,400
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 0
+        width: 35
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4077b5f1eee3280800000000000000
+      internalID: -9061543581776935713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_25,000
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1135
+        width: 169
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe83949f6de6e7ab0800000000000000
+      internalID: -5008443866005030673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_4,900
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 0
+        width: 35
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b062d4fa548d1ac10800000000000000
+      internalID: 2063167898117809675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_45,000
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1172
+        width: 169
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e733caf7bea8bbc50800000000000000
+      internalID: 6682087216198202238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_4900
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 0
+        width: 35
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fcd1a7372464db0800000000000000
+      internalID: -4808082488433979494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_5,500
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 35
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac42348f975545a0800000000000000
+      internalID: -6537722941429101393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_8,900
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 146
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de77d71483b6fc490800000000000000
+      internalID: -7723836946556028947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kr_9,900
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 0
+        width: 35
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acd0bc5884b03810800000000000000
+      internalID: 1743091553556028584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: package_info_box_1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 623
+        width: 161
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92928b9f279c74a80800000000000000
+      internalID: -8482589877475989207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_package
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1568
+        width: 234
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc722a9f1d8b9d40800000000000000
+      internalID: 5592218529180056788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princess_package
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 218
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af9d354fdb1de60800000000000000
+      internalID: 7985372471381064350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_gold_box_1
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 310
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560ebad380ae68af0800000000000000
+      internalID: -394370596233027483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_gold_box_2
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 250
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6d3c1cb1e7a5400800000000000000
+      internalID: 313701781735724774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_gold_box_3
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 439
+        width: 574
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53059eac15cf909c0800000000000000
+      internalID: -3960356969068801995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_info_ui_pop_1
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 751
+        width: 615
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3701a2af3436bc00800000000000000
+      internalID: 915977022132520763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_payment_popup
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 43
+        width: 422
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835db75a043d15e00800000000000000
+      internalID: 1031838064252278072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_payment_popup_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1070
+        width: 615
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c13a866dde80480800000000000000
+      internalID: -8932628355755074510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_payment_popup_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 322
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0256e6a93a1f59ed0800000000000000
+      internalID: -2407752740786772704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_payment_popup_3
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1371
+        width: 87
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad89a9ca28c10a90800000000000000
+      internalID: -7349373030794424918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ruby_box_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 310
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71af4b02c70977cf0800000000000000
+      internalID: -254575991124067817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ruby_box_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 464
+        width: 252
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c1888007ff05de0800000000000000
+      internalID: -1346295431939220334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ruby_box_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 396
+        width: 575
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fd8a5ca43aa0dd0800000000000000
+      internalID: -2519021500021284976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_starter_popup_bg
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1363
+        width: 696
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebb1e59acd33b9c0800000000000000
+      internalID: -3912715710947542040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_starter_popup_deck_bg_1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 370
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9178759ef0eb640800000000000000
+      internalID: 5097529323100248489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_starter_popup_deck_bg_2
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1835
+        width: 191
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526c42a9d37021e70800000000000000
+      internalID: 9084331359520212517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_starter_popup_info_bg
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 146
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ab2ea789bff0c70800000000000000
+      internalID: 8939640417669003788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_starter_popup_package_icon
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1078
+        width: 184
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2540e6c9dd93ab660800000000000000
+      internalID: 7402292561511842898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_starter_popup_plus_icon
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1937
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c19d96a34fd8700800000000000000
+      internalID: 544359661702814796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_starter_popup_title_bg
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1912
+        width: 794
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb689399c563c9500800000000000000
+      internalID: 404257837892077243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_title_bg_long
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1981
+        width: 1011
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f9a58181e14b40800000000000000
+      internalID: 5422863372740325391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 50
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd8ffd487b13b480800000000000000
+      internalID: -8884727436353237578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_SALE
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1695
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbc3dc085b4a0320800000000000000
+      internalID: 2524913382638996410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_SALE_3
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 558
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d627babd9dbd7740800000000000000
+      internalID: 5151482033921795793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_bg_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1432
+        width: 810
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b601a308a800b6e20800000000000000
+      internalID: 3344767743109501035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_bg_character
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 663
+        width: 206
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5d2d593231c20e0800000000000000
+      internalID: -2293437066680019542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_bg_item
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 390
+        width: 202
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24c9763e518f5140800000000000000
+      internalID: 4710625976893686830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_button
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 61
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bcfb3eae3dfabd0800000000000000
+      internalID: -2616639852682163352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_button_2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 61
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f1772afecd3ad20800000000000000
+      internalID: 3288715074691604301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_button_3
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 822
+        width: 166
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598690a4596edd6b0800000000000000
+      internalID: -5269802460086966123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_button_4
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 889
+        width: 166
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131acd545ed89df80800000000000000
+      internalID: -8081272040480530127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_deco
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 337
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d37291bdfd36da0800000000000000
+      internalID: -5952668150340829818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_deco_2
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 0
+        width: 65
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9518832b5bdf298f0800000000000000
+      internalID: -535086448882712231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_gold_1
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1209
+        width: 83
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9c6ed72a53e4fc0800000000000000
+      internalID: -3508808087661786631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_gold_2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1670
+        width: 195
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbe854a2575f1df0800000000000000
+      internalID: -207351045379527737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_gold_3
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 882
+        width: 176
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93c7ed2480e5d510800000000000000
+      internalID: 1573410503146324892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_gold_4
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 925
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d9e8388cfd7d980800000000000000
+      internalID: -8514090518227018433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_gold_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 334
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61855d7944bd79460800000000000000
+      internalID: 7248503212927703062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_gold_6
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 956
+        width: 168
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2b6c4519790b9d0800000000000000
+      internalID: -2760539921129753862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_item_1
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1788
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486282ff7fb626c70800000000000000
+      internalID: 8962844921302623876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_item_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1109
+        width: 201
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb745faafb090d30800000000000000
+      internalID: 4398059682415279027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_jewel_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 146
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcebff44d89e16820800000000000000
+      internalID: 2909863627215322829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_jewel_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1295
+        width: 186
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d69f7bd1069b1d0800000000000000
+      internalID: -3334528368334246552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_jewel_3
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 648
+        width: 165
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b96e29ad0f0d00800000000000000
+      internalID: 940985867423036280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_jewel_4
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1468
+        width: 192
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b186fa0725e48220800000000000000
+      internalID: 2487364850065768880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_jewel_5
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 116
+        width: 261
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0e14c68e3718e30800000000000000
+      internalID: 4504008544433070262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_jewel_6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1287
+        width: 192
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ae2864cd8e7ca80800000000000000
+      internalID: -8446526543336641951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_pop
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 0
+        width: 548
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73650700ee6ccf3b0800000000000000
+      internalID: -5477284321277487561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_pop_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 708
+        width: 615
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce00edcdda6ffcf0800000000000000
+      internalID: -216336756216164665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_pop_2
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 127
+        width: 548
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4608b5034c8e6ca0800000000000000
+      internalID: -6021721432261130676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_pop_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 548
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b2605e9e5d59e0800000000000000
+      internalID: -1631043455991762270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_pop_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 562
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ccb5edef0269540800000000000000
+      internalID: 5014231514147966092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_rg
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1897
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798df390216040550800000000000000
+      internalID: 6126028067665074327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_ui_top
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1979
+        width: 838
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f2d9c15377a0bc0800000000000000
+      internalID: -3816106664246038654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuff_package
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 0
+        width: 212
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7659e1755252515b0800000000000000
+      internalID: -5398367736028031641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +1881,90 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ad_remove_30days: 8585194735139046377
+      ad_remove_3months: -2797249659302438796
+      ad_remove_icon: -47464149013886190
+      beginner_package: -96364093730270566
+      card_gift_box_arrow: -8268705391825669298
+      card_gift_box_button_orange_2: 5921473140257839285
+      character_full_package: -2975838271588137926
+      character_goods_full_package: 3722024036807589277
+      goods_full_package: 139514480528293976
+      ice_fresh_package: 4938964949105646734
+      icon_crown_vip: -630445013762314107
+      icon_king: 6951907353451945085
+      icon_prince: -6535748715870350755
+      icon_princess: -8835660027214667494
+      king_package: -1763712758440727974
+      kr_11,000: 1197859296563089780
+      kr_12,000: -3980880712042403691
+      kr_120,000: -2454866776435357312
+      kr_15,000: 568853983358256783
+      kr_2,400: -9061543581776935713
+      kr_25,000: -5008443866005030673
+      kr_4,900: 2063167898117809675
+      kr_45,000: 6682087216198202238
+      kr_4900: -4808082488433979494
+      kr_5,500: -6537722941429101393
+      kr_8,900: -7723836946556028947
+      kr_9,900: 1743091553556028584
+      package_info_box_1: -8482589877475989207
+      prince_package: 5592218529180056788
+      princess_package: 7985372471381064350
+      shop_gold_box_1: -394370596233027483
+      shop_gold_box_2: 313701781735724774
+      shop_gold_box_3: -3960356969068801995
+      shop_info_ui_pop_1: 915977022132520763
+      shop_payment_popup: 1031838064252278072
+      shop_payment_popup_1: -8932628355755074510
+      shop_payment_popup_2: -2407752740786772704
+      shop_payment_popup_3: -7349373030794424918
+      shop_ruby_box_1: -254575991124067817
+      shop_ruby_box_2: -1346295431939220334
+      shop_ruby_box_3: -2519021500021284976
+      shop_starter_popup_bg: -3912715710947542040
+      shop_starter_popup_deck_bg_1: 5097529323100248489
+      shop_starter_popup_deck_bg_2: 9084331359520212517
+      shop_starter_popup_info_bg: 8939640417669003788
+      shop_starter_popup_package_icon: 7402292561511842898
+      shop_starter_popup_plus_icon: 544359661702814796
+      shop_starter_popup_title_bg: 404257837892077243
+      shop_title_bg_long: 5422863372740325391
+      shop_ui: -8884727436353237578
+      shop_ui_SALE: 2524913382638996410
+      shop_ui_SALE_3: 5151482033921795793
+      shop_ui_bg_1: 3344767743109501035
+      shop_ui_bg_character: -2293437066680019542
+      shop_ui_bg_item: 4710625976893686830
+      shop_ui_button: -2616639852682163352
+      shop_ui_button_2: 3288715074691604301
+      shop_ui_button_3: -5269802460086966123
+      shop_ui_button_4: -8081272040480530127
+      shop_ui_deco: -5952668150340829818
+      shop_ui_deco_2: -535086448882712231
+      shop_ui_gold_1: -3508808087661786631
+      shop_ui_gold_2: -207351045379527737
+      shop_ui_gold_3: 1573410503146324892
+      shop_ui_gold_4: -8514090518227018433
+      shop_ui_gold_5: 7248503212927703062
+      shop_ui_gold_6: -2760539921129753862
+      shop_ui_item_1: 8962844921302623876
+      shop_ui_item_2: 4398059682415279027
+      shop_ui_jewel_1: 2909863627215322829
+      shop_ui_jewel_2: -3334528368334246552
+      shop_ui_jewel_3: 940985867423036280
+      shop_ui_jewel_4: 2487364850065768880
+      shop_ui_jewel_5: 4504008544433070262
+      shop_ui_jewel_6: -8446526543336641951
+      shop_ui_pop: -5477284321277487561
+      shop_ui_pop_1: -216336756216164665
+      shop_ui_pop_2: -6021721432261130676
+      shop_ui_pop_3: -1631043455991762270
+      shop_ui_pop_4: 5014231514147966092
+      shop_ui_rg: 6126028067665074327
+      shop_ui_top: -3816106664246038654
+      stuff_package: -5398367736028031641
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

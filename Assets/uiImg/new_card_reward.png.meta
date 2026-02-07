@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,868 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: bonus_rewards_icon
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1990
+        width: 434
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6c0737fbc788f00800000000000000
+      internalID: 1119281669118936776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_upgrade_chance_box
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1432
+        width: 408
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b54f21ad07b16c0800000000000000
+      internalID: -4171616547905447014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_upgrade_chance_button_blue
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 273
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9971a1860e1aacb20800000000000000
+      internalID: 3155512474117740441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_upgrade_chance_button_orange
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 273
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7696c682f757a86e0800000000000000
+      internalID: -1834524709200565913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edit_goods_display_tag
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1515
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534e82cbcba089000800000000000000
+      internalID: 42796002186945589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_ad_tag
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1538
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa5f6db64d13a1f0800000000000000
+      internalID: -1034951299701974356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_box1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 476
+        width: 366
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09c7bbf209851bb0800000000000000
+      internalID: -4965912368200038134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_box2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 597
+        width: 249
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f8646e75ebf3600800000000000000
+      internalID: 450287772495154975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_box3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 616
+        width: 186
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9918135c3a42276c0800000000000000
+      internalID: -4147212021048180327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_box_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 976
+        width: 190
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef097814175a3ad90800000000000000
+      internalID: -7087639482701737730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_box_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 814
+        width: 190
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a027d0c40443c0800000000000000
+      internalID: -4376367711607806237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_bronze
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 35
+        width: 166
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5f493ae7a864a60800000000000000
+      internalID: 7657960492905067948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_bronze_locked
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 919
+        width: 166
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0370c96be41b1a190800000000000000
+      internalID: -7952880515330341072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_btn_orange
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 868
+        width: 190
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288d808ad111f69c0800000000000000
+      internalID: -3931905130600277886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_btn_yellow
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 922
+        width: 190
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d548b65ee040b94a0800000000000000
+      internalID: -6585665568074136483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_complete_bg
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 667
+        width: 191
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fd4eb12fc8f9c70800000000000000
+      internalID: 8980051153478016778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_complete_bg2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1245
+        width: 190
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e30417fcafc67c60800000000000000
+      internalID: 7815662545134683109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_gold
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 166
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0bf07b7c4d7ea90800000000000000
+      internalID: -7284619918013648721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_gold_locked
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 429
+        width: 224
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b1105643cf83280800000000000000
+      internalID: -9063216948120052856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_loding_bg
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 790
+        width: 250
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a695fb05b94ffe3f0800000000000000
+      internalID: -869207255147390614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_open_tag
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 148
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dfefd7585ed8010800000000000000
+      internalID: 1192861837830323490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_platinum
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 261
+        width: 224
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc040cec9e30c000800000000000000
+      internalID: 54112039223954610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_platinum_locked
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 441
+        width: 166
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20e112da24f10a20800000000000000
+      internalID: 3026968889319874605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_silver
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 273
+        width: 224
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1e0ab9aa20a8820800000000000000
+      internalID: 2921150240081895920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_silver_locked
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 390
+        width: 166
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf57621ee962e640800000000000000
+      internalID: 5107761398623461302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_slot_txt
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1145
+        width: 154
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55b22128d902a2d0800000000000000
+      internalID: -3269039555644050084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_bar
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1582
+        width: 45
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73d6af0f89cd33a0800000000000000
+      internalID: -6683964655667850373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_bar_bg
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1345
+        width: 38
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc67753e83648b40800000000000000
+      internalID: 5441583712203926747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_icon
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1516
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769b33315226a4ca0800000000000000
+      internalID: -6031900839533889177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_reduction_box1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1642
+        width: 558
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7da2c43ea86bf90800000000000000
+      internalID: -6938205467077584955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_reduction_box2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1207
+        width: 300
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbbea48fb66420a0800000000000000
+      internalID: -6907282955728667701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_reduction_box3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1546
+        width: 483
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105e202b4dc3a9ab0800000000000000
+      internalID: -5000617552024247039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_reduction_box4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1784
+        width: 50
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61042fb61ee355880800000000000000
+      internalID: -8622916773631344618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_reduction_button
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 262
+        width: 72
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8621251bb12286730800000000000000
+      internalID: 3992478571998351976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_reduction_button2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1514
+        width: 72
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a570cc9cdb3be4c0800000000000000
+      internalID: -4257243204039969370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gift_card_time_reduction_card_icon
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 323
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7905014f39c63140800000000000000
+      internalID: 4699164534718663039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_random
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1308
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8c082753251ffc0800000000000000
+      internalID: -3462896248963413767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_card_reward_bg
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 983
+        width: 276
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedb0ce0de4b9b780800000000000000
+      internalID: -8666697077650047505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_gift_card_icon
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 405
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff09ea39921a2acb0800000000000000
+      internalID: -4854140248408551169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_double_btn_green
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 682
+        width: 186
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9fe43315392fe50800000000000000
+      internalID: 6841692760891652521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_double_btn_yellow
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 748
+        width: 186
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4f4a625e39c6610800000000000000
+      internalID: 1615828978724304039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +999,48 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bonus_rewards_icon: 1119281669118936776
+      card_upgrade_chance_box: -4171616547905447014
+      card_upgrade_chance_button_blue: 3155512474117740441
+      card_upgrade_chance_button_orange: -1834524709200565913
+      edit_goods_display_tag: 42796002186945589
+      gift_card_ad_tag: -1034951299701974356
+      gift_card_box1: -4965912368200038134
+      gift_card_box2: 450287772495154975
+      gift_card_box3: -4147212021048180327
+      gift_card_box_2: -7087639482701737730
+      gift_card_box_3: -4376367711607806237
+      gift_card_bronze: 7657960492905067948
+      gift_card_bronze_locked: -7952880515330341072
+      gift_card_btn_orange: -3931905130600277886
+      gift_card_btn_yellow: -6585665568074136483
+      gift_card_complete_bg: 8980051153478016778
+      gift_card_complete_bg2: 7815662545134683109
+      gift_card_gold: -7284619918013648721
+      gift_card_gold_locked: -9063216948120052856
+      gift_card_loding_bg: -869207255147390614
+      gift_card_open_tag: 1192861837830323490
+      gift_card_platinum: 54112039223954610
+      gift_card_platinum_locked: 3026968889319874605
+      gift_card_silver: 2921150240081895920
+      gift_card_silver_locked: 5107761398623461302
+      gift_card_slot_txt: -3269039555644050084
+      gift_card_time_bar: -6683964655667850373
+      gift_card_time_bar_bg: 5441583712203926747
+      gift_card_time_icon: -6031900839533889177
+      gift_card_time_reduction_box1: -6938205467077584955
+      gift_card_time_reduction_box2: -6907282955728667701
+      gift_card_time_reduction_box3: -5000617552024247039
+      gift_card_time_reduction_box4: -8622916773631344618
+      gift_card_time_reduction_button: 3992478571998351976
+      gift_card_time_reduction_button2: -4257243204039969370
+      gift_card_time_reduction_card_icon: 4699164534718663039
+      icon_random: -3462896248963413767
+      main_card_reward_bg: -8666697077650047505
+      main_gift_card_icon: -4854140248408551169
+      reward_double_btn_green: 6841692760891652521
+      reward_double_btn_yellow: 1615828978724304039
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,742 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: bg_round_level_reward
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 480
+        width: 34
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044d6710c4c5cced0800000000000000
+      internalID: -2392435820528741312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_airplane
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 491
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fbcbdfea8cf5670800000000000000
+      internalID: 8529756873169878910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bar_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 693
+        width: 22
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3363c8e0665fb87b0800000000000000
+      internalID: -5220809524326418893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bar_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 19
+        width: 150
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1401ee7727154fb0800000000000000
+      internalID: -4664296380672441313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bar_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8d891e4848a7c0800000000000000
+      internalID: -4059915563801146609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bar_4
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1488
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd08df5d747118e0800000000000000
+      internalID: -1724469100478460426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bar_level_icon
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1278
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becb1735028d291c0800000000000000
+      internalID: -4498295444439188245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1491
+        width: 997
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5705fcc113bd5120800000000000000
+      internalID: 2404274665120139099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bg_beijing
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 73
+        width: 257
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b930adadc18e1ea0800000000000000
+      internalID: -5900135741427533392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bg_line
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1556
+        width: 14
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbea06586bc01330800000000000000
+      internalID: 3679664544542288884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bg_newyork
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 43
+        width: 215
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b305406d7d759d980800000000000000
+      internalID: -8513677036047019973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bg_orange
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 845
+        width: 484
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95d5b12873f89cf0800000000000000
+      internalID: -245178482404502117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bg_seoul
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1230
+        width: 485
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f7fce10562c0ef0800000000000000
+      internalID: -140695362799173756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bg_tokyo
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 997
+        width: 485
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def14e28209ed4c60800000000000000
+      internalID: 7804149926298132461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bg_venice
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1230
+        width: 485
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722eaf06091adb100800000000000000
+      internalID: 125434006110659111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_bg_yellow
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 884
+        width: 484
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d727d16bb501d6410800000000000000
+      internalID: 1471850639303471741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_btn_gray
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 966
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79856bda11f0ffa80800000000000000
+      internalID: -8431003408811009897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_btn_gray2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 493
+        width: 52
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388efb23af862a300800000000000000
+      internalID: 261887152143460483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_btn_orange
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1070
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d5d382d60049920800000000000000
+      internalID: 2996020120934768011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_btn_red
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 669
+        width: 52
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d774b99fead2f19a0800000000000000
+      internalID: -6260234727486437507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_btn_yellow
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1174
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea44089f4b65e120800000000000000
+      internalID: 2442476362515368680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_btn_yellow2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1372
+        width: 46
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b7117aa10918cb0800000000000000
+      internalID: -4863447678436934834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_card_bg
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 589
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276cf383059c9eee0800000000000000
+      internalID: -1231231676730849678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_card_bg_black
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 717
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdc2a69c966deef0800000000000000
+      internalID: -77292795867247113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_card_bg_gold
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 573
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a02a7c65d6e8f30800000000000000
+      internalID: 4579718090566273557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_card_bg_silver
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 709
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c389206c2f74920800000000000000
+      internalID: 2974613011162479750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_card_lock
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1318
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd079d892f2e5280800000000000000
+      internalID: -9052746345452466699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_check
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 13
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7bf3b6bc94524d0800000000000000
+      internalID: -3160038425504008257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_gold
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28560c67d080a2d40800000000000000
+      internalID: 5560265543862216066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_gold_ticket
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 519
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843e2090c85e4e6a0800000000000000
+      internalID: -6420754779114118328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_ruby
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7868f149a6fdef0800000000000000
+      internalID: -81229083852765226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_silver_ticket
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 679
+        width: 116
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11069d515294a110800000000000000
+      internalID: 1271301872985440539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_stamp
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 489
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a410302c5738504a0800000000000000
+      internalID: -6627746734816427702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_top_left
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1036
+        width: 484
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b7584c8fc8a360800000000000000
+      internalID: 7181217807258335313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_reward_white_box
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 152
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4016636fb513ae890800000000000000
+      internalID: -7428070364351667964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +873,42 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_round_level_reward: -2392435820528741312
+      level_reward_airplane: 8529756873169878910
+      level_reward_bar_1: -5220809524326418893
+      level_reward_bar_2: -4664296380672441313
+      level_reward_bar_3: -4059915563801146609
+      level_reward_bar_4: -1724469100478460426
+      level_reward_bar_level_icon: -4498295444439188245
+      level_reward_bg: 2404274665120139099
+      level_reward_bg_beijing: -5900135741427533392
+      level_reward_bg_line: 3679664544542288884
+      level_reward_bg_newyork: -8513677036047019973
+      level_reward_bg_orange: -245178482404502117
+      level_reward_bg_seoul: -140695362799173756
+      level_reward_bg_tokyo: 7804149926298132461
+      level_reward_bg_venice: 125434006110659111
+      level_reward_bg_yellow: 1471850639303471741
+      level_reward_btn_gray: -8431003408811009897
+      level_reward_btn_gray2: 261887152143460483
+      level_reward_btn_orange: 2996020120934768011
+      level_reward_btn_red: -6260234727486437507
+      level_reward_btn_yellow: 2442476362515368680
+      level_reward_btn_yellow2: -4863447678436934834
+      level_reward_card_bg: -1231231676730849678
+      level_reward_card_bg_black: -77292795867247113
+      level_reward_card_bg_gold: 4579718090566273557
+      level_reward_card_bg_silver: 2974613011162479750
+      level_reward_card_lock: -9052746345452466699
+      level_reward_check: -3160038425504008257
+      level_reward_gold: 5560265543862216066
+      level_reward_gold_ticket: -6420754779114118328
+      level_reward_ruby: -81229083852765226
+      level_reward_silver_ticket: 1271301872985440539
+      level_reward_stamp: -6627746734816427702
+      level_reward_top_left: 7181217807258335313
+      level_reward_white_box: -7428070364351667964
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

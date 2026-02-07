@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,4018 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: damage_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 403
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c64ce784c9752500800000000000000
+      internalID: 370836429328893637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 390
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee1a90f9b95d040800000000000000
+      internalID: 4671811295830470272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 423
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2847230ed882d00800000000000000
+      internalID: 948163715620176575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 434
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1263c594eb6e4db0800000000000000
+      internalID: -4805785122848415202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 424
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a652485e4f69210800000000000000
+      internalID: 1339527205791033982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 439
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3cfde65fc231610800000000000000
+      internalID: 1590664526030685110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 400
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908d33214e7e587a0800000000000000
+      internalID: -6375434730729121783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 381
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75c4495e6079a680800000000000000
+      internalID: -8743333582316714630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 411
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78dc408fc43fa090800000000000000
+      internalID: -8021134345508169601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 428
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ec9c89285d4450800000000000000
+      internalID: 6074608407868662492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 447
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdf34d93ff9439c0800000000000000
+      internalID: -3948355104632734219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 402
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a106e61e0f5a0750800000000000000
+      internalID: 6271929945185190306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 398
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1350dda76424b1d0800000000000000
+      internalID: -3336001396258352357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 589
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1daa57ee17048830800000000000000
+      internalID: 4072387792361663775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b571c0432fe0fb0800000000000000
+      internalID: -4679536657436288120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 575
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1798ecdd563f97c30800000000000000
+      internalID: 4357781733296212337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 363
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f585cc13f1dfbf230800000000000000
+      internalID: 3673808231472060511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 451
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2627291c14ffa70800000000000000
+      internalID: 8862874891329889015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 386
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9c7128359c9e660800000000000000
+      internalID: 7415679621944297931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill2_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf0be382d294d120800000000000000
+      internalID: 2437734731168288691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 793
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5661bbc0becc63f80800000000000000
+      internalID: -8127083167640512923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 797
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6c374963a6222b0800000000000000
+      internalID: -5610805403098822978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 839
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cca6bf3a97e9700800000000000000
+      internalID: 549009949790489701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 864
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b4d2272fe2e3830800000000000000
+      internalID: 4052728333512559502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 828
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e6208903068610800000000000000
+      internalID: 1622988055053264633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 860
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3428dc4e99c24b0800000000000000
+      internalID: -5463823039927794784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 824
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c4f1da54168f40800000000000000
+      internalID: 5730289956177626000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 804
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faeba84688812f890800000000000000
+      internalID: -7425845861499093329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 828
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e328e3a5d16fb1f60800000000000000
+      internalID: 8006263368509719102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 864
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52025a8941fe1a20800000000000000
+      internalID: 3035128497049829979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_skill_bg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 923
+        width: 155
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95969da334d2e47c0800000000000000
+      internalID: -4085278045205075623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 402
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be0d2ed570690c0800000000000000
+      internalID: -4569456672102093928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 381
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ce0f7ffdbacb3a0800000000000000
+      internalID: -6648249971479876505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 416
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a6af4051bda4cf0800000000000000
+      internalID: -267160344550806939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 730
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e88f4a018501ff0800000000000000
+      internalID: -67457165900083595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 762
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df0aebf04b669180800000000000000
+      internalID: -9108975269461749802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 426
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03ae752f5f447a30800000000000000
+      internalID: 4212078821567800074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 447
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d20b61431e05e80800000000000000
+      internalID: -8191800108351738564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 406
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d6404b2b5501220800000000000000
+      internalID: 2454556022929648959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 367
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad82c19d394a3030800000000000000
+      internalID: 3475170591257038250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 374
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44768c85424e8ee0800000000000000
+      internalID: -1256994379511991222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 542
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2824f8d0362a230800000000000000
+      internalID: 3648587558012748484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 541
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00915dc8e02973b60800000000000000
+      internalID: 7725804276967348480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 607
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb7371221e719df0800000000000000
+      internalID: -175220294155011134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 611
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9ea1dbab009d710800000000000000
+      internalID: 1718405534855129512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 642
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814f39dbd777bcc60800000000000000
+      internalID: 7839490958303687704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 643
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b456f647ed2eb20800000000000000
+      internalID: 3162334480033991552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 607
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f44153a0fd700140800000000000000
+      internalID: 4683882084950951155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 573
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ae8d60ae42758f0800000000000000
+      internalID: -551931841773770104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 576
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c801e83264a06890800000000000000
+      internalID: -7466787440412260155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my_damage_skill_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 599
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d4bca79de61a1a0800000000000000
+      internalID: -6800032082005635764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 582
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ab1358b25e1980800000000000000
+      internalID: -8566318489590324619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 680
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e7b30cf615c9c10800000000000000
+      internalID: 2061612269837188623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 696
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e4c0a2411de4800800000000000000
+      internalID: 598645685021855247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 605
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb032d48e107873a0800000000000000
+      internalID: -6667455971942321989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 618
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8099ea9c09511b20800000000000000
+      internalID: 3103359528908460173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 631
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05080f4123235c6e0800000000000000
+      internalID: -1817991683893067696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 565
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee506774d5e145cc0800000000000000
+      internalID: -3723317605948848658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 641
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd593e6ea1fd68330800000000000000
+      internalID: 3712900249449371103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 667
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc8bae27f2d5c760800000000000000
+      internalID: 7477614715400326359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_cridmg_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 828
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4206277b1f6db50800000000000000
+      internalID: 6617742472667735294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 732
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02be359b9d8b14200800000000000000
+      internalID: 162614306818747168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 714
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf8a9bbfc9665be0800000000000000
+      internalID: -1488886285872754768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 677
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce9fccfedec5aca0800000000000000
+      internalID: -6006167070909161786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 703
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8e80bed1f1bdb90800000000000000
+      internalID: -7216139764573345629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 734
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f338654b44c4b3c0800000000000000
+      internalID: -4344631912939637769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 738
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e27715f07b1dee00800000000000000
+      internalID: 1075546057973658340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 738
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6da8043a14f9e340800000000000000
+      internalID: 4893710863494065515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 684
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76acf4b4169082e90800000000000000
+      internalID: -7050374903168513433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 707
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace968b1fd8826c90800000000000000
+      internalID: -7178024364254257462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_draw_normaldmg_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 733
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a059dc090b0539b0800000000000000
+      internalID: -5101158869429038938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 451
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24da4e806413ce0f0800000000000000
+      internalID: -1086439233236456126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 386
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49820e68f109dad0800000000000000
+      internalID: -2677106336985872054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 621
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb023563f7678630800000000000000
+      internalID: 3929223494976539576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 437
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d6a54be62f3f3b0800000000000000
+      internalID: -5479769764293612147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 497
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a543ec012d49e30800000000000000
+      internalID: 4509460096525556341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 483
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc87c44ab3e076e70800000000000000
+      internalID: 9108264420702451917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 458
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ea5f3e518db7700800000000000000
+      internalID: 539262168931347990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 543
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334181f9773329ed0800000000000000
+      internalID: -2408806261826513869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 529
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6f9bb95c5ac1640800000000000000
+      internalID: 5052095150142650025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_cridmg_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 471
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da13ddc16f1b9acb0800000000000000
+      internalID: -4852151452910669395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 451
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6debc243580bc2750800000000000000
+      internalID: 6281589666427485910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 433
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901970401049a6b80800000000000000
+      internalID: -8400739422822756087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 452
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a767609f07509f20800000000000000
+      internalID: 3427335040787769250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 457
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bac7195bdc95a80800000000000000
+      internalID: -8477518643834606746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 462
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422c5d3240a38bac0800000000000000
+      internalID: -3839254892877856220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 480
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f944d2ee8379740800000000000000
+      internalID: 5158654493789036419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 487
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdd5bf4fc85878d0800000000000000
+      internalID: -2848429116893045257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 492
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4b0d70a0edae780800000000000000
+      internalID: -8652859599376829276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 510
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b1ea8854b4a8950800000000000000
+      internalID: 6452052178179595143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_lose_normaldmg_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 541
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513e13c98a526f290800000000000000
+      internalID: -7857051093796003051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_0
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 545
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e707df97d2e7580800000000000000
+      internalID: -8827568217633292772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 432
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8ab9dc17d908870800000000000000
+      internalID: 8683113193676712112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 552
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593e33e54ce8f19e0800000000000000
+      internalID: -1648441964549119083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 481
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ad97f34ca5891f0800000000000000
+      internalID: -1037979915183859171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 482
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e31186403919470800000000000000
+      internalID: 8399656427157798498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 517
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650252ef2b4c64020800000000000000
+      internalID: 2325762530630508630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 522
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737f00b18d45299d0800000000000000
+      internalID: -2769057533736716489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 540
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d20a17b523066b40800000000000000
+      internalID: 5433033460989690581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 571
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcce3aa3ec8782990800000000000000
+      internalID: -7410540359695733557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_tickdmg_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 575
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30af04d112c306c50800000000000000
+      internalID: 6656386362175977987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 667
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097bcf2878e4e0130800000000000000
+      internalID: 3534849101457569680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 682
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a53a08d2c7bee40800000000000000
+      internalID: 5686775489358944850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 780
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7693645c9660e20800000000000000
+      internalID: 3316454471612590044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 636
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197288f79d18e6b40800000000000000
+      internalID: 5435424571430283153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 715
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ed0befaf67a87a0800000000000000
+      internalID: -6374151502202610073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 684
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9440a289380d7d0800000000000000
+      internalID: -2895669870836037139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 660
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bec7db020b01e30800000000000000
+      internalID: 4472268084643425038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 763
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf09be38fecf0580800000000000000
+      internalID: -8858634376414949413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 732
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9282b0f2b29a2360800000000000000
+      internalID: 7145685056016777886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_cridmg_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 678
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9536d5537beb85cf0800000000000000
+      internalID: -263250884117568679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_0
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 714
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64603169460a014d0800000000000000
+      internalID: -3165854184166455738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 438
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb3a9756dcb836b0800000000000000
+      internalID: -5316291731332121607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 601
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355c05cb4cb5c4050800000000000000
+      internalID: 5786100521795372371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 737
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c237f4d122f35630800000000000000
+      internalID: 3914738728235905733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 511
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c749a7d22c230b0800000000000000
+      internalID: -5750320273612833694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 763
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e13460c3408e71a0800000000000000
+      internalID: -6809864558058655260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 764
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeddc9405d62dba60800000000000000
+      internalID: 7691346434965954030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 512
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165bdeb9fdaa3b540800000000000000
+      internalID: 5022545886818710881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 768
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5118a5844491cdee0800000000000000
+      internalID: -1235084416743997163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_enemy_win_normaldmg_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 547
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409fe73f3b30104d0800000000000000
+      internalID: -3170248591272904444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_0
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 940
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72a674a7b6070400800000000000000
+      internalID: 290208086796706429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 892
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac3777cfa1f4fca0800000000000000
+      internalID: -5983892267600495454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 981
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3771a9acc4999020800000000000000
+      internalID: 2349072287390594879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 981
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aae0c87e6fd2530800000000000000
+      internalID: 3831990332309809774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 940
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20d6adafeef0f650800000000000000
+      internalID: 6264787387036389421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 981
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e465d8c9fe22e50800000000000000
+      internalID: 6783247444438568578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 899
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9b520b0ea1b7a40800000000000000
+      internalID: 5366912933272336837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 897
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ddaf2c9996d0fd0800000000000000
+      internalID: -2374125319432250067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 940
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3770c9945fc545990800000000000000
+      internalID: -7398186079291177101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_cridmg_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 901
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276282b6d06c137c0800000000000000
+      internalID: -4093272825368402318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 768
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524a202a78f3365d0800000000000000
+      internalID: -3070540669165329371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 648
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ada0a025f6612bc0800000000000000
+      internalID: -3809650606778307167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 794
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a162dbb84b09f50800000000000000
+      internalID: 6886202342516333188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 798
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d3438567e209ad0800000000000000
+      internalID: -2697605090974089937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 733
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691df0bde86514f60800000000000000
+      internalID: 8016783983256785302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 762
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464b27cd901a0aad0800000000000000
+      internalID: -2692975513442274204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 798
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e607f7bc0e3e97ee0800000000000000
+      internalID: -1262727665874407314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 828
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76846ea71e7b4d560800000000000000
+      internalID: 7337691871950817383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 828
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbcc2c63bc8248a0800000000000000
+      internalID: -6322336224632845345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_draw_normaldmg_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 744
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709c2493406d42dc0800000000000000
+      internalID: -3664568883143849721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_0
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 940
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da872cc1cd3f710800000000000000
+      internalID: 1725965098292915549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 876
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e26453e9de03e370800000000000000
+      internalID: 8350534463059682019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 804
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6413b1e9b92f870800000000000000
+      internalID: 8715199332278683352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 938
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad7c342a00edca50800000000000000
+      internalID: 6543132167801437605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 811
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a025d9b53d11fe750800000000000000
+      internalID: 6336302800206385674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 867
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35407d0b8020f2030800000000000000
+      internalID: 3471996074075817043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 901
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87302c6b1b2f07a10800000000000000
+      internalID: 1905289487467021176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 858
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1ce215d4116b2d0800000000000000
+      internalID: -3263401856211172941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 940
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb60f609f9349e80800000000000000
+      internalID: -8172843682044548116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_cridmg_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 901
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70097042a2ee7750800000000000000
+      internalID: 6304725714859524221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_0
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 767
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3679130e9a59094e0800000000000000
+      internalID: -1976915679572289693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 456
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc341059a85803290800000000000000
+      internalID: -7912677715038092340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 552
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec54ae3d1c9a9900800000000000000
+      internalID: 692037142173736170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 774
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1480863d45694e0800000000000000
+      internalID: -1975298119595179537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 577
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d97ef28d8e8759c0800000000000000
+      internalID: -3938522610672961065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 570
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9630dea6c0e668a30800000000000000
+      internalID: 4217179100691628905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 582
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a53f58fed4052f0800000000000000
+      internalID: -986202627254298015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 600
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab42c28fee150ce0800000000000000
+      internalID: -1439710491835216989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 612
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc035d2786e1d730800000000000000
+      internalID: 4022249410473954495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_lose_normaldmg_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 630
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c32f861d2ab15c0800000000000000
+      internalID: -4243619203573990380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_0
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 635
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0785a75b8b8a1cae0800000000000000
+      internalID: -1530756887057115024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 398
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054ef488e4ab00c10800000000000000
+      internalID: 2017817479519134800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 481
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab50c661a4e9e3980800000000000000
+      internalID: -8557228200916417094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 643
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33ba26f65f2715b0800000000000000
+      internalID: -5397793577836563650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 485
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7da3ea19cde71f30800000000000000
+      internalID: 4546363796849143165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 492
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dd295afdb042be0800000000000000
+      internalID: -1503063320451424964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 505
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b01f13ff873021c0800000000000000
+      internalID: -4530560133735968587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 511
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cab4b47c49d31740800000000000000
+      internalID: 5121676123649129158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 672
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef136440ce5a4410800000000000000
+      internalID: 1462085208909225955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_tickdmg_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 515
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855e0c081a9729790800000000000000
+      internalID: -7524818292825856680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_0
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 981
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c419d35d6cb5dc90800000000000000
+      internalID: -7145598056009231163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 907
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acf8a08bfa815750800000000000000
+      internalID: 6291962967213276327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 833
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d0764f7aecaf80800000000000000
+      internalID: -8093836597928078624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 979
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fcb0ed2052a94a0800000000000000
+      internalID: -6585910810830450865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 858
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1341349b62387d350800000000000000
+      internalID: 6041441627480986673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 847
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f34ea6c0ac85b90800000000000000
+      internalID: -7252825045198422134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 763
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09b4815a1cf83960800000000000000
+      internalID: 7582087162645231886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 878
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29930112b3a47b70800000000000000
+      internalID: 8895915149148526893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 981
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d782075f8458a59d0800000000000000
+      internalID: -2784766871173322627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_cridmg_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 792
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0546760e96096f1a0800000000000000
+      internalID: -6776069804921494448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 708
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f515f818e3bcc9880800000000000000
+      internalID: -8602777718862425761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 414
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc339effe4be84a0800000000000000
+      internalID: -6589130261935211313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 522
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdb8d6eb74aeacf0800000000000000
+      internalID: -239072878143160839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 654
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7386a55687b58820800000000000000
+      internalID: 2919941721010111357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 535
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e497d388c11c8a0800000000000000
+      internalID: -6286712233360011672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 673
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159fb2c74cc6f88b0800000000000000
+      internalID: -5147776257908541103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 702
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657b7d70b50ffb7f0800000000000000
+      internalID: -594492352025348266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 421
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36b31311d8f3d790800000000000000
+      internalID: -7506382577044572610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 703
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71e6f18906e530d0800000000000000
+      internalID: -3443593411545341573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_txt_player_win_normaldmg_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 422
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eac82a7271b7d80800000000000000
+      internalID: -8251976433228009856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +4149,198 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      damage_0: 370836429328893637
+      damage_1: 4671811295830470272
+      damage_2: 948163715620176575
+      damage_3: -4805785122848415202
+      damage_4: 1339527205791033982
+      damage_5: 1590664526030685110
+      damage_6: -6375434730729121783
+      damage_7: -8743333582316714630
+      damage_8: -8021134345508169601
+      damage_9: 6074608407868662492
+      damage_skill2_0: -3948355104632734219
+      damage_skill2_1: 6271929945185190306
+      damage_skill2_2: -3336001396258352357
+      damage_skill2_3: 4072387792361663775
+      damage_skill2_4: -4679536657436288120
+      damage_skill2_5: 4357781733296212337
+      damage_skill2_6: 3673808231472060511
+      damage_skill2_7: 8862874891329889015
+      damage_skill2_8: 7415679621944297931
+      damage_skill2_9: 2437734731168288691
+      damage_skill_0: -8127083167640512923
+      damage_skill_1: -5610805403098822978
+      damage_skill_2: 549009949790489701
+      damage_skill_3: 4052728333512559502
+      damage_skill_4: 1622988055053264633
+      damage_skill_5: -5463823039927794784
+      damage_skill_6: 5730289956177626000
+      damage_skill_7: -7425845861499093329
+      damage_skill_8: 8006263368509719102
+      damage_skill_9: 3035128497049829979
+      damage_skill_bg: -4085278045205075623
+      my_damage_0: -4569456672102093928
+      my_damage_1: -6648249971479876505
+      my_damage_2: -267160344550806939
+      my_damage_3: -67457165900083595
+      my_damage_4: -9108975269461749802
+      my_damage_5: 4212078821567800074
+      my_damage_6: -8191800108351738564
+      my_damage_7: 2454556022929648959
+      my_damage_8: 3475170591257038250
+      my_damage_9: -1256994379511991222
+      my_damage_skill_0: 3648587558012748484
+      my_damage_skill_1: 7725804276967348480
+      my_damage_skill_2: -175220294155011134
+      my_damage_skill_3: 1718405534855129512
+      my_damage_skill_4: 7839490958303687704
+      my_damage_skill_5: 3162334480033991552
+      my_damage_skill_6: 4683882084950951155
+      my_damage_skill_7: -551931841773770104
+      my_damage_skill_8: -7466787440412260155
+      my_damage_skill_9: -6800032082005635764
+      ui_txt_enemy_draw_cridmg_0: -8566318489590324619
+      ui_txt_enemy_draw_cridmg_1: 2061612269837188623
+      ui_txt_enemy_draw_cridmg_2: 598645685021855247
+      ui_txt_enemy_draw_cridmg_3: -6667455971942321989
+      ui_txt_enemy_draw_cridmg_4: 3103359528908460173
+      ui_txt_enemy_draw_cridmg_5: -1817991683893067696
+      ui_txt_enemy_draw_cridmg_6: -3723317605948848658
+      ui_txt_enemy_draw_cridmg_7: 3712900249449371103
+      ui_txt_enemy_draw_cridmg_8: 7477614715400326359
+      ui_txt_enemy_draw_cridmg_9: 6617742472667735294
+      ui_txt_enemy_draw_normaldmg_0: 162614306818747168
+      ui_txt_enemy_draw_normaldmg_1: -1488886285872754768
+      ui_txt_enemy_draw_normaldmg_2: -6006167070909161786
+      ui_txt_enemy_draw_normaldmg_3: -7216139764573345629
+      ui_txt_enemy_draw_normaldmg_4: -4344631912939637769
+      ui_txt_enemy_draw_normaldmg_5: 1075546057973658340
+      ui_txt_enemy_draw_normaldmg_6: 4893710863494065515
+      ui_txt_enemy_draw_normaldmg_7: -7050374903168513433
+      ui_txt_enemy_draw_normaldmg_8: -7178024364254257462
+      ui_txt_enemy_draw_normaldmg_9: -5101158869429038938
+      ui_txt_enemy_lose_cridmg_0: -1086439233236456126
+      ui_txt_enemy_lose_cridmg_1: -2677106336985872054
+      ui_txt_enemy_lose_cridmg_2: 3929223494976539576
+      ui_txt_enemy_lose_cridmg_3: -5479769764293612147
+      ui_txt_enemy_lose_cridmg_4: 4509460096525556341
+      ui_txt_enemy_lose_cridmg_5: 9108264420702451917
+      ui_txt_enemy_lose_cridmg_6: 539262168931347990
+      ui_txt_enemy_lose_cridmg_7: -2408806261826513869
+      ui_txt_enemy_lose_cridmg_8: 5052095150142650025
+      ui_txt_enemy_lose_cridmg_9: -4852151452910669395
+      ui_txt_enemy_lose_normaldmg_0: 6281589666427485910
+      ui_txt_enemy_lose_normaldmg_1: -8400739422822756087
+      ui_txt_enemy_lose_normaldmg_2: 3427335040787769250
+      ui_txt_enemy_lose_normaldmg_3: -8477518643834606746
+      ui_txt_enemy_lose_normaldmg_4: -3839254892877856220
+      ui_txt_enemy_lose_normaldmg_5: 5158654493789036419
+      ui_txt_enemy_lose_normaldmg_6: -2848429116893045257
+      ui_txt_enemy_lose_normaldmg_7: -8652859599376829276
+      ui_txt_enemy_lose_normaldmg_8: 6452052178179595143
+      ui_txt_enemy_lose_normaldmg_9: -7857051093796003051
+      ui_txt_enemy_tickdmg_0: -8827568217633292772
+      ui_txt_enemy_tickdmg_1: 8683113193676712112
+      ui_txt_enemy_tickdmg_2: -1648441964549119083
+      ui_txt_enemy_tickdmg_3: -1037979915183859171
+      ui_txt_enemy_tickdmg_4: 8399656427157798498
+      ui_txt_enemy_tickdmg_5: 2325762530630508630
+      ui_txt_enemy_tickdmg_6: -2769057533736716489
+      ui_txt_enemy_tickdmg_7: 5433033460989690581
+      ui_txt_enemy_tickdmg_8: -7410540359695733557
+      ui_txt_enemy_tickdmg_9: 6656386362175977987
+      ui_txt_enemy_win_cridmg_0: 3534849101457569680
+      ui_txt_enemy_win_cridmg_1: 5686775489358944850
+      ui_txt_enemy_win_cridmg_2: 3316454471612590044
+      ui_txt_enemy_win_cridmg_3: 5435424571430283153
+      ui_txt_enemy_win_cridmg_4: -6374151502202610073
+      ui_txt_enemy_win_cridmg_5: -2895669870836037139
+      ui_txt_enemy_win_cridmg_6: 4472268084643425038
+      ui_txt_enemy_win_cridmg_7: -8858634376414949413
+      ui_txt_enemy_win_cridmg_8: 7145685056016777886
+      ui_txt_enemy_win_cridmg_9: -263250884117568679
+      ui_txt_enemy_win_normaldmg_0: -3165854184166455738
+      ui_txt_enemy_win_normaldmg_1: -5316291731332121607
+      ui_txt_enemy_win_normaldmg_2: 5786100521795372371
+      ui_txt_enemy_win_normaldmg_3: 3914738728235905733
+      ui_txt_enemy_win_normaldmg_4: -5750320273612833694
+      ui_txt_enemy_win_normaldmg_5: -6809864558058655260
+      ui_txt_enemy_win_normaldmg_6: 7691346434965954030
+      ui_txt_enemy_win_normaldmg_7: 5022545886818710881
+      ui_txt_enemy_win_normaldmg_8: -1235084416743997163
+      ui_txt_enemy_win_normaldmg_9: -3170248591272904444
+      ui_txt_player_draw_cridmg_0: 290208086796706429
+      ui_txt_player_draw_cridmg_1: -5983892267600495454
+      ui_txt_player_draw_cridmg_2: 2349072287390594879
+      ui_txt_player_draw_cridmg_3: 3831990332309809774
+      ui_txt_player_draw_cridmg_4: 6264787387036389421
+      ui_txt_player_draw_cridmg_5: 6783247444438568578
+      ui_txt_player_draw_cridmg_6: 5366912933272336837
+      ui_txt_player_draw_cridmg_7: -2374125319432250067
+      ui_txt_player_draw_cridmg_8: -7398186079291177101
+      ui_txt_player_draw_cridmg_9: -4093272825368402318
+      ui_txt_player_draw_normaldmg_0: -3070540669165329371
+      ui_txt_player_draw_normaldmg_1: -3809650606778307167
+      ui_txt_player_draw_normaldmg_2: 6886202342516333188
+      ui_txt_player_draw_normaldmg_3: -2697605090974089937
+      ui_txt_player_draw_normaldmg_4: 8016783983256785302
+      ui_txt_player_draw_normaldmg_5: -2692975513442274204
+      ui_txt_player_draw_normaldmg_6: -1262727665874407314
+      ui_txt_player_draw_normaldmg_7: 7337691871950817383
+      ui_txt_player_draw_normaldmg_8: -6322336224632845345
+      ui_txt_player_draw_normaldmg_9: -3664568883143849721
+      ui_txt_player_lose_cridmg_0: 1725965098292915549
+      ui_txt_player_lose_cridmg_1: 8350534463059682019
+      ui_txt_player_lose_cridmg_2: 8715199332278683352
+      ui_txt_player_lose_cridmg_3: 6543132167801437605
+      ui_txt_player_lose_cridmg_4: 6336302800206385674
+      ui_txt_player_lose_cridmg_5: 3471996074075817043
+      ui_txt_player_lose_cridmg_6: 1905289487467021176
+      ui_txt_player_lose_cridmg_7: -3263401856211172941
+      ui_txt_player_lose_cridmg_8: -8172843682044548116
+      ui_txt_player_lose_cridmg_9: 6304725714859524221
+      ui_txt_player_lose_normaldmg_0: -1976915679572289693
+      ui_txt_player_lose_normaldmg_1: -7912677715038092340
+      ui_txt_player_lose_normaldmg_2: 692037142173736170
+      ui_txt_player_lose_normaldmg_3: -1975298119595179537
+      ui_txt_player_lose_normaldmg_4: -3938522610672961065
+      ui_txt_player_lose_normaldmg_5: 4217179100691628905
+      ui_txt_player_lose_normaldmg_6: -986202627254298015
+      ui_txt_player_lose_normaldmg_7: -1439710491835216989
+      ui_txt_player_lose_normaldmg_8: 4022249410473954495
+      ui_txt_player_lose_normaldmg_9: -4243619203573990380
+      ui_txt_player_tickdmg_0: -1530756887057115024
+      ui_txt_player_tickdmg_1: 2017817479519134800
+      ui_txt_player_tickdmg_2: -8557228200916417094
+      ui_txt_player_tickdmg_3: -5397793577836563650
+      ui_txt_player_tickdmg_4: 4546363796849143165
+      ui_txt_player_tickdmg_5: -1503063320451424964
+      ui_txt_player_tickdmg_6: -4530560133735968587
+      ui_txt_player_tickdmg_7: 5121676123649129158
+      ui_txt_player_tickdmg_8: 1462085208909225955
+      ui_txt_player_tickdmg_9: -7524818292825856680
+      ui_txt_player_win_cridmg_0: -7145598056009231163
+      ui_txt_player_win_cridmg_1: 6291962967213276327
+      ui_txt_player_win_cridmg_2: -8093836597928078624
+      ui_txt_player_win_cridmg_3: -6585910810830450865
+      ui_txt_player_win_cridmg_4: 6041441627480986673
+      ui_txt_player_win_cridmg_5: -7252825045198422134
+      ui_txt_player_win_cridmg_6: 7582087162645231886
+      ui_txt_player_win_cridmg_7: 8895915149148526893
+      ui_txt_player_win_cridmg_8: -2784766871173322627
+      ui_txt_player_win_cridmg_9: -6776069804921494448
+      ui_txt_player_win_normaldmg_0: -8602777718862425761
+      ui_txt_player_win_normaldmg_1: -6589130261935211313
+      ui_txt_player_win_normaldmg_2: -239072878143160839
+      ui_txt_player_win_normaldmg_3: 2919941721010111357
+      ui_txt_player_win_normaldmg_4: -6286712233360011672
+      ui_txt_player_win_normaldmg_5: -5147776257908541103
+      ui_txt_player_win_normaldmg_6: -594492352025348266
+      ui_txt_player_win_normaldmg_7: -7506382577044572610
+      ui_txt_player_win_normaldmg_8: -3443593411545341573
+      ui_txt_player_win_normaldmg_9: -8251976433228009856
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

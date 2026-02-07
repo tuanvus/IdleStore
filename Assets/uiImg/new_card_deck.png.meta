@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,1603 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: bg_round_display
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 0
+        width: 42
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49da1ddc7abe6aaf0800000000000000
+      internalID: -385361612148462188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_round_employee
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 0
+        width: 42
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7786342db354da60800000000000000
+      internalID: 7697869734904498046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_round_goods
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 0
+        width: 42
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff22e105497fbaf0800000000000000
+      internalID: -378450506384527372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_round_vip
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 0
+        width: 41
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4206d122001da90800000000000000
+      internalID: -7291046175214394123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_bar1
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 0
+        width: 186
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf75379cf47e92f0800000000000000
+      internalID: -964204641993261124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_cactus_icon
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 0
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4276d94a8f867d170800000000000000
+      internalID: 8203140663401604900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_charge_btn
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 30
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0ed5e6e789f4260800000000000000
+      internalID: 7084048407662026961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_close_button
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0564180cf388f73d0800000000000000
+      internalID: -3206694602270489008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_cookie_icon
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eb4a1107df1c530800000000000000
+      internalID: 3873655812289510947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 254
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb97aa6502f81c80800000000000000
+      internalID: -8351659403880457251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_2
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 0
+        width: 254
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7d42c1e7c7c9490800000000000000
+      internalID: -7738173178649454615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_box
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1762
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031d89f6e8ebe02c0800000000000000
+      internalID: -4463420661710663376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_box_round
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1762
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d928ca51b28980800000000000000
+      internalID: -8538066940077681709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_box_tag1
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 0
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e746a1c4528ef3f10800000000000000
+      internalID: 2251773585596769406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_box_tag2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488df5230a8cba10800000000000000
+      internalID: 1926566486734637122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_button
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 0
+        width: 196
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f079132890f7ff0800000000000000
+      internalID: -36299817213292670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_dark
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 254
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e62c6f7fafec9830800000000000000
+      internalID: 4079398899526936295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_icon
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d667c7ca34e535650800000000000000
+      internalID: 6220419155078444653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_product_edit
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 81
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7470c7fca8768d7a0800000000000000
+      internalID: -6352213428521924793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_rocked
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 0
+        width: 254
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a5d0acb8b929700800000000000000
+      internalID: 545669529557883482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_rocked_bar
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 0
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4386d4e26556a9370800000000000000
+      internalID: 8330081881593571380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_rocked_bar1
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 0
+        width: 30
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2cdf9db1e48dbd0800000000000000
+      internalID: -2605246502905462041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_rocked_center_box
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 92
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f266ba9dd3b37b0800000000000000
+      internalID: -5243529336050012394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_select
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 0
+        width: 256
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed232d28d3f54e9d0800000000000000
+      internalID: -2745965154996702498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_theme_left
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce0df50c4ebde250800000000000000
+      internalID: 5975641514317778628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_display_theme_right
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d071195565ce74bf0800000000000000
+      internalID: -340043391296268531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_drink_icon
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94214693f47928670800000000000000
+      internalID: 8539554209968951881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_employee
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 24
+        width: 256
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92957fa4ace771270800000000000000
+      internalID: 8221179052094347561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_employee_bar
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 0
+        width: 48
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ec4dfa3da6b53d0800000000000000
+      internalID: -3216860051405484493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_employee_box
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 1762
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8abce631e74db910800000000000000
+      internalID: 1854717654161209994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_employee_box_icon
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 0
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080a4163e7a6c7860800000000000000
+      internalID: 7529009767362371712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_employee_box_round
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1600
+        width: 1762
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5a5dcc78bbc5930800000000000000
+      internalID: 4133384749950805449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_employee_box_tag1
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 0
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5cbb70701a2c810800000000000000
+      internalID: 1784165453958727129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_employee_dark
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 410
+        width: 256
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63551319bef3f840800000000000000
+      internalID: 5256825260914070378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_employee_info
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 282
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68896b2a84287ef0800000000000000
+      internalID: -110298015018153878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 0
+        width: 256
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675ae05813f5665f0800000000000000
+      internalID: -763818420502354570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_bar
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 0
+        width: 190
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1cadd1fb4ae96a0800000000000000
+      internalID: -6440529276346646101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_box
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1762
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d419a494727448d0800000000000000
+      internalID: -2863037618064911149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_box_round
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1762
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c245031984642680800000000000000
+      internalID: -8780782833573215549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_box_tag1
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aeae0e3026a6b20800000000000000
+      internalID: 3128420659960146508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_box_tag2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc8479ee563bb10800000000000000
+      internalID: 1996051135270013892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_dark
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 0
+        width: 256
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f306c3eb013e9c40800000000000000
+      internalID: 5520904120338613239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_get_icon
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1590bc0e74e5bfc0800000000000000
+      internalID: -3479623907043928801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_product_edit
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 81
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9183a56a59803d90800000000000000
+      internalID: -7120039989527477861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_theme_left
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242c1617e94e789d0800000000000000
+      internalID: -2771995676465053118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_goods_theme_right
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f50e42516c4e60800000000000000
+      internalID: 7947834448526308952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_grocery_icon
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981517408e1594660800000000000000
+      internalID: 7370512322117325193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_icecream_icon
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 0
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0cc8645afd3c980800000000000000
+      internalID: -8519720169108619016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_level_up_goods_bg
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 438
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14460535ea13bb0800000000000000
+      internalID: -4957990041903939156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_levelup_button
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 0
+        width: 190
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d5466c0b6d7ccd0800000000000000
+      internalID: -2537823810268930668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_menubox
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 0
+        width: 115
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba39887c819a25e0800000000000000
+      internalID: -1933573057498498372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_milk_icon
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bae7a2bf9a8fbec0800000000000000
+      internalID: -3548965562842879304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_name_bg
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 154
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1dc37820d4d4cd0800000000000000
+      internalID: -2572315138904501775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_open_button
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 0
+        width: 190
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc671f13c2477d50800000000000000
+      internalID: 6734925173563550964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_position_icon
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 0
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4f9a13a0a52fa0800000000000000
+      internalID: -5826073920547107177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_product_edit
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1922
+        width: 274
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba582eb6a5b4b00800000000000000
+      internalID: 813843577078917960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_product_edit_icon_2
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a69a6f63cfd4d70800000000000000
+      internalID: 9029150140944444004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_ramen_icon
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7bd9fe853d85f10800000000000000
+      internalID: 2258787592056977357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_rug_icon
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 0
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a747a3e31501190800000000000000
+      internalID: -7993800010872096210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_star
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d6d52710fa1e0c0800000000000000
+      internalID: -4548161727918936731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_store_edit_tag
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 94
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca1a5a4b207bff50800000000000000
+      internalID: 6916244983990852303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_tile_icon
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 0
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa9d4b6307a49540800000000000000
+      internalID: 5013815918297193128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_timer
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97fd4863bc0541e0800000000000000
+      internalID: -2214349677094111329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_vip
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 796
+        width: 256
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7b98b7a188d01b0800000000000000
+      internalID: -5688741106975918093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_vip_bar
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 190
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c138752021032d20800000000000000
+      internalID: 3252444593470845376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_vip_box
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 704
+        width: 1762
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fdf13680de16090800000000000000
+      internalID: -8042886839228440798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_vip_box_icon
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 0
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa4b9534e9f48d80800000000000000
+      internalID: -8249193858888676623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_vip_box_round
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1152
+        width: 1762
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bed0180aefabf370800000000000000
+      internalID: 8357466953208618680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_vip_box_tag1
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 132
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304df2632100861d0800000000000000
+      internalID: -3357433443986189309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_vip_dark
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1182
+        width: 256
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828b2f423a2242560800000000000000
+      internalID: 7287988181087205416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_wall_decoration_icon
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff87dc5c356d99190800000000000000
+      internalID: -7955091611484063489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_wall_icon
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 0
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6892e37207a6950800000000000000
+      internalID: 6443085530755860170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: display_lock_bg
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 235
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736d239e27735cd60800000000000000
+      internalID: 7909789287224366647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_lock_bg
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1568
+        width: 260
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468bd9c6912f8d7f0800000000000000
+      internalID: -587453560361469852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_speech_bubble
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 120
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c5c7e9425c13770800000000000000
+      internalID: 8588862725440691209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_lock_bg
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1745
+        width: 263
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ed94afa6aacd5c0800000000000000
+      internalID: -4189286176919003602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +1734,83 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_round_display: -385361612148462188
+      bg_round_employee: 7697869734904498046
+      bg_round_goods: -378450506384527372
+      bg_round_vip: -7291046175214394123
+      card_bar1: -964204641993261124
+      card_cactus_icon: 8203140663401604900
+      card_charge_btn: 7084048407662026961
+      card_close_button: -3206694602270489008
+      card_cookie_icon: 3873655812289510947
+      card_display: -8351659403880457251
+      card_display_2: -7738173178649454615
+      card_display_box: -4463420661710663376
+      card_display_box_round: -8538066940077681709
+      card_display_box_tag1: 2251773585596769406
+      card_display_box_tag2: 1926566486734637122
+      card_display_button: -36299817213292670
+      card_display_dark: 4079398899526936295
+      card_display_icon: 6220419155078444653
+      card_display_product_edit: -6352213428521924793
+      card_display_rocked: 545669529557883482
+      card_display_rocked_bar: 8330081881593571380
+      card_display_rocked_bar1: -2605246502905462041
+      card_display_rocked_center_box: -5243529336050012394
+      card_display_select: -2745965154996702498
+      card_display_theme_left: 5975641514317778628
+      card_display_theme_right: -340043391296268531
+      card_drink_icon: 8539554209968951881
+      card_employee: 8221179052094347561
+      card_employee_bar: -3216860051405484493
+      card_employee_box: 1854717654161209994
+      card_employee_box_icon: 7529009767362371712
+      card_employee_box_round: 4133384749950805449
+      card_employee_box_tag1: 1784165453958727129
+      card_employee_dark: 5256825260914070378
+      card_employee_info: -110298015018153878
+      card_goods: -763818420502354570
+      card_goods_bar: -6440529276346646101
+      card_goods_box: -2863037618064911149
+      card_goods_box_round: -8780782833573215549
+      card_goods_box_tag1: 3128420659960146508
+      card_goods_box_tag2: 1996051135270013892
+      card_goods_dark: 5520904120338613239
+      card_goods_get_icon: -3479623907043928801
+      card_goods_product_edit: -7120039989527477861
+      card_goods_theme_left: -2771995676465053118
+      card_goods_theme_right: 7947834448526308952
+      card_grocery_icon: 7370512322117325193
+      card_icecream_icon: -8519720169108619016
+      card_level_up_goods_bg: -4957990041903939156
+      card_levelup_button: -2537823810268930668
+      card_menubox: -1933573057498498372
+      card_milk_icon: -3548965562842879304
+      card_name_bg: -2572315138904501775
+      card_open_button: 6734925173563550964
+      card_position_icon: -5826073920547107177
+      card_product_edit: 813843577078917960
+      card_product_edit_icon_2: 9029150140944444004
+      card_ramen_icon: 2258787592056977357
+      card_rug_icon: -7993800010872096210
+      card_star: -4548161727918936731
+      card_store_edit_tag: 6916244983990852303
+      card_tile_icon: 5013815918297193128
+      card_timer: -2214349677094111329
+      card_vip: -5688741106975918093
+      card_vip_bar: 3252444593470845376
+      card_vip_box: -8042886839228440798
+      card_vip_box_icon: -8249193858888676623
+      card_vip_box_round: 8357466953208618680
+      card_vip_box_tag1: -3357433443986189309
+      card_vip_dark: 7287988181087205416
+      card_wall_decoration_icon: -7955091611484063489
+      card_wall_icon: 6443085530755860170
+      display_lock_bg: 7909789287224366647
+      goods_lock_bg: -587453560361469852
+      popup_speech_bubble: 8588862725440691209
+      vip_lock_bg: -4189286176919003602
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

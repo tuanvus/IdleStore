@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,3262 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: gold_big_icon_2
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df32598b8c6d86f0800000000000000
+      internalID: -680768622102954027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_double_tag
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4850ca0e7daf8ba80800000000000000
+      internalID: -8450728895666453116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_quest_mark
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 528
+        width: 51
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57725bbdd59edc050800000000000000
+      internalID: 5822566482587232117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_arrow
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 279
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe7e606d700fad90800000000000000
+      internalID: -7084443150341734668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_black_bg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1324
+        width: 1282
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502ef0ffe34b36c10800000000000000
+      internalID: 2045676838416540165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 276
+        width: 712
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933324ed172a7b8a0800000000000000
+      internalID: -6289379744655723719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 642
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529785ecaa3672dc0800000000000000
+      internalID: -3663850186585114331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box_2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 340
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a64f32239d5bc190800000000000000
+      internalID: -7941150631421589854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 172
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ace502420ad37a0800000000000000
+      internalID: -6395779818773886423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box_4
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 606
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b83b27b2f946b90800000000000000
+      internalID: -7249494491202876656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box_5
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 502
+        width: 70
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a18d33d539ad070800000000000000
+      internalID: 8131974105681893933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box_button
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 727
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf37af258c6926c0800000000000000
+      internalID: -4167680660868743253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box_reward
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 606
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3d97ae438ed3260800000000000000
+      internalID: 7079069503266083749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box_tag1
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6add5ea7ce9eaa020800000000000000
+      internalID: 2353950957137943974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_box_tag2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 404
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15535ab88034b2e00800000000000000
+      internalID: 1020983444511208785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_buff_icon
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413e8d001ed7cf750800000000000000
+      internalID: 6340080780766143252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_buff_icon2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 525
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803f391e7449b6d00800000000000000
+      internalID: 967029581449261832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_buff_sunny_icon
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 0
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a058e00f6b62fdd0800000000000000
+      internalID: -2453780722462732126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_button
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 16
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dca581b212563230800000000000000
+      internalID: 3618169590879988945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_cactus_icon
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1906
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7b2fd8df4137690800000000000000
+      internalID: -7605712266457860115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_cactus_icon2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1754
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc2bae9926118580800000000000000
+      internalID: -8826749426657973030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_calculation_icon
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 0
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533d7477c6fedde80800000000000000
+      internalID: -8152096501334027467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 0
+        width: 206
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965b9cca8880c9f0800000000000000
+      internalID: -450209833017452911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_auto_1
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 0
+        width: 199
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b27c77699edeb20800000000000000
+      internalID: 3165442945575234410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_auto_1_icon
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eee2a1768b4f1a0800000000000000
+      internalID: -6776588786325328279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_avoid_ufo_1
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1d25e554b3500e0800000000000000
+      internalID: -2304370465208872542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_avoid_ufo_1_icon
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9599aaccfe878e390800000000000000
+      internalID: -7788842584211023527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_bg
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 0
+        width: 205
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb4f647dd1f3e220800000000000000
+      internalID: 2514118950446386158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_box
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 142
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1be5d73ab59d990800000000000000
+      internalID: -7360751358219210303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_buff_start_1
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 0
+        width: 199
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c13537d916eb8f0800000000000000
+      internalID: -522873177855812528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_buff_start_1_icon
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de2be80e309ef0f0800000000000000
+      internalID: -1081268264410337580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_cardpack_open_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37987c7c532486050800000000000000
+      internalID: 5793953719364585843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_cardpack_open_1_icon
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7df5548b7299370800000000000000
+      internalID: 8329732658189817831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_catching_thief_1
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fadabd954caf8780800000000000000
+      internalID: -8678528541920666892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_catching_thief_1_icon
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c73329921f91c1c0800000000000000
+      internalID: -4485128851656853563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_daily_quest_reward_1
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eedaffe56d5b9880800000000000000
+      internalID: -8603179970761924887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_daily_quest_reward_1_icon
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feabb9b955ab2c020800000000000000
+      internalID: 2360654031541222127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_deco_install_1
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b886c01ef2402c0800000000000000
+      internalID: -4466392286822364308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_deco_install_1_icon
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92656151ec8a7d50800000000000000
+      internalID: 6735851092047127195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_display_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 199
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098d69bb737385c80800000000000000
+      internalID: -8333850397939148656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_display_1_icon
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c9945395803ce0800000000000000
+      internalID: -1427494214050396802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_earn_gold_1
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef9b57a0079d76d0800000000000000
+      internalID: -2991068548440547354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_earn_gold_1_icon
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d601cf13ac49690800000000000000
+      internalID: -7596224355436040844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_employee_levelup_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa68958ddd33d8c20800000000000000
+      internalID: 3210279137295566506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_employee_levelup_1_icon
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b938d01af1033910800000000000000
+      internalID: 1815797248296499638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_employee_placement_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 199
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed8b341354947d30800000000000000
+      internalID: 4428327418154683878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_employee_placement_1_icon
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1935d46454a9ef220800000000000000
+      internalID: 2521622463696950161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_fever_time_1
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f119968e4fae19920800000000000000
+      internalID: 2995433564770242847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_fever_time_1_icon
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c9b6ffe68845ba0800000000000000
+      internalID: -6101101584867156949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_friend_store_visit_1
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 0
+        width: 199
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0852272a05ef130800000000000000
+      internalID: 3602405410572959998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_friend_store_visit_1_icon
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898ef679e273e7a00800000000000000
+      internalID: 756102460693538968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_goods_change_1
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564bad4ed551d4d40800000000000000
+      internalID: 5570131807142851685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_goods_change_1_icon
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b424621d027d920800000000000000
+      internalID: 3014914558209968993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_goods_levelup_1
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363f21ba6f4b3f80800000000000000
+      internalID: -8125813783002139088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_goods_levelup_1_icon
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64c6acb250a948d0800000000000000
+      internalID: -2861579811004431251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_guest_invitation_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40753bb08b562add0800000000000000
+      internalID: -2476305003955661052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_guest_invitation_1_icon
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb289129c7c410700800000000000000
+      internalID: 504768731153007291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_name_bg
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 92
+        width: 48
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb238238646249480800000000000000
+      internalID: -8893441279859871045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_product_replacement_1
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 199
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f092026237cf3ac10800000000000000
+      internalID: 2063770625756899599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_product_replacement_1_icon
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88106ee1c269d760800000000000000
+      internalID: 7483120840920275084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_ranking_match_1
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 199
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a3f8892685d9f30800000000000000
+      internalID: 4583917176222595616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_ranking_match_1_icon
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b9e7c5665931d60800000000000000
+      internalID: 7859790041562651524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_start_decoration_1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a4ae63acbd3b9a0800000000000000
+      internalID: -6218384998917322236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_start_decoration_1_icon
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c484c9b1ab8bd50800000000000000
+      internalID: 6753352268990925894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_vip_levelup_1
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db7f13d4a2cf0350800000000000000
+      internalID: 5985216442971159504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_vip_levelup_1_icon
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22c9b97a6336550800000000000000
+      internalID: 6152821609416368858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_vip_summon_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441875d6297ca1cb0800000000000000
+      internalID: -4892378613471018684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_vip_summon_1_icon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22a9d8b97815c630800000000000000
+      internalID: 3946587559531487789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_world_open_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab39d90095490a60800000000000000
+      internalID: 7640714727753595810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_world_open_1_icon
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddfa6e1c2cd7ca10800000000000000
+      internalID: 1929753047398546897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_card_zombie_1
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a6974c66d7fc170800000000000000
+      internalID: 8200911326801390145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_cion_icon
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c602e2b3734f6d580800000000000000
+      internalID: -8802579903595798420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_cion_icon2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 556
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f13f4c4dc0a9080800000000000000
+      internalID: -9180010782464467105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_community_icon
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 585
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2d262fb756f670800000000000000
+      internalID: 8572135419237182375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_count
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 416
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b0f4f32f5814e0800000000000000
+      internalID: -2010752625583016744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_display_icon
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 484
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf3d733f94815fd0800000000000000
+      internalID: -2354955310839545905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_display_icon2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 648
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9704107bdb2070280800000000000000
+      internalID: -9077283510099558279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_employee_icon
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 693
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad93216ebf3c630800000000000000
+      internalID: 3946274664073517676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_employee_icon2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1730
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2418e8c64ade7cfc0800000000000000
+      internalID: -3474547297041350334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_fever_icon
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 375
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c804aec7a5234e0800000000000000
+      internalID: -2003439391673906099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_fever_icon2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1806
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa271808395d94f00800000000000000
+      internalID: 1101646413361672874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_gift_card_icon
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 442
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f2fe6c44d25eb50800000000000000
+      internalID: 6621748600536772460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_gift_card_icon2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1676
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d740d0c53752e1d0800000000000000
+      internalID: -3322997686666246187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_goods_icon
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 0
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4005c9f02ffa8a5a0800000000000000
+      internalID: -6509759807185203196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_goods_icon2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1836
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adf8114f31b2a8b0800000000000000
+      internalID: -5142352939270472283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_gray_bg
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 764
+        width: 722
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00035a76ffd4a20d0800000000000000
+      internalID: -3446856805447815168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_guest_icon
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 517
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4541f05d1626d10800000000000000
+      internalID: 2117362342526473452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_guest_icon2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1706
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8befb00c295e780800000000000000
+      internalID: -8654349755389921074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_icon
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f06239069cb11830800000000000000
+      internalID: 4040217693313458422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_icon_bg2
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f609261694e8390800000000000000
+      internalID: -7814227620826943743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_jewel_icon
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1960
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0efb342485c80850800000000000000
+      internalID: 6343537246485609998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_level_reward_icon
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1996
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc3fb37747472060800000000000000
+      internalID: 6928584923942960346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_long_orange_btn
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706cced97b5581e40800000000000000
+      internalID: 5627341981516350983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_long_yellow_btn
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 0
+        width: 64
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acfba61726ac0820800000000000000
+      internalID: 2885864148051950757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_quest_icon
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97623b826ddb3ed00800000000000000
+      internalID: 1000852269709862521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_quest_icon2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1870
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e786a5841499ec4a0800000000000000
+      internalID: -6571146300621166466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_ranking_icon
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42908dc33ff213640800000000000000
+      internalID: 5057876578258127140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_ranking_icon2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 618
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d8a0b6ddaa2e6f0800000000000000
+      internalID: -656774727682323060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_reward_bg
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5703dff47da2c80b0800000000000000
+      internalID: -5725153922046414731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_speech_bubble
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1078
+        width: 344
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e7862db4db2afa0800000000000000
+      internalID: -5790858037494776305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_star_icon
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc80805144d543d0800000000000000
+      internalID: -3222936581325157168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_star_icon2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 497
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c6c114899140e0800000000000000
+      internalID: -2287378343214529900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_top
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 312
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1019e6c182f66a40800000000000000
+      internalID: 5361239045633019935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_vip_icon
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 551
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62747004f188ab970800000000000000
+      internalID: 8771472892057044774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_vip_icon2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1780
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6466f372e4d15420800000000000000
+      internalID: 2617106927552193647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_world_icon
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175e62933df37f810800000000000000
+      internalID: 1798976752587302257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_quest_world_icon2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 586
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a264554f2cb125a0800000000000000
+      internalID: -6547745472007347545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_text_box_btn_tuto
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 702
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ad03fa98132130800000000000000
+      internalID: 3540700785825130778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_ red_1
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71b5a1dd71ad9410800000000000000
+      internalID: 1485521013862412668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_ red_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 89
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d204a24a2a5b410800000000000000
+      internalID: 1492277677510372733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_quest_icon
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 0
+        width: 292
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61716cf8389d17c0800000000000000
+      internalID: -4098952715317448337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_2_daily_quest
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 908
+        width: 878
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53684705276365650800000000000000
+      internalID: 6221219799862904373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_3_daily_quest
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 764
+        width: 878
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14ea7d077c516d40800000000000000
+      internalID: 5575839480058405914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_box_2_daily_quest
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 274
+        width: 342
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f3e4ef12531a210800000000000000
+      internalID: 1342412584049852186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_box_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 680
+        width: 802
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492130e986592a450800000000000000
+      internalID: 6098601121973211796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_box_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 696
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1592a54d85368df0800000000000000
+      internalID: -178396254359612129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_bar
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 628
+        width: 32
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02273615e01c0a3f0800000000000000
+      internalID: -891500458980183520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_bar_1
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1152
+        width: 32
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c0e704d415cd0c0800000000000000
+      internalID: -4549672131314709440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_gift_box
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccad3543e48ff5f30800000000000000
+      internalID: 4566641561946020556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_gift_box3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0581c424325adb60800000000000000
+      internalID: 7771614490889651471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_icon_gray
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1074
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b5b31f7397e9a80800000000000000
+      internalID: -8458189768977851590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_icon_green
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 781
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a600d4b4571386f0800000000000000
+      internalID: -683677065851959648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_icon_orange
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 361
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48792bc4f95917060800000000000000
+      internalID: 6949500211428497284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_icon_red
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 889
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d36a1db383858120800000000000000
+      internalID: 2415481376990716881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_icon_red_2
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1182
+        width: 56
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9e0b3eb6944150800000000000000
+      internalID: 5855971159267253707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_ring
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1054
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2d039d69fdc3a00800000000000000
+      internalID: 737710277963862713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_daily_quest_top
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 498
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c3b7f91e7eaff60800000000000000
+      internalID: 8069016638616976437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_quest_box1
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 0
+        width: 768
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954a15d05a7168d80800000000000000
+      internalID: -8248879669821987751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_quest_box2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 410
+        width: 766
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3df85d6e45ec160800000000000000
+      internalID: 7047663817283589064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_quest_box3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 522
+        width: 766
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d18602987e827940800000000000000
+      internalID: 5292449160610873810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_quest_box_icon
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3a1d6e0a3c87830800000000000000
+      internalID: 4069217359163925496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_quest_box_icon2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917eef969d8e00880800000000000000
+      internalID: -8646655264067492071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_quest_red_btn
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 268
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecd3c68568913be0800000000000000
+      internalID: -1499249639117562647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_quest_shortcut_btn
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 200
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a468d4f358b9b0800000000000000
+      internalID: -5064205469910523466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_quest_shortcut_btn_gray
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 336
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f535398a45766ce90800000000000000
+      internalID: -7005798557025086625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_box
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ee60e42ad28e3b0800000000000000
+      internalID: -5483082371206549984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_card_cactus_icon
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 284
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f404ebb140615d7f0800000000000000
+      internalID: -588539969400848305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_card_display_icon
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 0
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e60a9669fa923660800000000000000
+      internalID: 7364118736663086819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_icon
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 84
+        width: 62
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485762744f5dbf300800000000000000
+      internalID: 287058246410597764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_icon_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 46
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99865a1f29bcf9b0800000000000000
+      internalID: -5044953870605317733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_main_coin_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b362351bc8bd40e0800000000000000
+      internalID: -2283966253633477703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_main_employee_icon
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 716
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec5c30748fd2b20800000000000000
+      internalID: 3111415901472542338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_main_guest_icon
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 299
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af00da146ed080f0800000000000000
+      internalID: -1116648186059944029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_main_vip_icon
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 439
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8133089ae71997040800000000000000
+      internalID: 4645904463805035288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_clear_star_1
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 997
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0105f1019c2ad230800000000000000
+      internalID: 3664290248134033678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_icon
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ada39bd75758690800000000000000
+      internalID: -7600539613278840198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_info_pop_bg
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f123ffe8d25cea270800000000000000
+      internalID: 8263759165734728223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_info_pop_loading_bar
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 0
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb40fa3a98c5df990800000000000000
+      internalID: -7350617270572350273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_info_pop_loading_bg
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 407
+        width: 24
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845674dc1ed1cefd0800000000000000
+      internalID: -2311439653099051704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_reward_bg2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8fd68c17531f820800000000000000
+      internalID: 2950197993714612403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_reward_popup
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 554
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237122fd00f36680800000000000000
+      internalID: -8762896507245333714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_big_icon_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 107
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c523ab9c563d1ca0800000000000000
+      internalID: -6044615353485285943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_double_tag
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c15703de70d2a870800000000000000
+      internalID: 8692739473903407557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_box
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4201a36502bfeb40800000000000000
+      internalID: 5471787808494518862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_box_point
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 278
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f370005683c5f76d0800000000000000
+      internalID: -2990570230268295361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +3393,162 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gold_big_icon_2: -680768622102954027
+      gold_double_tag: -8450728895666453116
+      icon_quest_mark: 5822566482587232117
+      main_quest_arrow: -7084443150341734668
+      main_quest_black_bg: 2045676838416540165
+      main_quest_box: -6289379744655723719
+      main_quest_box_1: -3663850186585114331
+      main_quest_box_2: -7941150631421589854
+      main_quest_box_3: -6395779818773886423
+      main_quest_box_4: -7249494491202876656
+      main_quest_box_5: 8131974105681893933
+      main_quest_box_button: -4167680660868743253
+      main_quest_box_reward: 7079069503266083749
+      main_quest_box_tag1: 2353950957137943974
+      main_quest_box_tag2: 1020983444511208785
+      main_quest_buff_icon: 6340080780766143252
+      main_quest_buff_icon2: 967029581449261832
+      main_quest_buff_sunny_icon: -2453780722462732126
+      main_quest_button: 3618169590879988945
+      main_quest_cactus_icon: -7605712266457860115
+      main_quest_cactus_icon2: -8826749426657973030
+      main_quest_calculation_icon: -8152096501334027467
+      main_quest_card: -450209833017452911
+      main_quest_card_auto_1: 3165442945575234410
+      main_quest_card_auto_1_icon: -6776588786325328279
+      main_quest_card_avoid_ufo_1: -2304370465208872542
+      main_quest_card_avoid_ufo_1_icon: -7788842584211023527
+      main_quest_card_bg: 2514118950446386158
+      main_quest_card_box: -7360751358219210303
+      main_quest_card_buff_start_1: -522873177855812528
+      main_quest_card_buff_start_1_icon: -1081268264410337580
+      main_quest_card_cardpack_open_1: 5793953719364585843
+      main_quest_card_cardpack_open_1_icon: 8329732658189817831
+      main_quest_card_catching_thief_1: -8678528541920666892
+      main_quest_card_catching_thief_1_icon: -4485128851656853563
+      main_quest_card_daily_quest_reward_1: -8603179970761924887
+      main_quest_card_daily_quest_reward_1_icon: 2360654031541222127
+      main_quest_card_deco_install_1: -4466392286822364308
+      main_quest_card_deco_install_1_icon: 6735851092047127195
+      main_quest_card_display_1: -8333850397939148656
+      main_quest_card_display_1_icon: -1427494214050396802
+      main_quest_card_earn_gold_1: -2991068548440547354
+      main_quest_card_earn_gold_1_icon: -7596224355436040844
+      main_quest_card_employee_levelup_1: 3210279137295566506
+      main_quest_card_employee_levelup_1_icon: 1815797248296499638
+      main_quest_card_employee_placement_1: 4428327418154683878
+      main_quest_card_employee_placement_1_icon: 2521622463696950161
+      main_quest_card_fever_time_1: 2995433564770242847
+      main_quest_card_fever_time_1_icon: -6101101584867156949
+      main_quest_card_friend_store_visit_1: 3602405410572959998
+      main_quest_card_friend_store_visit_1_icon: 756102460693538968
+      main_quest_card_goods_change_1: 5570131807142851685
+      main_quest_card_goods_change_1_icon: 3014914558209968993
+      main_quest_card_goods_levelup_1: -8125813783002139088
+      main_quest_card_goods_levelup_1_icon: -2861579811004431251
+      main_quest_card_guest_invitation_1: -2476305003955661052
+      main_quest_card_guest_invitation_1_icon: 504768731153007291
+      main_quest_card_name_bg: -8893441279859871045
+      main_quest_card_product_replacement_1: 2063770625756899599
+      main_quest_card_product_replacement_1_icon: 7483120840920275084
+      main_quest_card_ranking_match_1: 4583917176222595616
+      main_quest_card_ranking_match_1_icon: 7859790041562651524
+      main_quest_card_start_decoration_1: -6218384998917322236
+      main_quest_card_start_decoration_1_icon: 6753352268990925894
+      main_quest_card_vip_levelup_1: 5985216442971159504
+      main_quest_card_vip_levelup_1_icon: 6152821609416368858
+      main_quest_card_vip_summon_1: -4892378613471018684
+      main_quest_card_vip_summon_1_icon: 3946587559531487789
+      main_quest_card_world_open_1: 7640714727753595810
+      main_quest_card_world_open_1_icon: 1929753047398546897
+      main_quest_card_zombie_1: 8200911326801390145
+      main_quest_cion_icon: -8802579903595798420
+      main_quest_cion_icon2: -9180010782464467105
+      main_quest_community_icon: 8572135419237182375
+      main_quest_count: -2010752625583016744
+      main_quest_display_icon: -2354955310839545905
+      main_quest_display_icon2: -9077283510099558279
+      main_quest_employee_icon: 3946274664073517676
+      main_quest_employee_icon2: -3474547297041350334
+      main_quest_fever_icon: -2003439391673906099
+      main_quest_fever_icon2: 1101646413361672874
+      main_quest_gift_card_icon: 6621748600536772460
+      main_quest_gift_card_icon2: -3322997686666246187
+      main_quest_goods_icon: -6509759807185203196
+      main_quest_goods_icon2: -5142352939270472283
+      main_quest_gray_bg: -3446856805447815168
+      main_quest_guest_icon: 2117362342526473452
+      main_quest_guest_icon2: -8654349755389921074
+      main_quest_icon: 4040217693313458422
+      main_quest_icon_bg2: -7814227620826943743
+      main_quest_jewel_icon: 6343537246485609998
+      main_quest_level_reward_icon: 6928584923942960346
+      main_quest_long_orange_btn: 5627341981516350983
+      main_quest_long_yellow_btn: 2885864148051950757
+      main_quest_quest_icon: 1000852269709862521
+      main_quest_quest_icon2: -6571146300621166466
+      main_quest_ranking_icon: 5057876578258127140
+      main_quest_ranking_icon2: -656774727682323060
+      main_quest_reward_bg: -5725153922046414731
+      main_quest_speech_bubble: -5790858037494776305
+      main_quest_star_icon: -3222936581325157168
+      main_quest_star_icon2: -2287378343214529900
+      main_quest_top: 5361239045633019935
+      main_quest_vip_icon: 8771472892057044774
+      main_quest_vip_icon2: 2617106927552193647
+      main_quest_world_icon: 1798976752587302257
+      main_quest_world_icon2: -6547745472007347545
+      main_text_box_btn_tuto: 3540700785825130778
+      message_box_ red_1: 1485521013862412668
+      message_box_ red_2: 1492277677510372733
+      new_quest_icon: -4098952715317448337
+      popup_2_daily_quest: 6221219799862904373
+      popup_3_daily_quest: 5575839480058405914
+      popup_box_2_daily_quest: 1342412584049852186
+      popup_box_4: 6098601121973211796
+      popup_box_5: -178396254359612129
+      popup_daily_quest_bar: -891500458980183520
+      popup_daily_quest_bar_1: -4549672131314709440
+      popup_daily_quest_gift_box: 4566641561946020556
+      popup_daily_quest_gift_box3: 7771614490889651471
+      popup_daily_quest_icon_gray: -8458189768977851590
+      popup_daily_quest_icon_green: -683677065851959648
+      popup_daily_quest_icon_orange: 6949500211428497284
+      popup_daily_quest_icon_red: 2415481376990716881
+      popup_daily_quest_icon_red_2: 5855971159267253707
+      popup_daily_quest_ring: 737710277963862713
+      popup_daily_quest_top: 8069016638616976437
+      popup_quest_box1: -8248879669821987751
+      popup_quest_box2: 7047663817283589064
+      popup_quest_box3: 5292449160610873810
+      popup_quest_box_icon: 4069217359163925496
+      popup_quest_box_icon2: -8646655264067492071
+      popup_quest_red_btn: -1499249639117562647
+      popup_quest_shortcut_btn: -5064205469910523466
+      popup_quest_shortcut_btn_gray: -7005798557025086625
+      quest_clear_box: -5483082371206549984
+      quest_clear_card_cactus_icon: -588539969400848305
+      quest_clear_card_display_icon: 7364118736663086819
+      quest_clear_icon: 287058246410597764
+      quest_clear_icon_2: -5044953870605317733
+      quest_clear_main_coin_1: -2283966253633477703
+      quest_clear_main_employee_icon: 3111415901472542338
+      quest_clear_main_guest_icon: -1116648186059944029
+      quest_clear_main_vip_icon: 4645904463805035288
+      quest_clear_star_1: 3664290248134033678
+      quest_icon: -7600539613278840198
+      quest_info_pop_bg: 8263759165734728223
+      quest_info_pop_loading_bar: -7350617270572350273
+      quest_info_pop_loading_bg: -2311439653099051704
+      quest_reward_bg2: 2950197993714612403
+      ranking_reward_popup: -8762896507245333714
+      ruby_big_icon_2: -6044615353485285943
+      ruby_double_tag: 8692739473903407557
+      talk_box: 5471787808494518862
+      talk_box_point: -2990570230268295361
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

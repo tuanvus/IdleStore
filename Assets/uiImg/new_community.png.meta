@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,7 +127,1939 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: buff_bonus_blue_button
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1750
+        width: 156
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6487a3b132383ada0800000000000000
+      internalID: -5934755697140271034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_bonus_box
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 83
+        width: 309
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb6124f810e89630800000000000000
+      internalID: 3934140672287796186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_bonus_box_2
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1171
+        width: 164
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d04f9e0990832350800000000000000
+      internalID: 5990773324196561112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_bonus_orange_button
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1806
+        width: 157
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb25ccbc35345970800000000000000
+      internalID: 8742671311614323658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_bonus_random_icon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25808fcbfab282b40800000000000000
+      internalID: 5415626585702664274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_friend
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1238
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ae19c33cd196920800000000000000
+      internalID: 2983948952481688191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_friend_box
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1862
+        width: 998
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e365290a3d65210800000000000000
+      internalID: 1321476227283172917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_friend_box2
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1682
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5badff0850bbbe450800000000000000
+      internalID: 6119190151026432693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_friend_jewel
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1364
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2b7754b5fcea2a0800000000000000
+      internalID: -6724209202703125837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_friend_jewel2
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1092
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c838f6d6ae7cc850800000000000000
+      internalID: 6398628425622894784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_friend_my
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1364
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fce7f387a6fed680800000000000000
+      internalID: -8728267828463407886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_bar
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1384
+        width: 702
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fbef8c5dc0c2430800000000000000
+      internalID: 3759393901287227230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_bar_bg1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1410
+        width: 702
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8cd6d69b431d170800000000000000
+      internalID: 8201394367427889373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_bar_bg2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1436
+        width: 710
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a76e4d719db41810800000000000000
+      internalID: 1735220189014681505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_box
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 148
+        width: 434
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2861f5ac8180070800000000000000
+      internalID: 8072729589519385324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_box_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1512
+        width: 764
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5054f16b718273950800000000000000
+      internalID: 6428651075399533829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_box_4_top
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1470
+        width: 764
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f11a151525a8a270800000000000000
+      internalID: 8262035095097577970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_box_line
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1112
+        width: 4
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8f7cd00a7a55fe0800000000000000
+      internalID: -1200869419756554003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_check_box
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 749
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e9b0b71a7641910800000000000000
+      internalID: 1807183293734166066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_check_icon
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 84
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fa1e22adde26ee0800000000000000
+      internalID: -1269190623821189267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_facebook_button
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1928
+        width: 196
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eac58c51bbd06d0800000000000000
+      internalID: -3022554072665510330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_facebook_button_gray
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1988
+        width: 196
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9500d913f7b8540800000000000000
+      internalID: 5011238861443979752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_facebook_icon
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 203
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b06cc70c9f9c930800000000000000
+      internalID: 4164133935603125117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_facebook_icon_gray
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac3564059167daf0800000000000000
+      internalID: -371721151583011669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_gray_button
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 81
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117698f47d951a8a0800000000000000
+      internalID: -6295652022799997167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_level_box
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 87
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e08a7dddbf5584b0800000000000000
+      internalID: -5438835705910755103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_orange_button
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1868
+        width: 196
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b379b53c4cb7c0800000000000000
+      internalID: -4054281770911943218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_red_tag
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1111
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc56f95c22c25d0800000000000000
+      internalID: -3086053412477482044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_renewal_icon
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 796
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205601b445d29a170800000000000000
+      internalID: 8190127237409826050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_ruby_receive_gray_icon
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 342
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac5ff56b58441c40800000000000000
+      internalID: 5482086203807194283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_ruby_receive_icon
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 379
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dc5e12fe40a9ae0800000000000000
+      internalID: -1541914497308570282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_ruby_send_gray_icon
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 416
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4778c995bf043a680800000000000000
+      internalID: -8745074603138971788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_ruby_send_icon
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 453
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b812003908f7590800000000000000
+      internalID: -7674273871165289604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_speech_bubble
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 745
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadcfa133d0b38b40800000000000000
+      internalID: 5441387195911884204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: community_yellow_button
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 81
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6ba11782011cc0800000000000000
+      internalID: -3742207036227883468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congratulations_icon
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 25
+        width: 546
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e73cfa36edb58500800000000000000
+      internalID: 397932938621892580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friend_visit_btn
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1418
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65bbd2d31b2e2a00800000000000000
+      internalID: 733571153449956717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_friend_add_icon
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 796
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9233b22c82982dff0800000000000000
+      internalID: -12797040779381975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_friend_bg
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1008
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4e9a0281a5caa90800000000000000
+      internalID: -7301361836200696644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_friend_mail_icon
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 846
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e69287ee8cea810800000000000000
+      internalID: 1778579829401677410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_friend_share_icon
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 846
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e559a341e2dd06290800000000000000
+      internalID: -7899070556430232226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_friend_sms_icon
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17c3d1d0a32d0520800000000000000
+      internalID: 2669829327722628894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_friend_trash_can_orange_icon
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1685272d9a696e1c0800000000000000
+      internalID: -4474723523621660575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_friend_trash_can_yellow_icon
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c1629abf9992be0800000000000000
+      internalID: -1501499694597661692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_notice_icon4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 275
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301574108300cf8b0800000000000000
+      internalID: -5117214836060106493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_text_box_btn_tuto
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1046
+        width: 152
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ad03fa98132130800000000000000
+      internalID: 3540700785825130778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_1st
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 81
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151615497469363c0800000000000000
+      internalID: -4367481979444043439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_2st
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 81
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbf5a70662e9ed70800000000000000
+      internalID: 9073031852157434817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_3st
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 81
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45113ebf317ecac50800000000000000
+      internalID: 6677966420499960148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_ad_icon
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 311
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cebc2da928f4cb80800000000000000
+      internalID: -8375296549119541559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_arrow_bar
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1842
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f2a1e46365428f0800000000000000
+      internalID: -566232861903278185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_arrow_down
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1308
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1465986639a62cec0800000000000000
+      internalID: -3548156375101516223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_arrow_up
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1336
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae625ae3261357dd0800000000000000
+      internalID: -2489028921024764182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_blue_button
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 41
+        width: 122
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8522fa0b610d7f300800000000000000
+      internalID: 285925897233441368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 834
+        width: 670
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b438cd7290db1c080800000000000000
+      internalID: -9168839519328500917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 534
+        width: 662
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68966c02e4cda18b0800000000000000
+      internalID: -5180586193220900474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 81
+        width: 118
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee42ac2ed77a1e30800000000000000
+      internalID: 4475020975861288686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box_3_1st
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 136
+        width: 72
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d43060f851bfb60800000000000000
+      internalID: 7780836485238050192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box_3_2st
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 7
+        width: 632
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633dc490edd6e50b0800000000000000
+      internalID: -5738028074817236170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box_3_3st
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1228
+        width: 72
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5539f870d66f85e40800000000000000
+      internalID: 5645533081047634773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box_3_my_info
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 97
+        width: 606
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5387145393e4400800000000000000
+      internalID: 310248325229589926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box_4_top
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 490
+        width: 662
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5591be4a1a806a300800000000000000
+      internalID: 262907118597380437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 754
+        width: 60
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740688900830f33c0800000000000000
+      internalID: -4377776464330203065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_box_line
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1098
+        width: 4
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bac07b9bd7b5440800000000000000
+      internalID: 4925668854053251898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_character_bg
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 41
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ddc39c141de4d0800000000000000
+      internalID: -3103802455217024410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_community_box
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1490
+        width: 842
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4acab4fc2474d940800000000000000
+      internalID: 5320004796264663626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_gray_button
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 41
+        width: 122
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0682e1094b1598420800000000000000
+      internalID: 2632725293128624224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_last_season
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 41
+        width: 122
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7396ffd4a05dfe6a0800000000000000
+      internalID: -6417676703744693961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_line
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1186
+        width: 5
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ffb2f1284859e40800000000000000
+      internalID: 5662577800891858832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_lv_bg
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe27d079aba02e0800000000000000
+      internalID: -2158707913442267162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_mylist_bg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1294
+        width: 680
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c348654c449f770800000000000000
+      internalID: 8645016569770163219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_orange_button
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 88
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0dad71d34c43c40800000000000000
+      internalID: 5491229612343742703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_phase
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 166
+        width: 88
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b4fb8c702b3ad60800000000000000
+      internalID: 7900353917840477041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_phase_box1
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1502
+        width: 170
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb54758f0d9d7650800000000000000
+      internalID: 6232310149339700194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_phase_box2
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1562
+        width: 170
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fc74026ccbeaf30800000000000000
+      internalID: 4588812629468237715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_phase_box3
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1622
+        width: 170
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7c7e6946c0cb3b0800000000000000
+      internalID: -5495503819130812473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_question_bg
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 41
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94848e3a085d48190800000000000000
+      internalID: -7961003492801755063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_result_blue_button
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 896
+        width: 106
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4496d831a6f7950800000000000000
+      internalID: 6448989823627248860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_result_box
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 113
+        width: 309
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936ccbedf89877550800000000000000
+      internalID: 6158542266462684729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_result_box_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 770
+        width: 117
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e948de7067ac79650800000000000000
+      internalID: 6239678417033069726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_result_orange_button
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 952
+        width: 107
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1f4db2d307744a0800000000000000
+      internalID: -6609190520112221703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_reward_icon
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1114
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0745857043785e610800000000000000
+      internalID: 1649873496032433264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_reward_popup
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 784
+        width: 554
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237122fd00f36680800000000000000
+      internalID: -8762896507245333714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_time_bar1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 877
+        width: 30
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a3c2ef26e236350800000000000000
+      internalID: 6008697330548357756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_time_bar2
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1143
+        width: 411
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16efb34bee07be530800000000000000
+      internalID: 3885323274065542753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_time_icon
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 167
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d055de3f15d8b90800000000000000
+      internalID: -7238038918013842072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_timer
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 807
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b10c5ee459830b0800000000000000
+      internalID: -5748680758243878097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_timer_bg
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 6
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd927b0cc3f75710800000000000000
+      internalID: 1682081043537108415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_timer_gray
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 842
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4753d411e5f500fb0800000000000000
+      internalID: -4683638754843478668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_yellow_button
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 88
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f064f4e08212990800000000000000
+      internalID: -7412599469750481079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_ad_icon
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 134
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e3fdbdd06f3dad0800000000000000
+      internalID: -2678526813971464607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruby_ad_icon_2
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8238c8779575bf250800000000000000
+      internalID: 5979468972033868584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +2070,99 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      buff_bonus_blue_button: -5934755697140271034
+      buff_bonus_box: 3934140672287796186
+      buff_bonus_box_2: 5990773324196561112
+      buff_bonus_orange_button: 8742671311614323658
+      buff_bonus_random_icon: 5415626585702664274
+      card_friend: 2983948952481688191
+      card_friend_box: 1321476227283172917
+      card_friend_box2: 6119190151026432693
+      card_friend_jewel: -6724209202703125837
+      card_friend_jewel2: 6398628425622894784
+      card_friend_my: -8728267828463407886
+      community_bar: 3759393901287227230
+      community_bar_bg1: 8201394367427889373
+      community_bar_bg2: 1735220189014681505
+      community_box: 8072729589519385324
+      community_box_2: 6428651075399533829
+      community_box_4_top: 8262035095097577970
+      community_box_line: -1200869419756554003
+      community_check_box: 1807183293734166066
+      community_check_icon: -1269190623821189267
+      community_facebook_button: -3022554072665510330
+      community_facebook_button_gray: 5011238861443979752
+      community_facebook_icon: 4164133935603125117
+      community_facebook_icon_gray: -371721151583011669
+      community_gray_button: -6295652022799997167
+      community_level_box: -5438835705910755103
+      community_orange_button: -4054281770911943218
+      community_red_tag: -3086053412477482044
+      community_renewal_icon: 8190127237409826050
+      community_ruby_receive_gray_icon: 5482086203807194283
+      community_ruby_receive_icon: -1541914497308570282
+      community_ruby_send_gray_icon: -8745074603138971788
+      community_ruby_send_icon: -7674273871165289604
+      community_speech_bubble: 5441387195911884204
+      community_yellow_button: -3742207036227883468
+      congratulations_icon: 397932938621892580
+      friend_visit_btn: 733571153449956717
+      game_friend_add_icon: -12797040779381975
+      game_friend_bg: -7301361836200696644
+      game_friend_mail_icon: 1778579829401677410
+      game_friend_share_icon: -7899070556430232226
+      game_friend_sms_icon: 2669829327722628894
+      game_friend_trash_can_orange_icon: -4474723523621660575
+      game_friend_trash_can_yellow_icon: -1501499694597661692
+      main_notice_icon4: -5117214836060106493
+      main_text_box_btn_tuto: 3540700785825130778
+      ranking_1st: -4367481979444043439
+      ranking_2st: 9073031852157434817
+      ranking_3st: 6677966420499960148
+      ranking_ad_icon: -8375296549119541559
+      ranking_arrow_bar: -566232861903278185
+      ranking_arrow_down: -3548156375101516223
+      ranking_arrow_up: -2489028921024764182
+      ranking_blue_button: 285925897233441368
+      ranking_box: -9168839519328500917
+      ranking_box_2: -5180586193220900474
+      ranking_box_3: 4475020975861288686
+      ranking_box_3_1st: 7780836485238050192
+      ranking_box_3_2st: -5738028074817236170
+      ranking_box_3_3st: 5645533081047634773
+      ranking_box_3_my_info: 310248325229589926
+      ranking_box_4_top: 262907118597380437
+      ranking_box_5: -4377776464330203065
+      ranking_box_line: 4925668854053251898
+      ranking_character_bg: -3103802455217024410
+      ranking_community_box: 5320004796264663626
+      ranking_gray_button: 2632725293128624224
+      ranking_last_season: -6417676703744693961
+      ranking_line: 5662577800891858832
+      ranking_lv_bg: -2158707913442267162
+      ranking_mylist_bg: 8645016569770163219
+      ranking_orange_button: 5491229612343742703
+      ranking_phase: 7900353917840477041
+      ranking_phase_box1: 6232310149339700194
+      ranking_phase_box2: 4588812629468237715
+      ranking_phase_box3: -5495503819130812473
+      ranking_question_bg: -7961003492801755063
+      ranking_result_blue_button: 6448989823627248860
+      ranking_result_box: 6158542266462684729
+      ranking_result_box_2: 6239678417033069726
+      ranking_result_orange_button: -6609190520112221703
+      ranking_reward_icon: 1649873496032433264
+      ranking_reward_popup: -8762896507245333714
+      ranking_time_bar1: 6008697330548357756
+      ranking_time_bar2: 3885323274065542753
+      ranking_time_icon: -7238038918013842072
+      ranking_timer: -5748680758243878097
+      ranking_timer_bg: 1682081043537108415
+      ranking_timer_gray: -4683638754843478668
+      ranking_yellow_button: -7412599469750481079
+      ruby_ad_icon: -2678526813971464607
+      ruby_ad_icon_2: 5979468972033868584
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
