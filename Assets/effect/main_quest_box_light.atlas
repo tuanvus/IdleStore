@@ -1,0 +1,13 @@
+
+main_quest_box_light.png
+size: 100,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_quest_box_5
+  rotate: false
+  xy: 2, 2
+  size: 96, 204
+  orig: 98, 206
+  offset: 1, 1
+  index: -1

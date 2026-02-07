@@ -1,0 +1,15 @@
+,,,,,,,,,,,,,,
+version,1,,,,,,,,,,,,,
+m_Uid,m_strName,m_strCaption,m_strDesc,m_strBuffIcon,m_strUiIcon,m_strUiPopIcon,m_strUiImg,m_nBuffType,m_nLoadStep,m_nBuffLevel,m_fBuffNum,m_fBuffTime,m_fBuffMaxTime,
+고유아이디,이름,ui 이름,설명,버프 아이콘,UI 아이콘,UI 아이콘,UI 이미지,버프타입,로드 퀘스트 스텝,버프레벨,버프 수치,버프 시간,,
+1,sunny_buff,Sunny Day!,STRING_OTHER_BUFF_INFO_1,main_buff_card_sunny,coin_3,card_gold_plus_icon_2,popup_buff_sunny_icon,eOTHERBUFF_COIN_TIME,20,0,0.5,20,,
+2,outside_shop_buff,Store Open!,STRING_OTHER_BUFF_INFO_1,main_buff_card_outside_shop,coin_3,card_gold_plus_icon_2,popup_buff_outside_shop_icon,eOTHERBUFF_COIN_TIME,17,1,0.5,20,,"[[""RunAdjust"", ""ciywmu""]]"
+3,speaker_buff,Event Day!,STRING_OTHER_BUFF_INFO_1,main_buff_card_sale_plus,card_sale_plus_icon,card_sale_plus_icon_2,popup_buff_speaker_icon,eOTHERBUFF_BUY_TIME,17,0,0.5,20,,"[[""RunAdjust"", ""g1s313""]]"
+4,character_buff,Event Day!,STRING_OTHER_BUFF_INFO_1,main_buff_card_sale_plus,card_sale_plus_icon,card_sale_plus_icon_2,popup_buff_speaker_icon,eOTHERBUFF_BUY_TIME,99,0,0.5,20,,
+5,speaker_buff,Sunny Day!,STRING_OTHER_BUFF_INFO_1,main_buff_card_sale_plus,card_sale_plus_icon,card_sale_plus_icon_2,popup_buff_speaker_icon,eOTHERBUFF_COIN_TIME_ADD,23,0,0.5,20,,
+6,character_buff,Store Open!,STRING_OTHER_BUFF_INFO_1,main_buff_card_sale_plus,card_sale_plus_icon,card_sale_plus_icon_2,popup_buff_speaker_icon,eOTHERBUFF_BUY_TIME_ADD,24,0,0.5,20,,
+7,outside_shop_buff,Store Open!,STRING_OTHER_BUFF_INFO_1,main_buff_card_outside_shop,coin_3,card_gold_plus_icon_2,popup_buff_outside_shop_icon,eOTHERBUFF_COIN_TIME,21,5,0.1,20,,"[[""RunAdjust"", ""ciywmu""]]"
+8,outside_shop_buff,Store Open!,STRING_OTHER_BUFF_INFO_1,main_buff_card_outside_shop,coin_3,card_gold_plus_icon_2,popup_buff_outside_shop_icon,eOTHERBUFF_COIN_TIME,21,10,0.2,20,,"[[""RunAdjust"", ""ciywmu""]]"
+9,outside_shop_buff,Store Open!,STRING_OTHER_BUFF_INFO_1,main_buff_card_outside_shop,coin_3,card_gold_plus_icon_2,popup_buff_outside_shop_icon,eOTHERBUFF_COIN_TIME,21,15,0.3,20,,"[[""RunAdjust"", ""ciywmu""]]"
+10,outside_shop_buff,Store Open!,STRING_OTHER_BUFF_INFO_1,main_buff_card_outside_shop,coin_3,card_gold_plus_icon_2,popup_buff_outside_shop_icon,eOTHERBUFF_COIN_TIME,21,20,0.4,20,,"[[""RunAdjust"", ""ciywmu""]]"
+11,outside_shop_buff,Store Open!,STRING_OTHER_BUFF_INFO_1,main_buff_card_outside_shop,coin_3,card_gold_plus_icon_2,popup_buff_outside_shop_icon,eOTHERBUFF_COIN_TIME,21,25,0.5,20,,"[[""RunAdjust"", ""ciywmu""]]"

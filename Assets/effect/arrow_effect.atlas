@@ -1,0 +1,13 @@
+
+arrow_effect.png
+size: 147,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 2, 49
+  size: 143, 96
+  orig: 143, 96
+  offset: 0, 0
+  index: -1

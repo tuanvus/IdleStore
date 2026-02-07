@@ -1,0 +1,13 @@
+
+in_production.png
+size: 60,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle_2
+  rotate: false
+  xy: 2, 2
+  size: 56, 57
+  orig: 64, 64
+  offset: 4, 3
+  index: -1

@@ -1,0 +1,48 @@
+
+police01.png
+size: 166,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_f
+  rotate: true
+  xy: 100, 125
+  size: 39, 58
+  orig: 39, 59
+  offset: 0, 1
+  index: -1
+hand_idle
+  rotate: false
+  xy: 27, 142
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+head_idle1
+  rotate: false
+  xy: 2, 58
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+head_idle2
+  rotate: false
+  xy: 84, 48
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 51, 135
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+whistle
+  rotate: false
+  xy: 2, 142
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1

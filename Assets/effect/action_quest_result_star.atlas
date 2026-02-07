@@ -1,0 +1,20 @@
+
+action_quest_result_star.png
+size: 252,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+action_quest_result_star
+  rotate: true
+  xy: 140, 16
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+star_light_1
+  rotate: false
+  xy: 2, 2
+  size: 136, 130
+  orig: 158, 158
+  offset: 11, 16
+  index: -1

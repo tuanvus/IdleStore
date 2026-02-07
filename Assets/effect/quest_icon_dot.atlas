@@ -1,0 +1,20 @@
+
+quest_icon_dot.png
+size: 104,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quest_icon_dot
+  rotate: true
+  xy: 2, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+quest_icon_dot_effect
+  rotate: false
+  xy: 2, 36
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+ufo_targeting.png
+size: 147,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+targeting1
+  rotate: false
+  xy: 2, 2
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1

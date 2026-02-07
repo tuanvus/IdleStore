@@ -1,0 +1,27 @@
+
+effect_ui.png
+size: 806,806
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+goods_upgrade01
+  rotate: false
+  xy: 2, 2
+  size: 270, 396
+  orig: 272, 402
+  offset: 1, 3
+  index: -1
+upgrade01
+  rotate: false
+  xy: 2, 400
+  size: 270, 404
+  orig: 272, 410
+  offset: 1, 3
+  index: -1
+upgrade02
+  rotate: false
+  xy: 2, 400
+  size: 270, 404
+  orig: 272, 410
+  offset: 1, 3
+  index: -1

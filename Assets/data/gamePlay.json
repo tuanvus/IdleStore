@@ -1,0 +1,772 @@
+[
+	{
+	   "Key" : "Level_1",
+	   "Spawn" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"CharUID" :[300,301,302],
+				"SpawnPos" :[[2,14]],
+				"ReAction" : [["CreateSpeeker", "E_OBJECT_SPEEKER", 23, 723, 966], 
+				["CreateSpeeker", "E_OBJECT_TEMP_SPEEKER", 26, 834, 910],
+				["CreateShop", 10001, 0, 1.0, 19, 17 , 16],
+				["CreateShop", 10002, 5, 1.0, 18, 14, 13],
+				["CreateShop", 10003, 10, 1.0, 16, 11, 16],
+				["CreateShop", 10004, 10, -1.0, 6, 17, 16],
+				["CreateShop", 10005, 20, -1.0, 8, 14, 13],
+				["CreateShop", 10010, 25, -1.0, 9, 11, 10]
+				],
+				"Ai" : ["AiDefault","AiDefault1"]
+			},
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["SpawnPos", 855, 891, 10008, "RunWaitPlayer"]]
+			},
+			{
+				"Time" : 31.0,
+				"Once" : true,
+				"CharUID" :[10009],
+				"SpawnPos" :[[2,40]],
+				"Ai" : ["AiBuffChar1","AiBuffChar2"]
+			},
+			{
+				"Time" : 900.0,
+				"Once" : false,
+				"CharUID" :[10009],
+				"SpawnPos" :[[2,40]],
+				"Ai" : ["AiBuffChar1","AiBuffChar2"]
+			},
+			{
+				"Time" : 30.0,
+				"Once" : false,
+				"CharUID" :[303,304,305],
+				"SpawnPos" :[[2,40]],
+				//"ReAction" : [["Spawn",5,5]],
+				"Ai" : ["AiDefault2","AiDefault3"]
+			},
+			{
+				"Time" : 60.0,
+				"Once" : false,
+				"CharUID" :[306,307,308],
+				"SpawnPos" :[[25,32]],
+				//"ReAction" : [["Spawn",5,5]],
+				"Ai" : ["AiDefault4","AiDefault5"]
+			},
+			{
+				"Time" : 90.0,
+				"Once" : false,
+				"CharUID" :[309,310],
+				"SpawnPos" :[[25,32]],
+				//"ReAction" : [["Spawn",5,5]],
+				"Ai" : ["AiDefault6","AiDefault7"]
+			}
+			
+	   ],
+	   
+
+	   "SlotReAction" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["InsertSlot", 20]]
+			},
+			{
+				"Time" : 1.0,
+				"Once" : false,
+				"ReAction" : [["InsertSlot"]]
+			}
+			//,
+			//{
+			//	"Time" : 5.0,
+			//	"Once" : false,
+			//	"SpawnPos" :[[2,2],[22,45],[25,3]],
+			//	"Ai" : ["RunWalkDoor","RunWalkDoor1"],
+			//	"ReAction" : [["RunSlot"]]
+			//}
+	   ],   
+	   
+	   "VipButtonReAction" : [
+			{
+				"SpawnPos" :[[20,22]],
+				"Ai": [ "RunWalkVip1", "RunWalkVip2", "RunWalkVip3", "RunWalkVip4" ],
+				"ReAction" : [["RunVipSlot"]]
+			}
+	   ]
+	   ,
+	   "ButtonReAction" : [
+			{
+				"SpawnPos" :[[20,22]],
+				"Ai": [ "RunWalkDoor", "RunWalkDoor1", "RunWalkDoor" ],
+				"ReAction" : [["RunSlot"]]
+			}
+	   ]
+   },
+   {
+	   "Key" : "Level_2",
+	   "Spawn" : [
+			{
+				"Time" : 31.0,
+				"Once" : true,
+				"CharUID" :[10009],
+				"SpawnPos" :[[2,40]],
+				"Ai" : ["AiBuffChar1","AiBuffChar2"]
+			},
+			{
+				"Time" : 900.0,
+				"Once" : false,
+				"CharUID" :[10009],
+				"SpawnPos" :[[2,40]],
+				"Ai" : ["AiBuffChar1","AiBuffChar2"]
+			},
+			{
+				"Time" : 30.0,
+				"Once" : false,
+				"CharUID" :[303,304,305],
+				"SpawnPos" :[[2,40]],
+				//"ReAction" : [["Spawn",5,5]],
+				"Ai" : ["AiDefault2","AiDefault3"]
+			},
+			{
+				"Time" : 60.0,
+				"Once" : false,
+				"CharUID" :[306,307,308],
+				"SpawnPos" :[[25,32]],
+				//"ReAction" : [["Spawn",5,5]],
+				"Ai" : ["AiDefault4","AiDefault5"]
+			},
+			{
+				"Time" : 90.0,
+				"Once" : false,
+				"CharUID" :[309,310],
+				"SpawnPos" :[[25,32]],
+				//"ReAction" : [["Spawn",5,5]],
+				"Ai" : ["AiDefault6","AiDefault7"]
+			}
+			
+	   ],
+	   
+
+	   "SlotReAction" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["InsertSlot", 20]]
+			},
+			{
+				"Time" : 1.0,
+				"Once" : false,
+				"ReAction" : [["InsertSlot"]]
+			}
+			//,
+			//{
+			//	"Time" : 5.0,
+			//	"Once" : false,
+			//	"SpawnPos" :[[2,2],[22,45],[25,3]],
+			//	"Ai" : ["RunWalkDoor","RunWalkDoor1"],
+			//	"ReAction" : [["RunSlot"]]
+			//}
+	   ],   
+	   
+	   "VipButtonReAction" : [
+			{
+				"SpawnPos" :[[20,22]],
+				"Ai": [ "RunWalkVip1", "RunWalkVip2", "RunWalkVip3", "RunWalkVip4" ],
+				"ReAction" : [["RunVipSlot"]]
+			}
+	   ]
+	   ,
+	   "ButtonReAction" : [
+			{
+				"SpawnPos" :[[20,22]],
+				"Ai": [ "RunWalkDoor", "RunWalkDoor1", "RunWalkDoor" ],
+				"ReAction" : [["RunSlot"]]
+			}
+	   ]
+    },
+    {
+	   "Key" : "Buff_MiniGame",
+	   "Spawn" : [
+			{
+				"Time" : 0.5,
+				"Once" : true,
+				"ReAction" : [
+								["InCustomerAi", "AiIdleAll"]
+							  ]
+			},
+			{
+				"Time" : 1.0,
+				"Once" : true,
+				"ReAction" : [
+								["InCustomerAi", "AiIdleAll"]
+							  ]
+			},
+			{
+				"Time" : 2.0,
+				"Once" : true,
+				"ReAction" : [
+								["InCustomerAi", "AiIdleAll"]
+							  ]
+			},
+			{
+				"Time" : 5.0,
+				"Once" : false,
+				"ReAction" : [
+								["InCustomerAi", "AiHeart"]
+							  ]
+			}
+		]
+   },
+   {
+	   "Key" : "Scenario_DecoDisplay",
+	   "Spawn" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["Spawn", 14,26,303, "Scenario_Ai_DecoDisplay", false, true]]
+			}
+		]
+	},
+	
+    {
+	   "Key" : "Scenario_Map_1",
+	   "Spawn" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["Spawn", 10,22,300, "RunScenarioPlayer1", false, true],
+							  ["Spawn", 12,22,303, "RunScenarioPlayer2", false, false]
+							  ]
+			},
+			{
+				"Time" : 7.0,
+				"Once" : true,
+				"ReAction" : [["ReSetGamePlay","Scenario_Map_2"]]
+			}
+		]
+    },
+	
+    {
+	   "Key" : "Scenario_Map_2",
+	   "Spawn" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [
+							   ["LayerUnitEvent","GAME_OPENING_UI_ON", "STRING_OPENING_UI"]
+							 ]
+			},
+			
+			{
+				"Time" : 0.5,
+				"Once" : true,
+				"ReAction" : [
+							   ["CharAllRemove"]
+							 ]
+			},
+			{
+				"Time" : 1.0,
+				"Once" : true,
+				"ReAction" : [
+							   ["LayerUnitEvent","GAME_TODAY_READY"]
+							  ]
+			},
+			{
+				"Time" : 1.5,
+				"Once" : true,
+				"ReAction" : [
+					["CreateSpeeker", "E_OBJECT_SPEEKER", 23, 723, 966], 
+					["CreateSpeeker", "E_OBJECT_TEMP_SPEEKER", 26, 834, 910],
+					["CreateDeco",10,21,600001,0,1],
+					["CreateDeco",11,19,600001,0,2],
+					["CreateDeco",11,23,601001,0,1002],
+					["CreateDeco",12,21,601001,0,1001],
+					["CreateDeco",12,25,602001,0,2001],
+					["CreateDeco",13,23,602001,0,2006],
+					["CreateDeco",11,16,604001,1,4004],
+					["CreateDeco",10,17,605001,1,5004],
+					["CreateDeco",11,29,603001,0,3001],
+					["CreateDeco",12,28,603001,0,3004],
+					["CreateDeco",8,22,90000008,0],
+					["CreateDeco",14,23,90000013,0],
+					["CreateDeco",14,21,90000013,0],
+					["CreateDeco",15,22,90000014,0],
+					["CreateDeco",9,19 ,90000019,0],
+					["CreateDeco",10,18,90000016,0],
+					["CreateDeco",11,15,90000016,0],
+					["CreateDeco",12,17,90000017,0],
+					["CreateDeco",13,18,90000006,0],
+					["CreateDeco",13,19,90000017,0],
+					["CreateClack", 9,22,1,1],
+					["CreateClack", 9,21,4,1],
+					["Spawn", 10,24,301, "RunScenarioHelp1", false, true],
+					["Spawn", 11,26,303, "RunScenarioHelp2", false, false]
+				]
+			},
+			{
+				"Time" : 2.5,
+				"Once" : true,
+				"ReAction" : [
+							   ["LayerUnitEvent","GAME_OPENING_UI_OFF"]
+							  ]
+			},	
+			{
+				"Time" : 5.5,
+				"Once" : true,
+				"ReAction" : [
+							   ["ClackTypeRunIcon",4,"Question",2]
+							  ]
+			}
+			,
+			{
+				"Time" : 6.5,
+				"Once" : true,
+				"ReAction" : [
+							   ["LayerUnitEvent","GAME_OPENING_DANGER_ON"],
+							   ["SpawnUFO",5,23],
+							   ["SpawnUFO",19,6],
+							   ["SpawnUFO",20,31]
+							  ]
+			},	
+			{
+				"Time" : 7,
+				"Once" : true,
+				"ReAction" : [
+							   ["SpawnUFO",10,5],
+							   ["SpawnUFO",17,8],
+							   ["SpawnUFO",20,31]
+							  ]
+			},	
+			{
+				"Time" : 8.0,
+				"Once" : true,
+				"ReAction" : [
+							   ["ClackTypeRunIcon",1,"Bang",2],["ClackTypeRunIcon",4,"Bang",2]
+							  ]
+			},
+			{
+				"Time" : 16.5,
+				"Once" : true,
+				"ReAction" : [
+							   ["LayerUnitEvent","GAME_OPENING_UI_ON"]
+							  ]
+			},
+			{
+				"Time" : 18.0,
+				"Once" : true,
+				"ReAction" : [
+							   ["LayerUnitEvent","GAME_OPENING_DANGER_OFF"]
+							  ]
+			},
+			{
+				"Time" : 18.5,
+				"Once" : true,
+				"ReAction" : [["MoveScene",14]]
+			}
+		]
+   },
+   {
+	   "Key" : "Scenario_Quest",
+	   "Spawn" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["Spawn", 11,17,300, "Scenario_Ai_Idle", false, true],
+							  ["Spawn", 12,17,303, "Scenario_Ai_Idle", false, false]
+							  ]
+			},	
+			{
+				"Time" : 1.0,
+				"Once" : true,
+				"ReAction" : [["LayerUnitEvent","GAME_OPENING_UI_OFF"]]
+			},	
+			{
+				"Time" : 2.5,
+				"Once" : true,
+				"ReAction" : [["CharTypeAi",300,"Scenario_Ai_No"]]
+			},
+			{
+				"Time" : 4.0,
+				"Once" : true,
+				"ReAction" : [["CharTypeAi",303,"Scenario_Ai_Restart"]]
+			},			
+			
+			{
+				"Time" : 5.0,
+				"Once" : true,
+				"ReAction" : [["OpeningEdit",602001,12,25,true,false]]
+			},
+			{
+				"Time" : 6.0,
+				"Once" : true,
+				"ReAction" : [["OpeningEdit",602001,12,25,true,true, 0, true],["RunMsgBox","Hand_Effect_Click"]]
+			},
+			{
+				"Time" : 6.5,
+				"Once" : true,
+				"ReAction" : [["LoadStep","Opening_Quest_1"]]
+			}
+			]
+   },
+    {
+	   "Key" : "Scenario_Quest1",
+	   "Spawn" : [
+				{
+					"Time" : 0.0,
+					"Once" : true,
+					"ReAction" : [ ["EnableBtn",-2]]
+				},	
+				{
+					"Time" : 0.5,
+					"Once" : true,
+					"ReAction" : [["StandUIVisible",12,25,true]]
+				},	
+				{
+					"Time" : 1.0,
+					"Once" : true,
+					"ReAction" : [["StandUIVisible",11,23,true]]
+				},	
+				{
+					"Time" : 1.5,
+					"Once" : true,
+					"ReAction" : [["StandUIVisible",10,21,true]]
+				},	
+				{
+					"Time" : 2.0,
+					"Once" : true,
+					"ReAction" : [["StandUIVisible",10,18,true]]
+				},	
+				{
+					"Time" : 2.5,
+					"Once" : true,
+					"ReAction" : [["StandUIVisible",10,17,true]]
+				},	
+				{
+					"Time" : 3.0,
+					"Once" : true,
+					"ReAction" : [["StandUIVisible",11,16,true],["CharTypeAi",303,"Scenario_Ai_6"]]
+				},
+				{
+					"Time" : 3.5,
+					"Once" : true,
+					"ReAction" : [["StandUIVisible",12,25,true,true],["EnableBtn",-1], ["LoadStep","Opening_Quest_2"]]
+				}
+			]
+    },
+    {
+	   "Key" : "Scenario_Quest2",
+	   "Spawn" : [
+			{
+				"Time" : 0.5,
+				"Once" : true,
+				"ReAction" : [["CharTypeAi",303,"Scenario_Ai_Customer"]]
+				
+			},
+			{
+				"Time" : 2.0,
+				"Once" : true,
+				"ReAction" : [["MoveScene",8]]
+			}
+		]
+   },
+   {
+	   "Key" : "Action_Friend_Map",
+	   "Spawn" : [
+			{
+				"Time" : 4.0,
+				"Once" : false,
+				"CharUID" :[300,301,302,306,307,308],
+				"SpawnPos" :[[9,28]],
+				"Ai" : ["RunThiefCustomer1","RunThiefCustomer2","RunThiefCustomer3"]
+			},
+			
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"CharUID" :[300,301,302],
+				"SpawnPos" :[[2,14]],
+				"ReAction" : [["CreateSpeeker", "E_OBJECT_SPEEKER", 23, 723, 966], 
+				["CreateSpeeker", "E_OBJECT_TEMP_SPEEKER", 26, 834, 910],
+				["CreateShop", 10001, 0, 1.0, 19, 17],
+				["CreateShop", 10002, 5, 1.0, 18, 14],
+				["CreateShop", 10003, 10, -1.0, 6, 17],
+				["CreateShop", 10004, 15, -1.0, 8, 14],
+				["CreateShop", 10005, 20, -1.0, 9, 11]
+				],
+				"Ai" : ["AiDefault","AiDefault1"]
+			},
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"CharUID" :[10008],
+				"SpawnPos" :[[9,27]],
+				"Ai" : ["RunWaitPlayer"]
+			}
+		]
+   },
+   {
+	   "Key" : "Action_Quest_UFO",
+	   "Spawn" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["RunBgm","ufo_bgm"],["RunEffect","count_321start"], ["GameUFO", 5, true, false, 10]]
+			},
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["Spawn", 0,0,300, "AiCustomer_1", true],
+							  ["Spawn", 0,0,301, "AiCustomer_1", true],
+							  ["Spawn", 0,0,302, "AiCustomer_1", true],
+							  ["Spawn", 0,0,303, "AiCustomer_1", true],
+							  ["Spawn", 0,0,304, "AiCustomer_1", true],
+							  ["Spawn", 0,0,305, "AiCustomer_2", true],
+							  ["Spawn", 0,0,306, "AiCustomer_2", true],
+							  ["Spawn", 0,0,307, "AiCustomer_2", true],
+							  ["Spawn", 0,0,308, "AiCustomer_2", true],
+							  ["Spawn", 0,0,309, "AiCustomer_2", true],
+							  ["SpawnUFO",10,5],
+							  ["SpawnUFO",17,8],
+							  ["SpawnUFO",20,31]
+							  ]
+			},
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [
+							   ["RunMiniGame",false]
+							  ]
+			},
+			{
+				"Time" : 3.0,
+				"Once" : true,
+				"ReAction" : [
+							   ["RunMiniGame",true], ["LayerUnitEvent","GAME_ACTION_GAME_START"]
+							  ]
+			},
+			{
+				"Time" : 13.0,
+				"Once" : true,
+				"ReAction" : [["SpawnUFO",17,36]]
+			},
+			{
+				"Time" : 23.0,
+				"Once" : true,
+				"ReAction" : [["GameUFO", 4, false]]
+			},
+			{
+				"Time" : 27.0,
+				"Once" : true,
+				"ReAction" : [["SpawnUFO",5,23]]
+			},
+			{
+				"Time" : 32.0,
+				"Once" : true,
+				"ReAction" : [["SpawnUFO",19,6],["LayerUnitEvent","GAME_ACTION_LAST_UPDATE"],["GameUFO", 2.7, false, true],["RunEffectRange","action_quest_warning_top","e_SCREEN_MIDDLE_TOP"],["RunEffectRange","action_quest_warning_bottom","e_SCREEN_MIDDLE_BOTTOM"]]
+			},
+			{
+				"Time" : 37.5,
+				"Once" : true,
+				"ReAction" : [[ "RunTagEffect", 300057 , "10count"],["LayerUnitEvent","GAME_ACTION_HUD_TIME_HIDE"]
+							  ]
+			},
+			{
+				"Time" : 47.0,
+				"Once" : true,
+				"ReAction" : [
+							   ["RunMiniGame",false],  ["ChangeGamePlay","MoveScene_Play"]
+							  ]
+			}
+	   ]
+   },
+   {
+	   "Key" : "Action_Quest_THIEF",
+	   "Spawn" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["RunBgm","ufo_bgm"],["RunEffect","police_car_light", 1774,1055 ,20,true],
+				["RunEffect","count_321start"]]
+			},
+			
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["RunMiniGame",false]]
+			},
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["Spawn", 0,0,300, "AiItemGet0", true],
+							  ["Spawn", 0,0,301, "AiItemGet1", true],
+							  ["Spawn", 0,0,302, "AiItemGet2", true],
+							  ["Spawn", 0,0,303, "AiItemGet0", true],
+							  ["Spawn", 0,0,304, "AiItemGet1", true],
+							  ["Spawn", 0,0,305, "AiItemGet2", true]						  
+							  ]
+			},
+			{
+				"Time" : 3.0,
+				"Once" : true,
+				"ReAction" : [["RunMiniGame",true], ["LayerUnitEvent","GAME_ACTION_GAME_START"], ["Spawn", 5,19,1002, "RunWalkThief_1", false]]
+			},
+			{
+				"Time" : 4.0,
+				"Once" : false,
+				"CharUID" :[300,301,302,306,307,308],
+				"SpawnPos" :[[9,28]],
+				"Ai" : ["RunThiefCustomer1","RunThiefCustomer2","RunThiefCustomer3"]
+			},
+			{
+				"Time" : 10.0,
+				"EndTime" : 77.0,
+				"Once" : false,
+				"ReAction" : [["Spawn", 5,19,1002, "RunWalkThief_1", false]]
+			},
+			{
+				"Time" : 25.0,
+				"Once" : true,
+				"ReAction" : [["Spawn", 5,19,1004, "RunWalkThief_2", false]]
+			},
+			{
+				"Time" : 45.0,
+				"Once" : true,
+				"ReAction" : [["Spawn", 5,19,1004, "RunWalkThief_2", false]]
+			},
+			
+			{
+				"Time" : 50.0,
+				"Once" : true,
+				"ReAction" : [["ThiefLock", 15],["RunEffectRange","action_quest_warning_police_top","e_SCREEN_MIDDLE_TOP"],["RunEffectRange","action_quest_warning_police_bottom","e_SCREEN_MIDDLE_BOTTOM"]]
+			},
+			
+			{
+				"Time" : 50.0,
+				"Once" : true,
+				"ReAction" : [["Spawn", 8,23,1005, "Police", false, true]]
+			},
+			
+			{
+				"Time" : 62.5,
+				"Once" : true,
+				"ReAction" : [[ "RunTagEffect", 300057 , "10count"],["LayerUnitEvent","GAME_ACTION_HUD_TIME_HIDE"]]
+			},		
+			
+			{
+				"Time" : 72.0,
+				"Once" : true,
+				"ReAction" : [["RunMiniGame",true],  ["ChangeGamePlay","MoveScene_Play"]]
+			}
+	   ]
+   },
+     {
+	   "Key" : "Action_Quest_ZOMBIE",
+	   "Spawn" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["RunBgm","ufo_bgm"],["RunEffect","count_321start"]]
+			},
+			
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["RunMiniGame",false]]
+			},
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["Spawn", 0,0,300, "ZomBieIn0", true],
+							  ["Spawn", 0,0,301, "ZomBieIn0", true],
+							  ["Spawn", 0,0,302, "ZomBieIn0", true],
+							  ["Spawn", 0,0,303, "ZomBieIn1", true],
+							  ["Spawn", 0,0,304, "ZomBieIn1", true],
+							  ["Spawn", 0,0,305, "ZomBieIn1", true]						  
+							  ]
+			},	
+			{
+				"Time" : 3.0,
+				"Once" : true,
+				"ReAction" : [["RunMiniGame",true], ["LayerUnitEvent","GAME_ACTION_GAME_START"]]
+			},			
+			{
+				"Time" : 3.0,
+				"Once" : true,
+				"CharUID" :[1006],
+				"SpawnPos" :[[8,32],[7,35],[9,36],[6,37],[6,33],[19,32],[18,36],[17,36],[16,35],[19,28]],
+				"Ai" : ["ZomBieMove0","ZomBieMove1","ZomBieMove2","ZomBieMove3","ZomBieMove4","ZomBieMove5"]
+			},
+			{
+				"Time" : 3.0,
+				"Once" : true,
+				"CharUID" :[1006],
+				"SpawnPos" :[[8,32],[7,35],[9,36],[6,37],[6,33],[19,32],[18,36],[17,36],[16,35],[19,28]],
+				"Ai" : ["ZomBieMove0","ZomBieMove1","ZomBieMove2","ZomBieMove3","ZomBieMove4","ZomBieMove5"]
+			},
+			{
+				"Time" : 3.0,
+				"Once" : true,
+				"CharUID" :[1006],
+				"SpawnPos" :[[8,32],[7,35],[9,36],[6,37],[6,33],[19,32],[18,36],[17,36],[16,35],[19,28]],
+				"Ai" : ["ZomBieMove0","ZomBieMove1","ZomBieMove2","ZomBieMove3","ZomBieMove4","ZomBieMove5"]
+			},
+			{
+				"Time" : 5.0,
+				"Once" : false,
+				"CharUID" :[1006],
+				"SpawnPos" :[[8,32],[7,35],[9,36],[6,37],[6,33],[19,32],[18,36],[17,36],[16,35],[19,28]],
+				"Ai" : ["ZomBieMove0","ZomBieMove1","ZomBieMove2","ZomBieMove3","ZomBieMove4","ZomBieMove5"]
+			},
+			{
+				"Time" : 52.0,
+				"Once" : true,
+				"ReAction" : [ ["ChangeGamePlay","Action_Quest_ZOMBIE_HARD"]]
+			}
+	   ]
+   },
+   {
+	   "Key" : "Action_Quest_ZOMBIE_HARD",
+	   "Spawn" : [
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"CharUID" :[1007],
+				"SpawnPos" :[[8,32],[7,35],[9,36],[6,37],[6,33],[19,32],[18,36],[17,36],[16,35],[19,28]],
+				"Ai" : ["ZomBieMove6","ZomBieMove5"]
+			},	
+			{
+				"Time" : 0.0,
+				"Once" : true,
+				"ReAction" : [["RunEffectRange","action_quest_warning_top", "e_SCREEN_MIDDLE_TOP"], ["RunEffectRange","action_quest_warning_bottom", "e_SCREEN_MIDDLE_BOTTOM"]]
+			},
+			{
+				"Time" : 3.0,
+				"Once" : false,
+				"CharUID" :[1007],
+				"SpawnPos" :[[8,32],[7,35],[9,36],[6,37],[6,33],[19,32],[18,36],[17,36],[16,35],[19,28]],
+				"Ai" : ["ZomBieMove6","ZomBieMove5"]
+			},
+			{
+				"Time" : 15.5,
+				"Once" : true,
+				"ReAction" : [[ "RunTagEffect", 300057 , "10count"],["LayerUnitEvent","GAME_ACTION_HUD_TIME_HIDE"]
+							  ]
+			},
+			{
+				"Time" : 25.0,
+				"Once" : true,
+				"ReAction" : [["RunMiniGame",false],  ["ChangeGamePlay","MoveScene_Play"]]
+			}
+		]
+    },
+   {
+	   "Key" : "MoveScene_Play",
+	   "Spawn" : [
+			{
+				"Time" : 1.0,
+				"Once" : true,
+				"ReAction" : [["OpenUI","E_UI_GAME_ACTION_QUEST_REWARD_POPUP"],["RunBgm","action_quest_clear_sound"]]
+			}
+	   ]
+   }
+]

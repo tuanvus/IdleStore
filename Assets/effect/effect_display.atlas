@@ -1,0 +1,20 @@
+
+effect_display.png
+size: 221,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+appear02
+  rotate: false
+  xy: 2, 96
+  size: 75, 123
+  orig: 75, 123
+  offset: 0, 0
+  index: -1
+appear03
+  rotate: false
+  xy: 2, 2
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1

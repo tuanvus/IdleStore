@@ -1,0 +1,41 @@
+
+fever_fire.png
+size: 280,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 101, 136
+  orig: 103, 138
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 140, 9
+  size: 96, 136
+  orig: 98, 138
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 190, 108
+  size: 88, 140
+  orig: 92, 142
+  offset: 2, 1
+  index: -1
+4
+  rotate: false
+  xy: 98, 107
+  size: 90, 141
+  orig: 92, 143
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 2, 105
+  size: 94, 143
+  orig: 96, 145
+  offset: 1, 1
+  index: -1

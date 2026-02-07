@@ -1,0 +1,27 @@
+
+right_top_01.png
+size: 123,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 31
+  size: 63, 90
+  orig: 65, 92
+  offset: 1, 1
+  index: -1
+a2
+  rotate: true
+  xy: 2, 2
+  size: 27, 41
+  orig: 29, 43
+  offset: 1, 1
+  index: -1
+hand_idle
+  rotate: false
+  xy: 45, 5
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

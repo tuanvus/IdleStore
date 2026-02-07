@@ -1,0 +1,20 @@
+
+action_quest_warning.png
+size: 2436,2436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+warning1
+  rotate: false
+  xy: 2, 2384
+  size: 2432, 50
+  orig: 2432, 50
+  offset: 0, 0
+  index: -1
+warning4
+  rotate: false
+  xy: 2, 2332
+  size: 2196, 50
+  orig: 2198, 52
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,27 @@
+
+action_quest_gunshot_btn.png
+size: 358,358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+action_quest_gunshot_btn
+  rotate: true
+  xy: 116, 239
+  size: 117, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+gunshot_btn
+  rotate: false
+  xy: 2, 244
+  size: 112, 112
+  orig: 122, 122
+  offset: 5, 5
+  index: -1
+gunshot_btn_light
+  rotate: false
+  xy: 236, 236
+  size: 120, 120
+  orig: 122, 122
+  offset: 1, 1
+  index: -1

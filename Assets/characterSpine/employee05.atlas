@@ -1,0 +1,139 @@
+
+employee05.png
+size: 331,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_b
+  rotate: true
+  xy: 201, 164
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: true
+  xy: 263, 165
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+counter01_b
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 100, 180
+  offset: 21, 18
+  index: -1
+counter01_f
+  rotate: false
+  xy: 137, 145
+  size: 62, 58
+  orig: 100, 180
+  offset: 17, 14
+  index: -1
+fever_y
+  rotate: false
+  xy: 2, 144
+  size: 133, 185
+  orig: 133, 185
+  offset: 0, 0
+  index: -1
+hand_idle
+  rotate: false
+  xy: 287, 305
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hand_idle_b
+  rotate: false
+  xy: 287, 305
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+head_angry
+  rotate: true
+  xy: 137, 205
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: true
+  xy: 137, 268
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+head_idle1
+  rotate: true
+  xy: 182, 82
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+head_idle2
+  rotate: true
+  xy: 211, 205
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+head_look1
+  rotate: true
+  xy: 213, 268
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+head_look2
+  rotate: true
+  xy: 182, 19
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+head_welcome1
+  rotate: false
+  xy: 256, 90
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+head_welcome2
+  rotate: false
+  xy: 256, 16
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 285, 219
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: true
+  xy: 201, 151
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+table01_b
+  rotate: false
+  xy: 2, 64
+  size: 88, 78
+  orig: 100, 180
+  offset: 6, 8
+  index: -1
+table01_f
+  rotate: false
+  xy: 92, 64
+  size: 88, 78
+  orig: 100, 180
+  offset: 6, 8
+  index: -1

@@ -1,0 +1,173 @@
+Column1,Column1,Column2,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+text,text,text,Text,Текст,text,文本,文字,text,Texte
+자동,자동,Auto,Auto,Авто ,自動,自动,自動,อัตโนมัติ,Auto
+오픈가능,오픈가능,Open,öffenbar ,Открываемый|18,オープン可能,可开业,可開放,เปิดได้,ouvrable 
+보상,보상,Reward,Belohnung|16,Награда,報酬,奖励,獎勵,รางวัล,Récompense|14
+보상 ,보상,Reward,Belohnung,Награда,報酬,奖励,獎勵,รางวัล,Récompense|30
+ 보상,보상,Reward,Belohnung|10,Награда|10,報酬,奖励,獎勵,รางวัล,Récompense|8
+상점,상점,Shop,Laden,Магазин,ショップ,商店,商店,ร้านค้า,Charge
+나가기,나가기,Close,Schließen,Выйти,退場,推出,關閉,ออก,Sortir
+손님,손님,Customer,Gäste,Клиент,お客さん,客人,客人,ลูกค้า,Invités
+VIP,VIP,VIP,VIP,VIP,VIP客,VIP,VIP,VIP,VIP
+종업원,종업원,Employee,Angestellter ,Работник ,従業員 ,员工 ,員工 ,พนักงาน ,Employé 
+월드,월드,World,Welt,Мир,ワールド,世界,世界,โลก,Monde
+일일,일일,Daily,Täglich,Ежедневно,デイリー,日常,每日,รายวัน,Du quotidien
+COMPLETE,COMPLETE,COMPLETE,KOMPLETT,COMPLETE,COMPLETE,COMPLETE,COMPLETE,COMPLETE,COMPLÈTEMENT
+액션,액션,Action,Aktion,Действие,アクション,行动,動作,แอคชั่น,Action
+NEW!,NEW!,NEW!,NEU!,NEW!,NEW！,新！,NEW!,NEW!,NOUVEAU !
+진열대,진열대,Stand,stand,витрина,陳列台,货架,陳列架,ชั้นวาง,Stand
+LEVEL UP!,LEVEL UP!,LEVEL UP!,AUFLEVELN!,LEVEL UP!,LEVEL UP！,升级！,LEVEL UP!,LEVEL UP!,LEVEL UP!
+캐릭터,캐릭터,Character,Charakter,Персонаж,キャラクター,角色,角色,คาแรกเตอร์,Personnage
+상품,상품,Goods,Produkt,Товары,商品,商品,商品,สินค้า,Produit
+상품을 10번 진열하세요.,상품을 10번 진열하세요.,Display the goods 10 times.,Stellen Sie das Produkt 10 Mal aus.,Продемонстрируйте товары 10 раз.,商品を10回陳列しましょう。,请展示10次商品！,陳列商品10次。,แสดงรายการ 10 ครั้ง,Exposez le produit 10 fois.
+피버 스타트!,피버 스타트!,Fever Start,Fieber starten!|18,Начало лихорадки|18,フィーバースタート！|18,Fiber开始！,狂熱開始！,ฟีเวอร์ สตาร์ท!,Commencer la fièvre !|18
+선택,선택,Select,Auswahl,Выбрать,選択,选择,選擇,เลือก,Sélection
+닫기,닫기,Close,Schließen,Поместить,閉じる,关闭,關閉,ปิด,Fermer
+과자,과자,Cookie,Snacks,Закуски ,菓子,饼干,餅乾,ขนม,collations
+코인,코인,Gold,Münze,Монеты,コイン,金币,金幣,เหรียญ,Pièce de monnaie
+경험치,경험치,EXP,Ep,Опыт,経験値,经验值,經驗值,ค่าประสบการณ์,XP
+계산속도,계산속도,Checkout,Berechnung|25,Рассчитать|25,会計速度,结算速度,結帳速度,ความเร็วการคำนวณ|25,Calculer 
+구매량,구매량,Amount,Menge ,Количество |22,購入量,购买数量,購買量,จำนวนการซื้อ,Montant 
+이동속도,이동속도,Speed,Geschwindigkeit |20,Скорость |25,移動速度,客人移动速度,客人移動速度,ความเร็วของลูกค้า,Vitesse 
+진열대,진열대,Display,stand,витрина,陳列台,货架,陳列架,ชั้นวาง,d'affichage
+매장편집,매장편집,Edit,Store bearbeiten|18,Править,売り場編集,编辑商店,編輯商店,ปรับปรุงร้านค้า,MagasinModifier
+모든 테마,모든 테마,All Themes,Alle Themen,Все темы,全てのテーマ,全部主题,所有主題,ธีมทั้งหมด,Tous les sujets
+돌전등,돌전등,Stone lantern,Steinlaterne,Каменный светильник,石の照明,石灯,石燈,โคมไฟหิน,Lanterne en pierre
+시작,시작,Start,Starten,Начало,開始,开始,開始,เริ่ม,Démarrer|14
+ 받기,받기,Get,Erhalten|8,Получить|8,受ける,接收,領取,รับ,Obtenir|8
+받기,받기,Get,Erhalten|16,Получить|16,受ける,接收,領取,รับ,Obtenir|16
+상품편집,상품편집,Goods edit,Produkt bearbeiten|18,продукты|16,商品編集,商品编辑,編輯商品,แก้ไขรายการ,Modifier le produit|18
+모든 테마,모든 테마,All Themes,Alle Themen,Все темы,全てのテーマ,全部主题,所有主題,ธีมทั้งหมด,Tous les sujets
+상품이름,상품이름,Goods name,Produktname,Наименования продуктов,商品名,商品名称,商品名稱,ชื้อสินค้า,Nom du produit
+LEVEL UP,LEVEL UP,LEVEL UP,AUFLEVELN,LEVEL UP,LEVEL UP,升级,LEVEL UP,LEVEL UP,ÉLEVER LE NIVEAU
+레벨업,레벨업,LEVEL UP,LEVEL UP,LEVEL UP,LEVEL UP,升级,升級,เลเวลอัพ,LEVEL UP
+LEVEL UP,LEVEL UP,LEVEL UP,AUFLEVELN,LEVEL UP,LEVEL UP,升级,LEVEL UP,LEVEL UP,LEVEL UP
+계산시간,계산시간,Checkout time,Berechnungszeit,Подсчитанное время,会計時間,结算时间,結帳時間,เวลาคำนวณ,temps de calcul
+일일 퀘스트,일일 퀘스트,Daily Quest,Tägliche Quest,Дневной квест,デイリークエスト|28,每日任务,每日任務,เควสต์รายวัน,Quêtes quotidiennes
+남은 시간,남은 시간,Remain time,Verbleibende Zeit,Оставшееся время,残り時間,剩余时间,剩餘時間,เวลาที่เหลือ,Temps restant
+모든 퀘스트를 완료하세요.,모든 퀘스트를 완료하세요.,Complete all quests.,Schließen Sie alle Quests ab.,Завершить все квесты,すべてのクエストを完了してください。,请完成所有任务。,完成所有任務。,ทำภารกิจทั้งหมดให้สำเร็จ,Terminez toutes les quêtes.
+퀘스트 내용,퀘스트 내용,Quest info,Inhalt von Quest|20,Информация по квесту|18,クエスト内容,任务内容,任務內容,รายละเอียดเควสต์,Contenu de la quête|20
+1인 쇼파,1인 쇼파,Sofa,Sofa für eine Person,Софа на 1 человека,一人用ソファ,单人沙发,單人沙發,โซฟาสำหรับ 1 คน,Canapé pour une personne
+손님을 1번 불러오세요.,손님을 1번 불러오세요.,Call 1 customer.,Rufen Sie den Gast einmal herbei.,Позвать 1 клиента,お客さんを1回呼び込みましょう。,请邀请1次客人。,呼叫客人1次。,ลองเรียกลูกค้า 1 ครั้งดูสิ,Invoquez l'invité une fois.
+보상 :,보상 :,Reward:,Belohnung :|20,Награда:|20,報酬：,奖励：,獎勵：,รางวัล :,Récompense :|18
+진열대,진열대,Display stand,Ausstellungsstand,Выставочная витрина,陳列台,货架,陳列架,ชั้นวาง,Stand d'affichage
+다음 퀘스트,다음 퀘스트,Next Quest,Nächste Quest,следующий квест,次のクエスト,下一个任务,下個任務,เควสต์ต่อไป,prochaine quête
+손님을 1번 불러오세요.,손님을 1번 불러오세요.,Call 1 customer.,Rufen Sie den Gast einmal herbei.,Позвать 1 клиента,お客さんを1回呼び込みましょう。,请邀请1次客人。,呼叫客人1次。,ลองเรียกลูกค้า 1 ครั้งดูสิ,Invoquez l'invité une fois.
+보상 받기,보상 받기,Get reward,Erhalten,получать ,報酬受取,领取奖励,領取獎勵,รับรางวัล,Recevoir 
+보너스 목표,보너스 목표,Bonus quest,Bonusziel,Бонусная цель,ボーナス目標,额外奖励目标,紅利目標,เป้าหมายโบนัส,objectif bonus
+퀘스트 정보,퀘스트 정보,Quest info,Quest-Informationen,Информация о квесте,クエスト情報,任务信息,任務資訊,ข้อมูลเควสต์,Informations sur la quête
+나가기,나가기,Close,Schließen,Выйти,退場,推出,關閉,ออก,Sortir
+광고 영상을 보고 추가 보상을 받을까요?,광고 영상을 보고 추가 보상을 받을까요?,Receive additional rewards after watching Ads?,Sollen wir uns den Werbevideo ansehen und zusätzliche Belohnungen erhalten?|18,Получу ли я дополнительные вознаграждения за просмотр рекламного ролика?|18,広告動画を視聴し、追加報酬を獲得しますか？,是否观看广告获得额外奖励？,確定要觀看廣告，獲得額外獎勵嗎？,รับรางวัลเพิ่มเติมจากการดูวิดีโอโฆษณาหรือไม่?,Allons-nous regarder la vidéo promotionnelle et obtenir des récompenses supplémentaires ?|18
+보너스,보너스,Bonus,Bonus,Бонус,ボーナス,奖励,紅利,โบนัส,prime
+시작하기,시작하기,Start,Starten,Начать,開始する,开始,開始,เริ่ม,Démarrer
+손님을 1명 불러오세요.,손님을 1명 불러오세요.,Call a customer 1 time.,Rufen Sie den Gast einmal herbei.,Пригласите клиента 1 раз.,お客さん1人を呼び込みましょう。,请邀请1名客人。,呼叫客人1次。,ลองเรียกลูกค้า 1 คนดูสิ,Invoquez un invité.
+퀘스트 정보,퀘스트 정보,Quest info,Quest-Informationen,Информация о квесте,クエスト情報,任务信息,任務資訊,ข้อมูลเควสต์,Informations sur la quête
+확인,확인,OK,Bestätigen,Ок,確認,确认,確定,ยืนยัน,Confirmer
+확인,확인,OK,Bestätigen,Ок,確認,确认,確定,ยืนยัน,Confirmer
+광고 영상 보기,광고 영상 보기,Watch Ads,Werbevideos ansehen|18,Смотреть рекламу|18,広告を見る ,观看广告,觀看廣告,ดูคลิปโฆษณา,regarder des vidéos promotionnelles|16
+진열대,진열대,Display stand,Ausstellungsstand,Выставочная витрина,陳列台,货架,陳列架,ชั้นวาง,Stand d'affichage
+탭해서 열기,탭해서 열기,Tap to Open,"Tippen, zu öffnen","Нажмите, чтобы открыть",タップして開く,从标签打开,點擊以開啟,เปิดแท็บ,Appuyez pour ouvrir
+남은 보상 :,남은 보상 :,Remain Reward,Verbleibende Belohnung :,Оставшиеся награды:,残り報酬：,剩余奖励：,剩餘獎勵：,รางวัลที่เหลือ :,Récompense restante :
+카드팩 열기,카드팩 열기,Open Card Pack,Kartenpaket öffnen|16,Открыть пакет карт|16,カードを開く,打开卡包,開啟卡包,เปิดแพ็คการ์ด,Ouvrir le pack de cartes|14
+완료!,완료!,Complete!,Fertig!,Завершено!,完了！,完成！,完成！,สำเร็จ!,Achevé !
+퀘스트,퀘스트,Quest,Quest,Квест,クエスト,任务,任務,เควสต์,quêtes
+골드 카드,골드 카드,Gold Card,Goldene Karte,Золотая карта,ゴールドカード,金卡,金卡,การ์ดทอง,Carte d'Or
+잠금 해제 시간 :,잠금 해제 시간 :,Open Time:,Entsperrzeit :,Время разблокировки:|14,残り解除時間：,解锁时间：,解鎖時間：,เวลาปลดล็อค :,heure de déverrouillage :|14
+지금열기,지금열기,Now Open,Jetzt öffnen,Открыть сейчас|14,今すぐ開く,立即打开,現在開啟,เปิดตอนนี้,Ouvert 
+열기,열기,Open,Öffnen,Открыть,開く,打开,可開放,เปิด,Ouvrir
+시간 단축,시간 단축,Time Reduction,Zeitreduktion,Сократить время|16,時間の短縮 ,时间减少 ,時間減少 ,ลดเวลา ,réduction de temps|16
+새 카드 등장까지 남은 시간 : ,새 카드 등장까지 남은 시간 : ,Time left to refresh:,Verbleibende Zeit bis zum Erscheinen der neuen Karte :|18,Время оставшееся до перезарядки：|20,新規カード出現まで残り時間：,新卡出现剩余时间：,距離新卡出現剩餘時間：,เวลาที่เหลือจนกว่าการ์ดใหม่จะปรากฏขึ้น :,Temps restant jusqu'à l'apparition de la nouvelle carte :|16
+새로고침,새로고침,Refresh,Aktualisierung|18,Обновить,更新,刷新,重新整理,รีเฟรช,Mettre à jour
+캐릭터 패키지,캐릭터 패키지,Character,Charakter,героев,キャラクター,角色包,角色禮包,อักขระ ,Personnage 
+상품 패키지,상품 패키지,Goods,Produkt,товаров,商品,商品包,商品禮包,สินค้า ,Des biens 
+스페셜 패키지,스페셜 패키지,Special,Spezial,Специальный,スペシャル,特殊包,特別禮包,พิเศษ ,Spécial 
+단일 상품,단일 상품,Product,Produkt,Одиночный,単一商品,单个商品,單一商品,ผลิตภัณฑ์ ,Produit 
+루비,루비,Ruby,Rubin,Рубины,ルビー,红宝石,紅寶石,รูบี้,rubis
+골드,골드,Gold,Gold,Золото|25,ゴールド|20,黄金,金幣,ทอง,or
+스타터 패키지,스타터 패키지,Starter Package,Anfängerpaket,Пакет новичка,スターターパッケージ,新手包,新手禮包,แพ็กเกจเริ่มต้น,Forfait Débutant
+"500,000 골드","500,000 골드","500,000 Gold",500.000 Gold,"500,000 золота","500,000ゴールド","500,000黄金","500,000金幣","ทอง 500,000",500 000 pièces d'or
+500 루비,500 루비,500 Ruby,500 Rubine,500 рубинов,500ルビー,500红宝石,500紅寶石,รูบี้ 500,500 rubis
+*상품 중복 획득시,*상품 중복 획득시,"*If you obtain duplicate products,","*Wenn Sie doppelte Produkte erhalten, ",*При приобретении товаров одновременно,*商品を重複獲得時、,* 重复获得商品时,*重複獲得商品時，,*เมื่อได้สินค้าซ้ำซ้อน,"*Si vous recevez des produits en double,"
+상품 카드X3 으로 대체됩니다.*,상품 카드X3 으로 대체됩니다.*,it will be replaced by product card X3.,wird es durch die Produktkarte X3 ersetzt.*,Будет замена карточкой продукта X3.*,商品カードX3に代替されます。*,代替为商品卡×3。*,將會替換為商品卡3張。,จะถูกแทนที่ด้วยการ์ดสินค้า X3.*,ils seront remplacés par la carte produit X3.*
+인기!,인기!,HOT!,HEISS!,ГОРЯЧИЙ!,人気！,热销！,熱門！,เป็นที่นิยม!,CHAUD!
+오늘 그만보기,오늘 그만보기,Stop watching today,Nicht mehr<br>heute ansehen,Закончить<br>просмотр на сегодня|14,今日は表示しない,今天不再观看,今天不再顯示,หยุดดูวันนี้,Ne regarde<br>plus aujourd'hui
+알림,알림,Notice,Notiz ,Объявления,通知,提醒,通知,แจ้งเตือน,notification
+루비를 사용하여 진열 횟수 충전!,루비를 사용하여 진열 횟수 충전!,Recharge displays using rubies.,Ausstellungsanzahl mit Verwendung des Rubins aufladen!,Используйте рубины для зарядки количества витрин!,ルビーを使用して陳列回数をチャージ！,用红宝石增加展示次数！,使用紅寶石增加陳列次數！,ใช้รูบี้เพื่อเพิ่มจำนวนพลัง!,Rechargez le nombre d'expositions en utilisant le Ruby !
+구매,구매,Buy,Kaufen,Купить,購入,购买,購買,ซื้อ,Acheter
+닫기,닫기,Close,Schließen,Поместить,閉じる,关闭,關閉,ปิด,Fermer
+알림,알림,Notice,Benachrichtigung,Объявления,通知,提醒,通知,แจ้งเตือน,notification
+YES,YES,YES,JA,YES,YES,YES,YES,YES,OUI
+NO,NO,NO,NEIN,NO,NO,NO,NO,NO,NON
+루비를 사용하시겠습니까?,루비를 사용하시겠습니까?,Use Ruby?,Werden Sie Rubin verwenden?,Вы хотите использовать рубины?,ルビーを使用しますか？,是否使用红宝石？,確定要使用紅寶石嗎？,ต้องการใช้รูบี้หรือไม่?,Utiliserez-vous rubis ?
+서울,서울,Seoul,Seoul,Сеул,ソウル,首尔,首爾,โซล,Séoul
+서울 Lv40 이상 오픈,서울 Lv40 이상 오픈,Seoul Lv40,Seoul Lv40 und höher öffnen,Открытие при Сеул уровень 40 и выше,ソウルLv40以上オープン,打开首尔Lv40以上,首爾達到Lv.40時解鎖,เปิดโซล Lv40 ขึ้นไป,Ouvrir Séoul Lv40 et supérieur
+뉴욕,뉴욕,New York,New York,Нью-Йорк,ニューヨーク,纽约,紐約,นิวยอร์ก,New York
+서울 Lv40,서울 Lv40,Seoul Lv40,Seoul Lv40,Сеул уровень 40,ソウルLv40,首尔Lv40,首爾Lv.40,โซล Lv40,Séoul Niv.40
+랭킹,랭킹,Ranking,Ranking,Рейтинг,ランキング,排位,排行榜,อันดับ,classement
+랭크,랭크,Rank,Rang,Ранг,ランク,RANK,排名,แรงก์,rang
+플레이어,플레이어,Player,Spieler,Игрок,プレイヤー,玩家,玩家,ผู้เล่น,joueur
+획득 골드,획득 골드,Get Gold,Erhaltene Gold,Получить золото,獲得ゴールド,获得黄金,獲得金幣,ทองที่ได้รับ,A reçu de l'or
+일간 랭킹,일간 랭킹,Daily,Tägliche|18,Ежедневный|16,日間,日常的 ,日常的 ,รายวัน ,quotidien
+주간 랭킹,주간 랭킹,Weekly,Wöchentliche|18,Еженедельный|16,週間,每周 ,每週 ,รายสัปดาห์ ,Hebdomadaire|16
+월간 랭킹,월간 랭킹,Monthly,Monatliche|18,Ежемесячный|16,月間,月刊 ,月刊 ,รายเดือน ,mensuel
+전체 랭킹,전체 랭킹,All,Gesamte|18,Все,全体,全部,全部 ,ทั้งหมด ,complet
+국가 랭킹,국가 랭킹,Nation,Nationale|18,Национальный|16,国,国家 ,國家 ,ชาติ ,national
+1위,1위,1st,1te,1ый,1位,第1,第1名,อันดับ 1,1er
+설정,설정,Setting,Einstellung,Объявления,設定,设置,設定,ตั้งค่า,attitude
+언어,언어,Language,Sprache,Язык,言語,语言,語言,ภาษา,Langue
+한국어,한국어,Korean,Koreanisch,Корейский|16,韓国語,韩国语,韓文,ภาษาเกาหลี,coréen
+배경음,배경음,BGM,BGM,Фоновый звук|16,BGM,背景音,背景音樂,เพลงพื้นหลัง,BGM
+효과음,효과음,SFX,SFX,Звуковой эффект|16,効果音,音效,音效,เสียงเอฟเฟกต์,SFX
+푸시 알림,푸시 알림,Notice,Notiz ,Объявления |16,通知,提醒,通知,แจ้งเตือน,notification
+문의하기,문의하기,Ask,Fragen,Связаться с нами|16,お問い合わせ,答疑,諮詢,ติดต่อเรา,demander
+게임저장,게임저장,Game Save,Spiel speichern,Сохранить игру|16,プレイデータ<br>保存,保存游戏,儲存遊戲,บันทึกเกม,sauvegarder la partie|16
+계정연동,계정연동,Link Account,Konto verknüpfen,Ссылка на аккаунт|16,アカウント連携,绑定账户,連動帳號,เชื่อมต่อแอคเคาท์,lien de compte
+FaceBook 로그인,FaceBook 로그인,Facebook Login,Facebook anmelden|12,Логин через Facebook|12,Facebookログイン,登录FaceBook,登入FaceBook,ล็อกอิน FaceBook,Connectez Facebook|12
+FaceBook 로그아웃,FaceBook 로그아웃,Facebook Logout,Facebook abmelden|12,Выйти из Facebook|12,Facebookログアウト,退出FaceBook,登出FaceBook,ล็อกเอาท์ FaceBook,déconnecter de Facebook|12
+테이터 초기화,테이터 초기화,Data Clear,Daten initialisieren,Сброс данных,データ初期化,初始化数据,重置數據,ตั้งค่าเริ่มต้น,initialiser les données
+Event Day!,Event Day!,Event Day!,Eventstag!,День события!,Event Day！,活动日！,Event Day!,Event Day!,jour de l'événement !
+10분동안,20분동안,For 20 min,Für 20min,на 20 минут,20分間,20分钟,20分鐘間,เป็นเวลา 20 นาที,Pendant 20min
+광고 보기!,광고 보기!,Watch Ads,Werbung ansehen!|14,Смотреть рекламу|14,広告視聴！,观看广告！,觀看廣告！,ดูโฆษณา!,regarder l'annonce !|14
+                                                                                                                                                                                                                                                                                                                                                          ,0.5,0.5,"0,5",0.5,50%,50%,0.5,0.5,"0,5"
+AUTO 플레이,AUTO 플레이,AUTO PLAY,AUTO ABSPIELEN|24,Автовоспроизведение,AUTOプレイ,自动游戏,自動遊玩,เล่นอัตโนมัติ,Lecture automatique
+레벨 보상,레벨 보상,Level Reward,Level-Belohnung|30,Награда за уровень|23,レベル報酬,等级奖励,等級獎勵,เลเวลรางวัล,récompense de niveau|20
+보너스 루비,보너스 루비,Bonus Ruby,Bonus-Rubin,Бонусные рубины,ボーナスルビー,额外奖励红宝石,紅利紅寶石,โบนัสรูบี้,Rubis bonus
+구매 완료,구매 완료,Bought,Einkauf<br>abgeschloß|18,Покупка<br>совершена|18,購入完了,购买完毕,購買完成,ซื้อสำเร็จ,achat terminé
+무료 보상,무료 보상,Free Reward,Kostenlose<br>Belohnung|20,Бесплатная<br>награда|20,無料報酬,免费奖励,免費獎勵,รางวัลฟรี,Récompense<br>gratuite|20
+접속 보상,접속 보상,Access Reward,Zugang-Belohnung,Награда за подключение,ログイン報酬,登录奖励,連線獎勵,รางวัลการเข้าใช้งาน,récompense d'accès
+퀘스트 클리어 5회 달성 시,퀘스트 클리어 5회 달성 시,"If you complete 5 quests,","Wenn du 5 Quests abschließt,",При завершении 5 квестов,クエストクリア5回達成時,完成5次任务时,完成任務5次時,เมื่อทำเควสครบ 5 ครั้ง,"Si vous terminez 5 quêtes,"
+지급!,지급!,get!,Zahlungen!,Сейчас!,支給！,发放！,發放！,การชำระเงิน!,avoir!
+완료 보상,완료 보상,Reward,Abschloß-Belohnung,Награда за завершение,完了報酬,完成奖励,完成獎勵,รางวัลที่สำเร็จ,Récompense d'achèvement
+광고 영상을 보면 버프 시간 2배 보너스!,광고 영상을 보면 버프 시간 2배 보너스!,Watch ads to double buff duration!,"Wenn du dich den Werbespot ansiehst, <br>erhaltest du als Bonus die doppelte Buff-Zeit!","Если посмотреть рекламный ролик,<br> время баффа удваивается!",広告動画を視聴すると、<br>バフ時間2倍ボーナス！,观看广告视频即可额外<br>获得2倍的增益时间奖励！,觀看廣告時，<br>增益持續時間將增加為2倍！,หากดูวิดีโอโฆษณา <br>เวลาบัฟจะเพิ่มเป็น 2 เท่า!,"Si vous regardez la publicité, vous obtiendrez <br>le double du temps de buff en bonus !"
+광고 영상 보기,광고 영상 보기,Watch Ads,Werbevideos ansehen,Посмотреть рекламу,広告動画を視聴する,观看广告,觀看廣告,ดูคลิปโฆษณา,regarder des vidéos promotionnelles
+닫기,닫기,Close,Schließen,Поместить,閉じる,关闭,關閉,ปิด,Fermer
+알림,알림,Notice,Benachrichtigung,Объявления,通知,提醒,通知,แจ้งเตือน,notification
+완료 보상 : ,완료 보상 :,Reward:,Abschloß-Belohnung :,Награда за завершение:,完了報酬：,完成奖励：,完成獎勵：,รางวัลสำเร็จ:,Récompense d'achèvement :
+빈 카드 슬롯이 없습니다.,빈 카드 슬롯이 없습니다.,There is no empty card slot.,Keinen freien Kartensteckplatz,Нет пустых слотов для карт.,空きカードスロットがありません。,没有空卡槽。,無空的卡片欄位。,ไม่มีช่องเสียบการ์ดเปล่า,Il n'y a pas d'emplacement de carte vide.
+보상창으로 이동하시겠습니까?,진행하시겠습니까?,Do you want to go to the reward pop?,Willst du zum Belohnungs-Pop gehen? ,Хочешь пойти на награду? ,リワードポップに行きたいですか？ ,你想去奖励流行音乐吗？ ,你想去獎勵流行音樂嗎？ ,คุณต้องการที่จะไปที่ป๊อปรางวัล? ,Voulez-vous aller à la pop de récompense ? 
+*슬롯이 없는 경우 완료보상을 받을 수 없습니다.*,*슬롯이 없는 경우 완료보상을 받을 수 없습니다.*,"*If there are no slots, <br>you will not receive a reward.*","*Wenn es keinen Steckplatz gibt, <br>erhalten Sie keine Abschloß-Belohnung.*","*Если слотов нет, вы не <br>получите награду за завершение.*",*スロットがない場合、<br>完了報酬を獲得できません。*,* 若没有插槽无法领取完成奖励。*,*沒有欄位時，將無法領取完成獎勵。*,*หากไม่มีช่องเหลือ <br>คุณจะไม่สามารถรับรางวัลความสำเร็จได้*,"*S'il n'y a pas d'emplacement, vous ne obtenez <br>pas de récompense d'achèvement.*"
+YES,YES,YES,JA,YES,YES,YES,YES,YES,OUI
+NO,NO,NO,NEIN,NO,NO,NO,NO,NO,NON
+종업원 편집,종업원 편집,Edit,Bearbeiten ,Редактировать ,編集 ,编辑 ,編輯 ,แก้ไข ,Éditer 
+퀘스트 클리어 3회 달성 시,퀘스트 클리어 3회 달성 시,After completing 3 quests ,Nach Abschluss von 3 Quests ,После выполнения 3 квестов ,3つのクエストを完了した後 ,完成3个任务后 ,完成3個任務後 ,หลังจากทำภารกิจครบ 3 ภารกิจ ,Après avoir terminé 3 quêtes 
+*캐릭터는 중복 획득 시 100 루비로 대체 됩니다.*,캐릭터는 중복 획득 시 100루비로 대체 됩니다.*,*Duplicate characters will be replaced <br>with 100 rubies.*,*Charaktere werden beim <br>Duplizieren Durch 100 Rubine ersetzt.* ,*При дублировании персонажи <br>Будут заменены на 100 рубинов.* ,*複製すると、キャラクターは<br>100ルビーに置き換えられます。* ,*复制时角色将替换为 100 颗红宝石。* ,*複製時角色將替換為 100 顆紅寶石。* ,*ตัวละครจะถูกแทนที่ด้วย <br>100 รูบี้เมื่อทำซ้ำ* ,*Les caractères seront remplacés <br>par 100 rubis lorsqu'ils seront dupliqués.* 
+20분 동안,20분 동안,for 20 minutes ,für 20 Minuten ,на 20 минут ,20分間 ,20分钟 ,20分鐘 ,เป็นเวลา 20 นาที ,pendant 20 minutes 
+광고 시청 시 60분 단축!,광고 시청 시 60분 단축!,Save 60 minutes when watching ads! ,Sparen Sie 60 Minuten beim Anzeigen von Werbung! ,Сэкономьте 60 минут при просмотре рекламы! ,広告を見るときに60分節約！ ,观看广告节省 60 分钟！ ,觀看廣告節省 60 分鐘！ ,ประหยัดเวลา 60 นาทีเมื่อดูโฆษณา! ,Gagnez 60 minutes lorsque vous regardez des publicités ! 
+광고 시청 가능,광고 시청 가능!,Ad available!,Anzeige vorhanden!|16,Доступна реклама! |16,広告あり！ ,有广告！ ,有廣告！ ,มีโฆษณา! ,Annonce disponible! |16
+진열중,진열중,On Display,Bildschirm|16,На экране ,展示中 ,展示中 ,展示中 ,บนจอแสดงผล ,À l'affiche 
++ 3회 플레이 보너스,+ 3회 플레이 보너스,+ 3 times play bonus,3-facher Spielbonus ,3-кратный игровой бонус ,3回プレイボーナス ,3次游戏奖金 ,3次遊戲獎金 ,โบนัสเล่น 3 เท่า ,Bonus de jeu 3 fois 
+가치,가치,Value ,Value ,Value ,Value ,Value ,Value ,Value ,Value 
+내부 꾸미기 완료!,내부 꾸미기<br>완료!,Interior deco<br>Complete!,Innendeko fertig! ,Декор интерьера <br>Завершен! ,インテリアデコ完成！ ,室内装饰完成！ ,室內裝飾完成！ ,ตกแต่งภายใน ครบ! ,Déco intérieure terminée ! 
+적용,적용,Apply,Apply,Apply,Apply,Apply,Apply,Apply,Apply
+"게임 내 모든 광고가 제거됩니다. 단, 보상은 동일하게 획득할 수 있습니다.","게임 내 모든 광고가 제거됩니다.<br>단, 보상은 동일하게 획득할 수<br>있습니다.","All in-game ads are removed.<br>However, the same rewards<br>can be obtained.",Alle Anzeigen im Spiel werden<br>entfernt. Es können jedoch die <br>gleichen Belohnungen<br>erhalten werden.,Вся внутриигровая реклама<br>удалена. Однако такие<br>же награды можно получить.,ゲーム内の広告はすべて削除<br>されます。ただし、同じ報酬<br>を得ることができます。,所有游戏内广告均已删除。<br>但是，可以獲得相同的獎勵。,所有遊戲內廣告均已刪除。<br>但是，可以獲得與購買前<br>相同的廣告獎勵。,โฆษณาในเกมทั้งหมดจะถูกลบออก<br>อย่างไรก็ตาม สามารถรับรางวัลเดียวกันได้,"Toutes les publicités du jeu<br>sont supprimées.<br>Cependant, les mêmes récompenses<br>peuvent être obtenues.|14"
+상품을 구매했습니다.,상품을 구매했습니다.,Purchase complete,Ich habe ein Produkt gekauft. ,Я купил продукт. ,商品を購入しました。 ,我购买了一个产品。 ,我購買了一個產品。 ,ฉันซื้อสินค้า ,J'ai acheté un produit. 
+구매완료,구매완료,Purchased,Gekauft ,Куплено ,購入した ,已购买 ,已購買 ,ซื้อแล้ว ,Acheté 
+60분동안,60분 동안,for 60min,für 60min,на 60м ,60分間 ,60 分钟 ,60 分鐘 ,60 นาที ,for 60min
+오픈 시간 단축,오픈 시간 단축,Time Reduction,Zeitreduktion,Сократить время|22,時間の短縮 ,时间减少 ,時間減少 ,ลดเวลา ,réduction de temps|22
+이름,이름,Name,Name ,Имя ,名前 ,姓名 ,姓名 ,ชื่อ ,Nom 
+저장,저장,save,save,Сохранять |16,保存 ,保存 ,保存 ,บันทึก ,save
+광고제거,광고제거,AD remove,Entfernen<br>Anzeige|16,Удалить <br>реклама|16,広告削除,移除广告 ,移除廣告 ,ลบโฆษณา ,supprimer<br>Publicité|16
+30일,30일,30 days,30 Tage|22,30 день|22,30日,30天,30天,30 วัน,30 jours|22
+3개월,3개월,3 months,3 Monate|22,3 месяц|22,3ヶ月,3个月,3个月,3 เดือน,3 mois|22

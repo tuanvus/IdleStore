@@ -1,0 +1,13 @@
+
+main_quest_btn_light.png
+size: 127,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_quest_box_button_light
+  rotate: false
+  xy: 2, 2
+  size: 123, 123
+  orig: 405, 402
+  offset: 141, 141
+  index: -1

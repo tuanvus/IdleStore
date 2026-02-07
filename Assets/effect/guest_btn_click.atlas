@@ -1,0 +1,13 @@
+
+guest_btn_click.png
+size: 140,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guest_btn_click_blue
+  rotate: false
+  xy: 2, 2
+  size: 136, 136
+  orig: 405, 402
+  offset: 134, 135
+  index: -1

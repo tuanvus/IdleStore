@@ -1,0 +1,118 @@
+
+theif_effect.png
+size: 553,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 33
+  size: 95, 94
+  orig: 97, 96
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 410, 414
+  size: 134, 137
+  orig: 136, 139
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 381, 23
+  size: 150, 153
+  orig: 152, 155
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 211, 13
+  size: 168, 163
+  orig: 170, 165
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 213, 178
+  size: 181, 177
+  orig: 184, 179
+  offset: 2, 1
+  index: -1
+6
+  rotate: false
+  xy: 213, 357
+  size: 195, 194
+  orig: 197, 196
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 2, 342
+  size: 209, 209
+  orig: 211, 211
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 2, 129
+  size: 207, 211
+  orig: 209, 213
+  offset: 1, 1
+  index: -1
+a1
+  rotate: true
+  xy: 410, 354
+  size: 58, 92
+  orig: 60, 94
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 482, 263
+  size: 66, 89
+  orig: 69, 91
+  offset: 1, 1
+  index: -1
+a3
+  rotate: false
+  xy: 396, 267
+  size: 84, 85
+  orig: 86, 87
+  offset: 1, 1
+  index: -1
+a4
+  rotate: false
+  xy: 99, 46
+  size: 89, 81
+  orig: 91, 83
+  offset: 1, 1
+  index: -1
+box1
+  rotate: true
+  xy: 475, 199
+  size: 62, 73
+  orig: 64, 76
+  offset: 1, 1
+  index: -1
+box2
+  rotate: true
+  xy: 504, 368
+  size: 44, 36
+  orig: 46, 40
+  offset: 1, 2
+  index: -1
+box_light1
+  rotate: false
+  xy: 396, 191
+  size: 77, 74
+  orig: 78, 76
+  offset: 1, 1
+  index: -1
+line1
+  rotate: true
+  xy: 2, 2
+  size: 9, 150
+  orig: 11, 152
+  offset: 1, 1
+  index: -1

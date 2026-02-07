@@ -1,0 +1,34 @@
+
+outside_shop_02_oppear.png
+size: 388,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 146
+  size: 165, 240
+  orig: 165, 240
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 142, 218
+  orig: 144, 220
+  offset: 1, 1
+  index: -1
+2.2
+  rotate: false
+  xy: 169, 219
+  size: 39, 167
+  orig: 41, 169
+  offset: 1, 1
+  index: -1
+close_2
+  rotate: false
+  xy: 169, 158
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1

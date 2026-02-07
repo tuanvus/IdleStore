@@ -1,0 +1,20 @@
+
+blackout.png
+size: 1804,565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackout
+  rotate: false
+  xy: 2, 57
+  size: 1800, 506
+  orig: 1800, 506
+  offset: 0, 0
+  index: -1
+idle_b
+  rotate: false
+  xy: 2, 2
+  size: 1800, 53
+  orig: 1800, 53
+  offset: 0, 0
+  index: -1

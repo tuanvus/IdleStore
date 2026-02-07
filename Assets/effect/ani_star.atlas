@@ -1,0 +1,41 @@
+
+ani_star.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star01
+  rotate: false
+  xy: 2, 4
+  size: 60, 58
+  orig: 64, 64
+  offset: 2, 3
+  index: -1
+star02
+  rotate: false
+  xy: 2, 4
+  size: 60, 58
+  orig: 64, 64
+  offset: 2, 3
+  index: -1
+star03
+  rotate: false
+  xy: 2, 4
+  size: 60, 58
+  orig: 64, 64
+  offset: 2, 3
+  index: -1
+star04
+  rotate: false
+  xy: 2, 4
+  size: 60, 58
+  orig: 64, 64
+  offset: 2, 3
+  index: -1
+star05
+  rotate: false
+  xy: 2, 4
+  size: 60, 58
+  orig: 64, 64
+  offset: 2, 3
+  index: -1

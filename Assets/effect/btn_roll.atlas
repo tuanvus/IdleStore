@@ -1,0 +1,13 @@
+
+btn_roll.png
+size: 27,27
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn10
+  rotate: false
+  xy: 2, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

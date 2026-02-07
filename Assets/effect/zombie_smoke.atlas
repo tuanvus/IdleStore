@@ -1,0 +1,62 @@
+
+zombie_smoke.png
+size: 580,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 391, 484
+  size: 95, 94
+  orig: 97, 96
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 154, 18
+  size: 134, 137
+  orig: 136, 139
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 150, 153
+  orig: 152, 155
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 290, 2
+  size: 168, 163
+  orig: 170, 165
+  offset: 1, 1
+  index: -1
+5
+  rotate: true
+  xy: 212, 397
+  size: 181, 177
+  orig: 184, 179
+  offset: 2, 1
+  index: -1
+6
+  rotate: true
+  xy: 210, 172
+  size: 195, 194
+  orig: 197, 196
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 2, 369
+  size: 208, 209
+  orig: 211, 211
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 2, 157
+  size: 206, 210
+  orig: 209, 213
+  offset: 1, 2
+  index: -1

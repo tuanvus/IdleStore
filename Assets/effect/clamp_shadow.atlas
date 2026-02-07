@@ -1,0 +1,13 @@
+
+clamp_shadow.png
+size: 51,51
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 2, 20
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1

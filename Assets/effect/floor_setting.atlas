@@ -1,0 +1,41 @@
+
+floor_setting.png
+size: 236,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1x1
+  rotate: false
+  xy: 2, 21
+  size: 95, 50
+  orig: 97, 52
+  offset: 1, 1
+  index: -1
+1x2
+  rotate: true
+  xy: 162, 96
+  size: 138, 72
+  orig: 142, 74
+  offset: 2, 1
+  index: -1
+Light_2
+  rotate: false
+  xy: 2, 73
+  size: 158, 161
+  orig: 300, 300
+  offset: 71, 70
+  index: -1
+line_1
+  rotate: true
+  xy: 2, 10
+  size: 9, 80
+  orig: 11, 88
+  offset: 1, 6
+  index: -1
+spure1
+  rotate: true
+  xy: 99, 27
+  size: 44, 93
+  orig: 46, 98
+  offset: 1, 2
+  index: -1

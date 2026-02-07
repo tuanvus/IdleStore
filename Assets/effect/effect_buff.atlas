@@ -1,0 +1,125 @@
+
+effect_buff.png
+size: 922,922
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CFXM3_T_GlowStar
+  rotate: false
+  xy: 647, 137
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+buff_speed_up
+  rotate: false
+  xy: 2, 144
+  size: 370, 52
+  orig: 370, 52
+  offset: 0, 0
+  index: -1
+buff_speed_up_1
+  rotate: false
+  xy: 2, 96
+  size: 364, 46
+  orig: 364, 46
+  offset: 0, 0
+  index: -1
+calaulation
+  rotate: true
+  xy: 700, 269
+  size: 651, 53
+  orig: 651, 53
+  offset: 0, 0
+  index: -1
+calaulation_1
+  rotate: true
+  xy: 644, 267
+  size: 653, 54
+  orig: 655, 56
+  offset: 1, 1
+  index: -1
+exp up
+  rotate: false
+  xy: 529, 33
+  size: 208, 53
+  orig: 208, 53
+  offset: 0, 0
+  index: -1
+exp up_1
+  rotate: true
+  xy: 866, 199
+  size: 210, 54
+  orig: 212, 56
+  offset: 1, 1
+  index: -1
+fever_bg03
+  rotate: false
+  xy: 2, 560
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+fever_bg04
+  rotate: false
+  xy: 2, 198
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+gold up
+  rotate: false
+  xy: 368, 88
+  size: 252, 53
+  orig: 252, 53
+  offset: 0, 0
+  index: -1
+gold up_1
+  rotate: true
+  xy: 866, 411
+  size: 253, 54
+  orig: 255, 56
+  offset: 1, 1
+  index: -1
+increse in
+  rotate: true
+  xy: 811, 276
+  size: 644, 53
+  orig: 644, 53
+  offset: 0, 0
+  index: -1
+increse in_1
+  rotate: true
+  xy: 755, 274
+  size: 646, 54
+  orig: 648, 56
+  offset: 1, 1
+  index: -1
+levelup1
+  rotate: false
+  xy: 277, 36
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+levelup2
+  rotate: true
+  xy: 866, 666
+  size: 254, 54
+  orig: 256, 56
+  offset: 1, 1
+  index: -1
+speed up
+  rotate: false
+  xy: 374, 143
+  size: 271, 53
+  orig: 271, 53
+  offset: 0, 0
+  index: -1
+speed up_1
+  rotate: false
+  xy: 2, 39
+  size: 273, 55
+  orig: 275, 55
+  offset: 1, 0
+  index: -1

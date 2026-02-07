@@ -1,0 +1,13 @@
+
+outside_shop_05_light.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 2
+  size: 173, 248
+  orig: 173, 248
+  offset: 0, 0
+  index: -1

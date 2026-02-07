@@ -1,0 +1,20 @@
+
+effect_levelup_ready_loading.png
+size: 540,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_1
+  rotate: false
+  xy: 260, 261
+  size: 278, 277
+  orig: 300, 300
+  offset: 11, 11
+  index: -1
+flare_e3
+  rotate: false
+  xy: 2, 282
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

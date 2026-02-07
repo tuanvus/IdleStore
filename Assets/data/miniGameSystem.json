@@ -1,0 +1,21 @@
+{
+  "UFO" : 
+  {
+	"KillGold" : 0,
+	"AttackGold" : 0,
+	"Clear" : 10,
+	"3StarPer" : 2
+  },
+  
+  "Thief" : 
+  {
+	"GetGold" : 0,
+	"EliteGetGold" : 0,
+	"Clear" : 2,
+	"StarClear" : 5,
+	"3StarPer" : 2,
+	"MoveSpeed" : 2.4,
+	"GrapSpeed" : 200
+  }
+  
+ }

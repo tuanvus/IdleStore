@@ -1,0 +1,12 @@
+{
+	"LocalPush" : 
+	[
+		[ "ePush_Card_Pack", false, "카드팩이 완료 되었습니다. 확인해 보세요!"],
+		[ "ePush_New_Season", false, "새로운 시즌이 시작 되었습니다."],
+		[ "ePush_Day_Ruby", true, "12시에서 1시에 접속하면 루비 10개 획득"],
+		[ "ePush_Action_Game", true, "액션 게임을 할수 있습니다"],
+		[ "ePush_Buff_Morning", true, "8시에서 9시 골드 두배"],
+		[ "ePush_Buff_Afternoon", true, "12시에서 1시 골드 두배"],
+		[ "ePush_Buff_evening", true, "17시에서 18시 골드 두배"]
+	]
+}

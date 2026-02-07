@@ -1,0 +1,83 @@
+
+speaker_01.png
+size: 139,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 35
+  size: 65, 102
+  orig: 67, 104
+  offset: 1, 1
+  index: -1
+a1
+  rotate: false
+  xy: 105, 38
+  size: 22, 29
+  orig: 24, 31
+  offset: 1, 1
+  index: -1
+a1.1
+  rotate: false
+  xy: 69, 65
+  size: 28, 35
+  orig: 32, 39
+  offset: 2, 2
+  index: -1
+a2
+  rotate: false
+  xy: 116, 113
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+a2.1
+  rotate: false
+  xy: 110, 8
+  size: 22, 28
+  orig: 26, 32
+  offset: 2, 2
+  index: -1
+b1
+  rotate: true
+  xy: 2, 2
+  size: 31, 41
+  orig: 33, 43
+  offset: 1, 1
+  index: -1
+b1.1
+  rotate: true
+  xy: 69, 102
+  size: 35, 45
+  orig: 39, 49
+  offset: 2, 2
+  index: -1
+b2
+  rotate: true
+  xy: 69, 38
+  size: 25, 34
+  orig: 27, 36
+  offset: 1, 1
+  index: -1
+b2.1
+  rotate: true
+  xy: 45, 4
+  size: 29, 38
+  orig: 33, 42
+  offset: 2, 2
+  index: -1
+c3
+  rotate: false
+  xy: 99, 69
+  size: 29, 31
+  orig: 33, 35
+  offset: 2, 2
+  index: -1
+c4
+  rotate: false
+  xy: 85, 4
+  size: 23, 32
+  orig: 26, 36
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,126 @@
+{
+   "AiInposClick" : [["InPosClick"],["RunFind",1],["WalkStand"]],
+   "AiResetAi" : [["WalkStand"]],
+   "AiAllAni" : [["WalkStand"]],
+   
+   "AiItemGet0" : [["Emotion","smile", 0.5],["WalkIn"],["RunFind",3],["WalkStand"]],
+   "AiItemGet1" : [["Emotion","smile", 0.5],["WalkIn"],["WalkStand"]],
+   "AiItemGet2" : [["Emotion","smile", 0.5],["WalkStand"]],
+   
+   "AiIdleAll" : [["Idle", 10000, true]],
+   "AiHeart" : [["Emotion","heart", 1000],["Idle", 10000, true]],
+   "AiStopHeart" : [["Emotion","heart", 1],["Idle", 10000, true]],
+	
+   "RunOut0" : [["Emotion","smile", 0.5, 50],["Walk",2,42],["DelChar"]],
+   "RunOut1" : [["Emotion","smile", 0.5, 50],["Walk",2,2],["DelChar"]],
+   "RunOut2" : [["Emotion","smile", 0.5, 50],["Walk",25,2],["DelChar"]],
+   "RunOut3" : [["Emotion","smile", 0.5, 50],["Walk",3,36],["DelChar"]],
+   "RunOut4" : [["Walk",2,2],["DelChar"]],
+   
+   "BuffRunOut" : [["Oneani", "exciting", 3.0 ],["Walk",3,36],["DelChar"]],
+   
+   "RunWalkDoor" : [["Appear"],["Wait"]],
+   "RunWalkDoor1" : [["Appear"],["Wait"]],
+   
+   "RunWaitPlayer" : [["Appear"],["Wait"]],
+   
+   "RunWalkVip1" : [["Appear"],["RunFind",1],["Walk",17,27],["Walk",14,34],["Walk",13,36],["Walk",9,29],["Walk",9,24],["RunFind",1],["WalkIn"],["WalkStand"]],
+   "RunWalkVip2" : [["Appear"],["Walk",17,27],["Walk",14,34],["RunFind",1],["Walk",13,36],["Walk",9,29],["Walk",9,24],["WalkIn"],["WalkStand"]],
+   "RunWalkVip3" : [["Appear"],["Walk",17,27],["Walk",14,34],["Walk",13,36],["Walk",9,29],["RunFind",1],["Walk",9,24],["WalkStand"]],
+   "RunWalkVip4" : [["Appear"],["Walk",17,27],["Walk",14,34],["Walk",13,36],["Walk",9,29],["Walk",9,24],["WalkIn"],["WalkStand"]],
+	
+   "RunWalkTemp" : [["RunFind",3],["RunWalkDoor"]],
+   "RunWalkClark" : [["RunFind",3],["WalkIn"],["RunWalkClark"]],
+   
+   "AiDefault" : [["Appear"],["Walk",7,25],["Walk",12,34],["Walk",17,28],["RunFind",3],["Walk",21,36],["Walk",25,45],["DelChar"]],
+   "AiDefault1" : [["Appear"],["Walk",7,25],["Walk",12,34],["Walk",17,28],["RunFind",3],["Walk",19,22],["Walk",19,23],["Walk",13,6],["Walk",10,12],["Walk",6,21],["Walk",2,14],["DelChar"]],
+   "AiDefault2" : [["Appear"],["Walk",6,34],["Walk",9,28],["RunFind",3],["Walk",13,36],["RunFind",3],["Walk",15,32],["Walk",17,27],["Walk",19,32],["Walk",25,45],["DelChar"]],
+   "AiDefault3" : [["Appear"],["Walk",6,34],["Walk",9,28],["RunFind",3],["Walk",13,36],["RunFind",3],["Walk",15,32],["Walk",19,21],["RunFind",3],["Walk",19,23],["Walk",13,6],["Walk",10,12],["Walk",6,21],["RunFind",3],["Walk",2,14],["DelChar"]],
+   "AiDefault4" : [["Appear"],["Walk",22,36],["Walk",17,28],["Walk",14,34],["RunFind",3],["Walk",8,27],["Walk",5,36],["Walk",2,40],["DelChar"]],
+   "AiDefault5" : [["Appear"],["Walk",22,36],["Walk",17,28],["Walk",14,34],["RunFind",3],["Walk",7,25],["Walk",5,21],["Walk",2,14],["DelChar"]],
+   "AiDefault6" : [["Appear"],["Walk",19,32],["Walk",17,24],["Walk",19,21],["Walk",19,23],["Walk",13,7],["Walk",7,22],["RunFind",3],["Walk",2,14],["DelChar"]],
+   "AiDefault7" : [["Appear"],["Walk",19,32],["Walk",17,24],["Walk",19,21],["Walk",19,23],["Walk",13,7],["Walk",7,22],["RunFind",3],["Walk",8,29],["RunFind",3],["Walk",2,40],["DelChar"]],
+   
+   "AiBuffChar1" : [["Appear"],["Walk",6,34],["Walk",9,28],["RunFind",3],["WalkIn"],["WalkIn"],["Walk",13,6],["Walk",10,12],["Walk",6,21],["Walk",2,14],["DelChar"]],
+   "AiBuffChar2" : [["Appear"],["Walk",6,34],["Walk",9,28],["Walk",13,36],["WalkIn"],["WalkIn"],["WalkIn"],["Walk",13,6],["Walk",10,12],["Walk",6,21],["RunFind",3],["Walk",2,14],["DelChar"]],
+  
+   
+    "AiCustomer_1" : [["Appear"],["WalkIn"],["RunFind",1],["WalkIn"], ["NextAi", "AiNext_2"]],
+	"AiCustomer_2" : [["Appear"],["WalkIn"],["WalkIn"],["NextAi", "AiNext_1"]],
+	"AiCustomer_3" : [["Emotion","joy", 1.0],["Appear"],["WalkIn"],["WalkIn"],["NextAi", "AiNext_1"]],
+	
+	"AiNext_1" : [["Emotion","smile", 0.5, 50],["WalkIn"],["RunFind",1],["WalkIn"], ["NextAi", "AiNext_2"]],
+	"AiNext_2" : [["Emotion","smile", 0.5, 50],["WalkIn"],["WalkIn"],["NextAi", "AiNext_1"]],
+	
+	"GetOut" : [["Clone"], ["RunMove", 0,0],["DelChar"]],
+	"CrapOut" : [["Appear"],["lock",1.2],["DelChar"]],
+	
+    "RunThiefCustomer1" : [["Appear"],["RunFind",1],["WalkIn"],["WalkStand"]],
+    "RunThiefCustomer2" : [["Appear"],["WalkIn"],["RunFind",1],["WalkIn"],["WalkStand"]],
+	"RunThiefCustomer3" : [["Appear"],["WalkIn"],["WalkIn"],["WalkStand"]],
+	
+	
+    "RunThiefOut0" : [["RunFind",5],["WalkOne"],["RunFind",5],["Walk",2,42],["DelChar"]],
+    "RunThiefOut1" : [["RunFind",5],["WalkOne"],["RunFind",5],["Walk",2,2],["DelChar"]],
+    "RunThiefOut2" : [["RunFind",5],["WalkOne"],["RunFind",5],["Walk",25,2],["DelChar"]],
+    "RunThiefOut3" : [["RunFind",5],["WalkOne"],["RunFind",5],["Walk",3,36],["DelChar"]],
+	
+	
+	"Thief_1" : [["Emotion","fever_mark", 1.0],["RunFind",5],["WalkOne"],["WalkStand"]],	
+	"RunWalkThief_1" : [["Appear"],["Walk",7,25],["WalkIn"],["RunFind",5],["WalkIn"],["RunFind",5],["WalkOne"],["RunFind",5],["WalkOne"],["NextAi", "Thief_1"]],
+	
+	"Thief_2" : [["Emotion","fever_mark", 1.0],["RunFind",3],["WalkOne"],["WalkStand"]],	
+	"RunWalkThief_2" : [["Appear"],["Walk",7,25],["WalkIn"],["RunFind",3],["WalkIn"],["RunFind",3],["WalkOne"],["RunFind",3],["WalkOne"],["NextAi", "Thief_2"]],
+	
+	"Police" : [["Appear"],["Effect", "action_quest_txt_police"],[ "Oneani","whistle" ],["Idle", 100, true]],
+	
+	"ZombieLock" : [["lock",3],["CloneZombie"]],
+	"ZombieDead" : [["Dead"],["DelChar"]],
+	
+	"ZomBieIn0" : [["WalkIn"],["RunFind",3],["WalkIn"],["NextAi", "ZomBieIn1"]],
+    "ZomBieIn1" : [["WalkIn"],["RunFind",2],["WalkIn"],["RunFind",2],["WalkIn"],["NextAi", "ZomBieIn0"]],
+	
+	"ZomBieMove0" : [["Appear"],["RunFind",1],["WalkOut"],["Walk",7,25],["RunFind",2],["Walk",9,28],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	"ZomBieMove1" : [["Appear"],["RunFind",2],["WalkOut"],["Walk",8,27],["RunFind",2],["Walk",7,25],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	"ZomBieMove2" : [["Appear"],["Walk",9,28],["RunFind",2],["Walk",8,28],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	"ZomBieMove3" : [["Appear"],["Walk",7,24],["RunFind",2],["Walk",7,24],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	"ZomBieMove4" : [["Appear"],["Walk",9,28],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	
+	"ZomBieMove5" : [["Appear"],["Walk",9,28],["RunFind",1],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	"ZomBieMove6" : [["Appear"],["Walk",7,25],["RunFind",1],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	
+	"ZomBieNew" : [["RunFind",2],["MoveTarget"],["Idle", 100, true]],
+	
+	"RunScenarioPlayer1" : [["Appear"],["ChangeLayer"],["Idle", 2, true],["Speech", "STRING_AI_TUTO_1", 1.5], ["Jump", 5],["Idle", 1.5, true],["Speech", "STRING_AI_TUTO_3", 1.5], ["Jump", 5],["Idle", 1000, true]],
+	"RunScenarioPlayer2" : [["Appear"],["ChangeLayer"],["Idle", 2, true],["Idle", 1.5, true],["Speech", "STRING_AI_TUTO_2", 1.5], ["Jump", 5],["Idle", 1000, true]],
+	
+	"RunScenarioHelp1" : [["Appear"],["Idle", 8, true],["Speech", "STRING_AI_TUTO_4", 1.5], ["Jump", 2],["Walk",9,23],["Walk",10,24],["Speech", "STRING_AI_TUTO_4", 1.5],["Jump", 2],["Walk",9,23],["Walk",10,24],["Jump", 2],["Walk",9,23],["Walk",10,24],["Idle", 1000, true]],
+	"RunScenarioHelp2" : [["Appear"],["Idle", 9, true],["Speech", "STRING_AI_TUTO_4", 1.5], ["Jump", 2],["Walk",11,28],["Walk",11,26],["Jump", 2],["Walk",11,28],["Walk",11,26],["Jump", 2],["Walk",11,28],["Walk",11,26],["Idle", 1000, true]],
+	
+	
+	
+	"Scenario_Ai_Idle" : [["Idle", 10000, true]],
+	"Scenario_Ai_No" : [["Speech", "STRING_AI_TUTO_3", 1.4],["Jump", 2],["Idle", 10000, true]],
+	"Scenario_Ai_Restart" : [["Speech", "STRING_AI_TUTO_5", 1.4],["Idle", 10000, true]],
+	"Scenario_Ai_1" : [["Speech", "STRING_AI_TUTO_6", 1.5],["Idle", 10000, true]],
+	"Scenario_Ai_2" : [["Speech", "STRING_AI_TUTO_7", 1.5],["Idle", 10000, true]],
+	"Scenario_Ai_3" : [["Speech", "STRING_AI_TUTO_8", 1.5],["Idle", 10000, true]],
+	"Scenario_Ai_4" : [["Speech", "STRING_AI_TUTO_9", 1.5],["Idle", 10000, true]],
+	"Scenario_Ai_5" : [["Speech", "STRING_AI_TUTO_10", 1.5],["Idle", 10000, true]],
+	"Scenario_Ai_6" : [["Speech", "STRING_AI_TUTO_11", 1.5],["Idle", 10000, true]],
+	"Scenario_Ai_Clark" : [["Speech", "STRING_AI_TUTO_12", 1.5],["Idle", 10000, true]],
+	"Scenario_Ai_Customer" : [["Speech", "STRING_AI_TUTO_13", 1.5],["Idle", 10000, true]],
+	"Scenario_Ai_Out" : [["Idle", 1, true],["Walk",9,22],["Idle", 1, true],["AiRunReaction",[["CreateClack",9,22,1,1],["ReSetGamePlay","Scenario_Quest2"] ] ], ["DelChar"]],
+	
+	"Scenario_Ai_DecoDisplay" : [["Appear"],["AiRunReaction",[["RunZoom",1319,910]] ],["Idle", 0.5, true],
+	                             ["Speech", "STRING_AI_TUTO_14", 1.4],["Idle", 1.5, true],["Speech", "STRING_AI_TUTO_15", 1.4],["Idle", 1.5, true],
+								 ["AiRunReaction",[["OpenLevelStore",10],["LayerUnitEvent", "GAME_SPECIAL_DECO_DISPLAY_STEP_2"]] ],
+								 ["AiRunReaction",[["RunZoom",1144,1033]] ],["Idle", 1.0, true],["Speech", "STRING_AI_TUTO_16", 1.4],["Idle", 1.0, true],["Walk", 7,26],["DelChar"]]
+	
+	
+	//"ZomBieMove0" : [["Appear"],["RunFind",1],["WalkOut"],["RunFind",1],["WalkOut"],["WalkOut"],["Walk",7,25],["RunFind",2],["Walk",9,28],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	//"ZomBieMove1" : [["Appear"],["RunFind",2],["WalkOut"],["RunFind",1],["WalkOut"],["WalkOut"],["Walk",8,27],["RunFind",2],["Walk",7,25],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	//"ZomBieMove2" : [["Appear"],["RunFind",3],["WalkOut"],["RunFind",3],["WalkOut"],["WalkOut"],["Walk",9,28],["RunFind",2],["Walk",8,28],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	//"ZomBieMove3" : [["Appear"],["WalkOut"],["WalkOut"],["RunFind",2],["WalkOut"],["WalkOut"],["Walk",7,24],["RunFind",2],["Walk",7,24],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]],
+	//"ZomBieMove4" : [["Appear"],["WalkOut"],["WalkOut"],["RunFind",1],["WalkOut"],["WalkOut"],["Walk",8,28],["RunFind",2],["Walk",9,28],["RunFind",2],["MoveTarget"],["WalkIn"],["Idle", 100, true]]
+}

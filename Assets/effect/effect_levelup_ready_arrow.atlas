@@ -1,0 +1,13 @@
+
+effect_levelup_ready_arrow.png
+size: 35,35
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+employee_deck_loading_arrow
+  rotate: false
+  xy: 2, 2
+  size: 30, 31
+  orig: 34, 34
+  offset: 2, 2
+  index: -1

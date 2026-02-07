@@ -1,0 +1,13 @@
+
+reward_card_ready_b.png
+size: 267,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pack02
+  rotate: false
+  xy: 2, 2
+  size: 191, 263
+  orig: 192, 263
+  offset: 0, 0
+  index: -1

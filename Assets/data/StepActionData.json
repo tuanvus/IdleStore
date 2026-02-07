@@ -1,0 +1,1902 @@
+[
+	  
+	{
+		"Id" : "Opening_Quest_1",
+		"Step" : [
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["CreateDeco",12,25,602001,0,2001,0],["StandUIVisible",12,25,false],["OpeningEdit",601001,11,23,true,true,0,true],["CharTypeAi",303,"Scenario_Ai_1"] ]
+			 },
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["CreateDeco",11,23,601001,0,1002,0],["StandUIVisible",11,23,false],["OpeningEdit",600001,10,21,true,true,0,true],["CharTypeAi",303,"Scenario_Ai_2"] ]
+			 }, 
+			  {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["CreateDeco",10,21,600001,0,1,0],["StandUIVisible",10,21,false],["OpeningEdit",605001,10,18,true,true,1,true],["CharTypeAi",303,"Scenario_Ai_3"] ]
+			 }, 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["CreateDeco",10,18,605001,1,5004,0],["StandUIVisible",10,18,false],["OpeningEdit",604001,10,17,true,true,1,true],["CharTypeAi",303,"Scenario_Ai_4"] ]
+			 },
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["CreateDeco",10,17,604001,1,4004,0],["StandUIVisible",10,17,false],["OpeningEdit",603001,11,16,true,true,1,true],["CharTypeAi",303,"Scenario_Ai_5"] ]
+			 },
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["CreateDeco",11,16,603001,1,3001,0],["StandUIVisible",11,16,false],["OpeningEdit",601001,11,23,false],["ReSetGamePlay","Scenario_Quest1"] ]
+			 }
+			
+		]
+	},
+	
+	{
+		"Id" : "Opening_Quest_2",
+		"Step" : [
+	
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["StandUIVisible",11,23,true,true]]
+			 },
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["StandUIVisible",10,21,true,true]]
+			 },
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["StandUIVisible",10,18,true,true]]
+			 },
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["StandUIVisible",10,17,true,true]]
+			 },
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["StandUIVisible",11,16,true,true]]
+			 },
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["CharTypeAi",303,"Scenario_Ai_Clark"],["CharTypeAi",300,"Scenario_Ai_Out"]]
+			 }
+		]
+	},
+	
+	{
+		"Id" : "dd", //10번 소환
+		"Step" : [
+		 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["GameSaveOnOff", false ],["EnableBtn",100009],["BlackDotTag",80,100009, true,true,"STRING_TUTO_26",50,230, true, 40],["BlackDotEffect","quest_arrow_effect",-170,70],["BlackDotInfo","0/10"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["VisibleTag", 100009, true]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","1/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","2/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","3/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","4/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","5/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","6/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","7/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","8/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","9/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotInfo","10/10"],["OnBuff",7],["BlackDotTag",0,0, false],["EnableBtn",300102],["EnableTag", 300102],["QuestNextStep"],["OnBuff",8]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_VISIBLE_TAG", 300102]],
+				"NextReAction" : [["BlackDotTag",60,300102, true, false,"STRING_TUTO_33",100,100, true,200]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300102]],
+				"NextReAction" : ""
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300102]],
+				"NextReAction" : ""
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300000],["BlackDotTag",60,300000, true,false,"STRING_TUTO_27",140,130, true,200]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",310000],["BlackDotTag",100,310000, true, false,"STRING_TUTO_28",255,100, true,200]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [["BlackDotTag",0,0, false,true],["GameSaveOnOff", true ],["LayerUnitEvent", "GAME_DATA_SAVE" ],["LayerUnitEvent", "GAME_QUEST_SAVE" ]]
+			 }
+		 ]
+	},
+	
+		{
+		"Id" : "dd2", // 상품 계산 5번
+		"Step" : [
+			
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["GameSaveOnOff", false ],["EnableBtn",300000],["BlackDotTag",60,300000, true,true]]	 
+			 },
+			 
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",200001],["BlackDotTag",60,200001, true, false,"STRING_TUTO_29",110,20, true,40]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [["BlackDotTag",60,300102, true, false],["EnableBtn",300102],["EnableTag", 300102],["QuestNextStep"],["OnBuff",5]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_VISIBLE_TAG", 300102]],
+				"NextReAction" : [["BlackDotTag",60,300102, true, false]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300102]],
+				"NextReAction" : [["BlackDotInfo","1/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300102]],
+				"NextReAction" : [["BlackDotInfo","2/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300102]],
+				"NextReAction" : [["BlackDotInfo","3/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300102]],
+				"NextReAction" : [["BlackDotInfo","4/10"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false,true],["EnableBtn",300000],[ "RunTagEffect", 300001 , "hand_loop"]]	 
+			 },
+			 
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false],["EnableBtn",310000],[ "RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false],["GameSaveOnOff", true ],["LayerUnitEvent", "GAME_DATA_SAVE" ],["LayerUnitEvent", "GAME_QUEST_SAVE" ]]
+			 }
+		]
+	},
+	
+	{
+		"Id" : "dd3", // 꾸미기 배치
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop"],["RunMsgBox","Tuto_deco_install"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false],["RunTagEffect", 300018 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop",false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_DISPLAY_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagLayerEffect", 300004 ,"hand_loop",6],[ "NextPos",15,22],["DisplayBtnClose",true]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 333]],
+				"NextReAction" : [[ "RunTagLayerEffect", 300004 , "hand_loop",6,false]] 
+			 },
+			 
+			  {
+				"OpenUI" : "E_UI_GAME_DECO_EDIT",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 310005 , "hand_loop"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 709]],
+				"NextReAction" : [[ "RunTagEffect", 310005 , "hand_loop",false],["BlackDotTag",0,0, false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_DISPLAY_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 312 , "hand_loop"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 312]],
+				"NextReAction" : [[ "RunTagEffect", 312 , "hand_loop", false],[ "RunTagEffect", 300001 , "hand_loop"]]		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false]]		 
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dd4", // 꾸미기 보상
+		"Step" : [
+			 
+			  {
+				"CloseUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300032],["BlackDotTag",60,300032,true,true,"STRING_TUTO_30",160,60, true,200],["DecoTimeZero", true ]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_DISPLAY_REWARD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300033],["BlackDotTag",60,300033,true,true,"STRING_TUTO_31",220,60, true,200]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300033]],
+				"NextReAction" : [["EnableBtn",58],["BlackDotTag",60,300032,true,true,"STRING_TUTO_32",240,60, true,200]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 58]],
+				"NextReAction" : [["BlackDotTag",0,0, false],["DecoTimeZero", false ],[ "RunTagEffect", 300001 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false]]		 
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "da4", // 꾸미기 보상(퀘스트 정보창 이용)
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false],["RunTagEffect", 300018 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop",false],[ "RunTagEffect", 300032 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300032]],
+				"NextReAction" : [[ "RunTagEffect", 300032 , "hand_loop",false]]
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dd5", //VIP 소환
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 110008 , "hand_loop"],["RunMsgBox","Tuto_Vip_summon"],["LayerUnitEvent", "GAME_INSERT_VIP"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100008]],
+				"NextReAction" : [[ "RunTagEffect", 110008 , "hand_loop", false],[ "RunTagEffect", 300001 , "hand_loop"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false]]		 
+			 }
+		]
+	},
+	
+	{
+		"Id" : "dd6", //종업원 배치
+		"Step" : [
+			
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop"],["RunMsgBox","Tuto_employee"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false],["RunTagEffect", 300018 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop",false]]
+			 },
+	
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_CHARACTER_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagLayerEffect", 500002 ,"hand_loop",6],["NextPos",9,21]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 301002]],
+				"NextReAction" : [[ "RunTagLayerEffect", 500002, "hand_loop",6,false],["EnableBtn",300100],["EnableTag", 300100],["QuestNextStep"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_VISIBLE_TAG", 300100]],
+				"NextReAction" : [["RunTagEffect", 300101 ,"hand_loop"],["EnableBtn",300100]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300100]],
+				"NextReAction" : [[ "RunTagEffect", 300101 , "hand_loop",false],[ "RunTagEffect", 300101 , "hand_loop"],["EnableBtn",300100]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300100]],
+				"NextReAction" : [["RunTagEffect", 300101 , "hand_loop", false],[ "RunTagEffect", 300101 , "hand_loop"],["EnableBtn",300100]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300100]],
+				"NextReAction" : [["RunTagEffect", 300101 , "hand_loop", false],[ "RunTagEffect", 310005 , "hand_loop"],["EnableBtn",709]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 709]],
+				"NextReAction" : [["RunTagEffect", 310005 , "hand_loop", false],["QuestNextStep"],["RunTagEffect", 300001 , "hand_loop"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false]]		 
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dd7", //손님 소환(피버 전 20번)
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["RunMsgBox","Tuto_Fever_open"],["FeverCount",29],[ "RunTagEffect", 110009 , "hand_loop"],["InsertSlot",20]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["VisibleTag", 110009, true]]
+			 },
+		
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_QUEST",9]],
+				"NextReAction" : [[ "RunTagEffect", 110009 , "hand_loop", false],[ "RunTagEffect", 300001 , "hand_loop"]] 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false]]		 
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dd81", // 피버 시작 버튼
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableTag",400001],["FeverCount",50],["QuestNextStep"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_VISIBLE_TAG", 400001]],
+				"NextReAction" : [[ "RunTagEffect", 400002 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK",400001]],
+				"NextReAction" : [[ "RunTagEffect", 400002 , "hand_loop", false]]
+			 }
+			 
+		]
+	},
+	
+	{
+		"Id" : "dd82", // 피버
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",161],["EnableTag", 400002],["QuestNextStep"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_VISIBLE_TAG", 161]],
+				"NextReAction" : [["BlackDotTag",60,400002, true, false],["RunMsgBox","Tuto_Fever_1"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK",161]],
+				"NextReAction" : [["BlackDotTag",0,0,false],["RunMsgBox","Tuto_Fever_2"],["LayerUnitEvent", "GAME_PLAY_BUFF_MINIGAME"]] 
+			 }
+		]
+	},
+	
+	
+	{
+		"Id" : "dd9", // 카드팩 오픈
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop"],["RunMsgBox","Tuto_Cardpack_1"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false],["RunTagEffect", 300018 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop",false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_CARD_PACK_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop", false],["QuestNextStep"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 300200 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300200]],
+				"NextReAction" : [[ "RunTagEffect", 300200 ,"hand_loop", false],["QuestNextStep"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 300200 ,"hand_loop"],["RunMsgBox","Tuto_Cardpack_2"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300200]],
+				"NextReAction" : [[ "RunTagEffect", 300200 ,"hand_loop", false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_CARD_PACK_OPEN_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 300043 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300038]],
+				"NextReAction" : [[ "RunTagEffect", 300043 , "hand_loop", false],[ "RunTagEffect", 300001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false]]		 
+			 }
+		]
+	},
+	
+	{
+		"Id" : "dd10", //상품레벨업
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop"],["RunMsgBox","Tuto_Goods_Levelup"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false],["RunTagEffect", 300018 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop",false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_GOODS_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagLayerEffect", 101006 ,"hand_loop",6]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_LEVEL_UP_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagLayerEffect", 101006 , "hand_loop",6,false],[ "RunTagEffect", 410 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 101]],
+				"NextReAction" : [[ "RunTagEffect", 410 , "hand_loop",false],[ "RunTagLayerEffect", 101009 , "hand_loop",6]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 312]],
+				"NextReAction" : [[ "RunTagLayerEffect", 101009 , "hand_loop",6,false],[ "RunTagEffect", 101009 , "hand_loop"]]		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 312]],
+				"NextReAction" : [[ "RunTagEffect", 101009 , "hand_loop", false],[ "RunTagEffect", 300001 , "hand_loop"]] 		 
+			 },
+			 
+
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false]]		 
+			 }
+			
+		 ]
+	},
+	
+	{
+		"Id" : "dd11", // 자동버튼
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["RunMsgBox","Tuto_Auto"],["EnableBtn",100012],["BlackDotTag",60,300108, true, false],["AdShowNone", true]]	 
+			 },
+	 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100012]],
+				"NextReAction" : [["BlackDotTag",0,0, false],[ "RunTagEffect", 300001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false],["AdShowNone", false]]		 
+			 }
+		]
+	},
+	
+	{
+		"Id" : "dd12", //퀘스트 정보창 확인 (튜토퀘스트 상품 배치)
+		"Step" : [
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop", false],[ "RunTagLayerEffect", 303001 , "hand_loop",6]]		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 303001]],
+				"NextReAction" : [[ "RunTagLayerEffect", 303001 , "hand_loop",6,false]] 		 
+			 }
+
+		]
+	},
+	
+	{
+		"Id" : "dd13", //액션퀘스트
+		"dialog" : true,
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["RunMsgBox","Tuto_Action_Quest"],[ "RunTagEffect", 300001 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop", false]]		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_ACTION_QUEST_SELECT_HUD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["QuestNextStep"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 1001 , "hand_loop"]]
+			 },
+		
+			 {
+				"OpenUI" : "E_UI_GAME_ACTION_QUEST_HUD_POPUP",
+				"Action" : [["IS_ACTIONQUEST", 1]],
+				"NextReAction" : [["RunMsgBox","Tuto_Action_Ufo"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["LayerUnitEvent","GAME_MINIGAME_START"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_ACTION_QUEST_SELECT_HUD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["QuestNextStep"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300079 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300080]],
+				"NextReAction" : [[ "RunTagEffect", 300079 , "hand_loop", false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_HUD",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false]]		 
+			 }
+		]
+	},
+	
+	{
+		"Id" : "dd14", //상품진열
+		"Step" : [
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 303001 , "hand_loop"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 303001]],
+				"NextReAction" : [[ "RunTagEffect", 303001 , "hand_loop", false]] 		 
+			 }
+			 
+		 ]
+	},
+	
+	{
+		"Id" : "dd45", //상품 교체
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["RunMsgBox","Tuto_Goods_Change"],[ "RunTagEffect", 300001 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false],["RunTagEffect", 300018 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop",false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_GOODS_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 303001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 207]],
+				"NextReAction" : [[ "RunTagEffect", 303001 , "hand_loop", false]] 		 
+			 },
+			 
+			  {
+				"OpenUI" : "E_UI_GAME_GOODS_CHANGE",
+				"Action" : "",
+				"NextReAction" : [["QuestNextStep"],[ "RunTagEffect", 300100 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300100]],
+				"NextReAction" : [["QuestNextStep"]] 		 
+			 },
+			 
+			  {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300003 , "hand_loop"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300022]],
+				"NextReAction" : [[ "RunTagEffect", 300003 , "hand_loop", false],["QuestNextStep"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300050 , "hand_loop"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 123456]],
+				"NextReAction" : [[ "RunTagEffect", 300050 , "hand_loop", false],["QuestNextStep"]]		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_GOODS_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 101009 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 312]],
+				"NextReAction" : [[ "RunTagEffect", 101009 , "hand_loop", false],[ "RunTagEffect", 300001 , "hand_loop"]] 		 
+			 },
+
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300000]],
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 310001 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 310000]],
+				"NextReAction" : [[ "RunTagEffect", 310001 , "hand_loop", false]]		 
+			 }
+			 
+		]
+	},
+	
+	
+		{
+		"Id" : "dd15", //진열대 재배치
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_HUD",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 304000 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 304001]],
+				"NextReAction" : [[ "RunTagEffect", 304000 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_DISPLAY_POPUP",
+				"Action" : "",
+				"NextReAction" : [["RunTagEffect", 304002,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 304003]],
+				"NextReAction" : [[ "RunTagEffect", 304002 , "hand_loop",false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_EDIT_BUTTON",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 304004 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 304004]],
+				"NextReAction" : [[ "RunTagEffect", 304004 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"Move" : true,
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 304005 , "hand_loop"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 304006]],
+				"NextReAction" : [[ "RunTagEffect", 304005 , "hand_loop", false]] 		 
+			 }
+			 
+		]
+	},
+	
+
+	
+	{
+		"Id" : "dd36", //손님 소환
+		"Step" : [
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_7"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["Dialogue","dialogue_38"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100009],["BlackDotTag",60,100009, true,false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_36"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100009],["BlackDotTag",60,100009, true,false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotTag",0,0, false]]
+			 }
+			 
+		 ]
+	},
+
+	{
+		"Id" : "dd40", // 종업원 레벨업
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_11"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100006],["BlackDotTag",60,100006, true, false],["LayerShowHide", false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_CHARACTER_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_32"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["LayerShowHide", true],["SelectUITab","E_UI_GAME_CHARACTER_POPUP", 1],["BlackDotTag",60,400008, true,false,"STRING_TUTO_14",-70,-200]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 400008]],
+				"NextReAction" : [["BlackDotTag",0,0, false]] 		 
+			 }
+			 
+		]
+	},
+	
+	{
+		"Id" : "dd41", //VIP 레벨업
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_12"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100006],["BlackDotTag",60,100006, true, false],["LayerShowHide", false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_CHARACTER_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_33"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["LayerShowHide", true],["SelectUITab","E_UI_GAME_CHARACTER_POPUP", 0],["EnableBtn",101010],["BlackDotTag",60,101010, true,false,"STRING_TUTO_16",-70,-200]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 101010]],
+				"NextReAction" : [["BlackDotTag",0,0, false]] 		 
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dd42", // 종업원 버프
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["BuffInsert", 2,2,2,2,2],["Dialogue","dialogue_13"]]
+			 },
+			 
+			 {
+				"CloseUI" : "",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",60,300051, true,false,"STRING_TUTO_22",0,10]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0,false]] 		 
+			 }
+
+		]
+	},	
+	
+	{
+		"Id" : "dd43", // 피버
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_14"],["FeverCount",20]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["Dialogue","dialogue_43"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100009],["BlackDotTag",60,100009,true,false]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK",100009]],
+				"NextReAction" : [["BlackDotTag",0,0,false]] 
+			 }
+		]
+	},
+
+	{
+		"Id" : "dd44", // 일일퀘스트 보상
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_15"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100001],["BlackDotTag",60,100001, true,false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_45"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100014],["BlackDotTag",60,100014, true,false]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100014]],
+				"NextReAction" : [["BlackDotTag",0,0, false]]
+			 }
+
+		 ]
+	},
+	
+	{
+		"Id" : "dd46", // 카드팩 오픈
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_16"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300041],["BlackDotTag",60,300035, true, false,"STRING_TUTO_19",50,-200]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300041]],
+				"NextReAction" : [["BlackDotTag",0,300035, false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_CARD_PACK_POPUP",
+				"Action" : "",
+				"NextReAction" : [["QuestNextStep"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300200],["BlackDotTag",60,300200, true,false,"STRING_TUTO_20",0,-200]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300200]],
+				"NextReAction" : [["BlackDotTag",0,0,false],["QuestNextStep"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300300],["BlackDotTag",60,300300, true, false]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300300]],
+				"NextReAction" : [["BlackDotTag",0,0,false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_CARD_PACK_OPEN_POPUP",
+				"Action" : "",
+				"NextReAction" : [["Dialogue","dialogue_48"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300038],["BlackDotTag",60,300043, true, false]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300038]],
+				"NextReAction" : [["BlackDotTag",0,0, false]]
+			 }
+
+		]
+	},
+	
+	{
+		"Id" : "dd47", // 자동버튼
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "", 
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_17"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100012],["BlackDotTag",60,300108, true, false]]	 
+			 },
+	 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100012]],
+				"NextReAction" : [["BlackDotTag",0,0, false]]
+			 }
+
+		]
+	},
+	
+	{
+		"Id" : "dd48", //레벨업 보상
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_18"],["CharacterStop",true]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300104],["BlackDotTag",60,300103, true, false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_LEVEL_REWARD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_46"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300106],["BlackDotTag",60,300105, true, false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300106]],
+				"NextReAction" : [["EnableBtn",312],["BlackDotTag",60,101009, true, false],["CharacterStop",false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK",312]],
+				"NextReAction" : [["BlackDotTag",0,0, false]] 		 
+			 }
+			 
+		]
+	},
+	
+	{
+		"Id" : "dd49", // 태양버프
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "", 
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_19"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",80,300076, true, false]]	 
+			 },
+	 
+			 {
+				"OpenUI" : "E_UI_GAME_BUFF_MAIN_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_20"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300078],["BlackDotTag",60,300077, true, false]]	 
+			 },
+	 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300078]],
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_21"]]
+			 }
+
+		]
+	},
+	
+	
+	{
+		"Id" : "dd50", //액션퀘스트
+		"dialog" : true,
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_22"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300052],["BlackDotTag",60,300053, true, false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_ACTION_QUEST_SELECT_HUD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_50"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300054],["BlackDotTag",60,1001, true, false]]
+			 },
+		
+			 {
+				"OpenUI" : "E_UI_GAME_ACTION_QUEST_HUD_POPUP",
+				"Action" : [["IS_ACTIONQUEST", 1]],
+				"NextReAction" : [["Dialogue","dialogue_23"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["LayerUnitEvent","GAME_MINIGAME_START"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_ACTION_QUEST_SELECT_HUD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["Dialogue","dialogue_49"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300079 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300080]],
+				"NextReAction" : [[ "RunTagEffect", 300079 , "hand_loop", false]]	 
+			 }
+		]
+	},
+	
+	{
+		"Id" : "dd51", //랭킹
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",60,300061, true,false,"STRING_TUTO_24",0,50]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_WORLD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300063],["BlackDotTag",60,300062, true, false]]
+			 },
+		
+			 {
+				"OpenUI" : "E_UI_GAME_RANK_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_24"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",312],["BlackDotTag",60,101009, true, false]]	 
+			 },
+			 
+			 {
+				"CloseUI" : "E_UI_GAME_RANK_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_47"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300069],["BlackDotTag",60,300068, true, false]]	 
+			 }
+
+		]
+	},
+	
+	{
+		"Id" : "dd52", // 친구방문
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",60,300061, true, false,"STRING_TUTO_25",0,50]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_WORLD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300071],["BlackDotTag",60,300070, true, false]]
+			 },
+		
+			 {
+				"OpenUI" : "E_UI_GAME_COMMUNITY_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_25"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300072 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300073]],
+				"NextReAction" : [[ "RunTagEffect", 300072 , "hand_loop", false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_FRIEND_HUD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["Dialogue","dialogue_26"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300075],["BlackDotTag",60,300074, true, false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300069],["BlackDotTag",60,300068, true, false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_WORLD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300069],["BlackDotTag",60,300068, true, false]]	 
+			 }
+
+		]
+	},
+	
+	{
+		"Id" : "dd22", //손님소환 (일반퀘스트)
+		"Step" : [
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 110009 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [[ "RunTagEffect", 110009 , "hand_loop", false]]	 
+			 }
+
+		]
+	},
+	
+	{
+		"Id" : "dd23", //VIP소환 (일반퀘스트)
+		"Step" : [
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 110008 , "hand_loop"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100008]],
+				"NextReAction" : [[ "RunTagEffect", 110008 , "hand_loop", false]] 		 
+			 }
+		]
+	},
+	
+	{
+		"Id" : "dd53", //손님소환 (레벨업)
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["Dialogue","dialogue_27"]]
+			 }
+		]
+	},
+	
+	{
+		"Id" : "dd54", //꾸미기 보상 추가
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_51"],["CreateDeco",8,22,90000007],["CreateDeco",9,25,90000007]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300032],["BlackDotTag",60,300032, true, false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_DISPLAY_REWARD_POPUP",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300033],["BlackDotTag",60,300033, true, false]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 300033]],
+				"NextReAction" : [["BlackDotTag",0,0, false],["Dialogue","dialogue_54"]]
+			 }
+			 
+		]
+	},
+	
+	{
+		"Id" : "dd55", //손님소환 (추가 튜토리얼)
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_52"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100009],["BlackDotTag",60,100009, true, false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 100009]],
+				"NextReAction" : [["BlackDotTag",0,0, false]]	 
+			 }
+
+		]
+	},
+	
+	{
+		"Id" : "dd56", //종업원 배치 (튜토 추가)
+		"Step" : [
+			
+			{
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["AllUIHide"],["Dialogue","dialogue_53"]]
+			 },
+			
+			{
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",100006],["BlackDotTag",60,100006, true, false],["LayerShowHide", false]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_CHARACTER_POPUP",
+				"Action" : "",
+				"NextReAction" : [["BlackDotTag",0,0,false],["Dialogue","dialogue_55"],["SelectUITab","E_UI_GAME_CHARACTER_POPUP", 1]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["LayerShowHide",true],["EnableBtn",301002],["BlackDotTag",60,301002, true, false],["NextPos",9,21]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 301002]],
+				"NextReAction" : [["BlackDotTag",0,0, false]] 		 
+			 }
+		 ]
+	},
+	
+		{
+		"Id" : "dd100", //상품레벨업 백업
+		"Step" : [
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop"],["RunMsgBox","Tuto_Goods_Levelup"]]	 
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_QUEST_LIST_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300001 , "hand_loop", false],["EnableBtn",200001],["RunTagEffect", 300018 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 200001]],
+				"NextReAction" : [[ "RunTagEffect", 300018 , "hand_loop",false]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_GOODS_POPUP",
+				"Action" : "",
+				"NextReAction" : [["EnableBtn",300060],["RunTagEffect", 101006 ,"hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "E_UI_GAME_LEVEL_UP_POPUP",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 101006 , "hand_loop",false],[ "RunTagEffect", 101 , "hand_loop"]]
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 101]],
+				"NextReAction" : [[ "RunTagEffect", 101 , "hand_loop", false]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [["QuestNextStep"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : "",
+				"NextReAction" : [[ "RunTagEffect", 300050 , "hand_loop"]] 		 
+			 },
+			 
+			 {
+				"OpenUI" : "",
+				"Action" : [["IS_CLICK", 123456]],
+				"NextReAction" : [["DisplayBtnClose",false]] 
+			 }
+		 ]
+	}
+	
+]

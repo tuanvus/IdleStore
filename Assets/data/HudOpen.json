@@ -1,0 +1,69 @@
+{
+	"Hand_Effect_Level_Reward_On" : 16,
+	"Hand_Effect_Level_Reward_Off" : 59,
+	
+	"Hand_Effect_Display_Stand_On" : 16,
+	"Hand_Effect_Display_Stand_Off" : 38,
+	
+	"ItemGet_QuestID" : 3,
+	
+	"BuffOnEmployer" :  2,
+	
+	"AutoMsg_QuestID" :  13,
+
+	"AutoHand_QuestID" :  20,
+
+	"CustomerMsg_QuestID" :  7,
+	
+	"OnFeverBtn_QuestID" :  8,
+	
+	"OnFever" :  7,
+	
+	"Daily_Reward_pop" : 16,
+
+	"NpcReadyQuestStart" :  "dd",
+	
+	"HudOpen" : [
+	
+					{
+						"StepIndex" : 0,
+						"OpenNode" :  ["quest_bar_bg"]
+					},
+	
+					{
+						"StepIndex" : 4,
+						"OpenNode" :  ["node_buff_hud","btn_guest","btn_vip_call","btn_level_up_reward"]
+					},
+					
+					{
+						"StepIndex" : 5,
+						"OpenNode" :  ["btn_vip","btn_edit_display","btn_edit_goods"]
+					},
+					
+					{
+						"StepIndex" : 7,
+						"OpenNode" :  ["node_fever_hud_on_off","btn_shop"]
+					},
+					
+					{
+						"StepIndex" : 9,
+						"OpenNode" :  ["btn_card_reward"]
+					},
+					
+					{
+						"StepIndex" : 13,
+						"OpenNode" :  ["btn_auto_hud"]
+					},
+					
+					{
+						"StepIndex" : 14,
+						"OpenNode" :  ["btn_world","btn_quest","btn_world"]
+					},
+					
+					{
+						"StepIndex" : 15,
+						"OpenNode" :  ["btn_action_quest","btn_daily_reward"]
+					}
+					
+	]
+}

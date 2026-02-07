@@ -1,0 +1,153 @@
+
+girl03.png
+size: 526,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_b
+  rotate: true
+  xy: 164, 411
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: true
+  xy: 226, 411
+  size: 38, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+body_sit_b
+  rotate: true
+  xy: 164, 370
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+body_sit_f
+  rotate: false
+  xy: 288, 396
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+food
+  rotate: true
+  xy: 218, 372
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+food_b
+  rotate: true
+  xy: 218, 372
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+g03_head_ufo
+  rotate: false
+  xy: 83, 377
+  size: 79, 72
+  orig: 81, 74
+  offset: 1, 1
+  index: -1
+hand_good
+  rotate: false
+  xy: 493, 424
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hand_idle
+  rotate: false
+  xy: 493, 372
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hand_pick
+  rotate: true
+  xy: 493, 398
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+hand_v
+  rotate: true
+  xy: 493, 451
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: false
+  xy: 2, 449
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+head_eat1
+  rotate: false
+  xy: 329, 452
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+head_eat2
+  rotate: false
+  xy: 411, 452
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+head_idle1
+  rotate: false
+  xy: 2, 375
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+head_idle2
+  rotate: false
+  xy: 329, 378
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+head_laugh1
+  rotate: false
+  xy: 411, 378
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+head_laugh2
+  rotate: false
+  xy: 83, 451
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+head_pick1
+  rotate: false
+  xy: 165, 451
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+head_pick2
+  rotate: false
+  xy: 247, 451
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 493, 477
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1

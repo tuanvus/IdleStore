@@ -1,0 +1,41 @@
+
+GiftBox_onoff.png
+size: 193,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Box
+  rotate: true
+  xy: 54, 3
+  size: 51, 40
+  orig: 53, 43
+  offset: 1, 1
+  index: -1
+Box2
+  rotate: true
+  xy: 2, 2
+  size: 52, 50
+  orig: 54, 52
+  offset: 1, 1
+  index: -1
+Box_Lid
+  rotate: true
+  xy: 96, 2
+  size: 52, 35
+  orig: 54, 37
+  offset: 1, 1
+  index: -1
+Box_Lid2
+  rotate: true
+  xy: 173, 2
+  size: 52, 18
+  orig: 55, 21
+  offset: 2, 2
+  index: -1
+Light
+  rotate: false
+  xy: 133, 16
+  size: 38, 38
+  orig: 48, 47
+  offset: 5, 4
+  index: -1

@@ -1,0 +1,76 @@
+
+outside_shop_06.png
+size: 388,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6.0
+  rotate: false
+  xy: 2, 157
+  size: 152, 229
+  orig: 152, 229
+  offset: 0, 0
+  index: -1
+6.1
+  rotate: true
+  xy: 156, 261
+  size: 125, 63
+  orig: 152, 229
+  offset: 13, 44
+  index: -1
+6.2
+  rotate: false
+  xy: 133, 2
+  size: 53, 51
+  orig: 152, 229
+  offset: 33, 155
+  index: -1
+CFXM3_T_GlowStar
+  rotate: false
+  xy: 2, 53
+  size: 102, 102
+  orig: 104, 104
+  offset: 1, 1
+  index: -1
+body_f_6
+  rotate: true
+  xy: 71, 13
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+close_4
+  rotate: true
+  xy: 2, 2
+  size: 49, 67
+  orig: 51, 70
+  offset: 1, 1
+  index: -1
+hand_idle
+  rotate: false
+  xy: 188, 29
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+head6_welcome2
+  rotate: false
+  xy: 156, 187
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: false
+  xy: 106, 55
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+steam2
+  rotate: true
+  xy: 188, 11
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1

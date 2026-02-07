@@ -1,0 +1,134 @@
+{
+  "LevelMax" : 100,
+
+  "GotoPlay" : false,
+
+  "SaveType" : false,
+  
+  "AllOpen" : false,  
+  
+  "TileEdit" : false,
+
+  "QuestReset" : true,
+
+  "AdNone" : false,
+  
+  "UseCard" : false,
+  
+  "ThumbnailTime" : 5,
+  
+  "AutoHand_QuestID" : 10,
+  
+  "CommunitySendGold" : 10,
+  
+  "AutoBuffTime" : [ 8, 12, 17, 12],
+				
+  "ProfileImg" : [
+		"level_character01.png",
+		"level_character02.png",
+		"level_character03.png",
+		"level_character04.png"
+	],
+	
+  "ToplevelImg" : [
+		"icon_flag_kor2",
+		"icon_flag_usa2",
+		"icon_flag_cha2",
+		"icon_flag_jpn2",
+		"icon_flag_ita2"
+	],
+	
+  "ProfileName" : [
+		"민영",
+		"찬우",
+		"예찬",
+		"예슬",
+		"영국",
+		"예지",
+		"민지",
+		"수정",
+		"수찬",
+		"정우"
+	],
+	
+
+
+	"Language" : [
+		["KR", 0, "한국어", "NotoSansCJKkr-Bold.otf", true],
+		["US", 1, "English","NotoSansCJKkr-Bold.otf", true],
+		["DE", 2, "Deutsch","NotoSansCJKkr-Bold.otf", true],
+		["RU", 3, "русский","NotoSans-Bold.ttf", true],
+		["JP", 4, "日本語","NotoSansCJKkr-Bold.otf", true],
+		["CN", 5, "中文(简体)","NotoSansCJKkr-Bold.otf", true],
+		["TW", 6, "中文(繁體)","NotoSansCJKkr-Bold.otf", true],
+		["TH", 7, "ไทย","Itim.ttf", true],
+		["FR", 8, "français","NotoSansCJKkr-Bold.otf", true]
+	],
+
+	
+	"CountryNone" : "",
+	"CountryImg" : {
+	"KR" : "IMG_44.png",
+	"CN" : "IMG_45.png",
+	"JP" : "IMG_46.png",
+	"US" : "IMG_47.png",
+	"AU" : "IMG_48.png",
+	"DE" : "IMG_49.png",
+	"RU" : "IMG_50.png",
+	"VN" : "IMG_51.png",
+	"GB" : "IMG_52.png",
+	"FR" : "IMG_53.png",
+	"CA" : "IMG_54.png",
+	"PH" : "IMG_55.png",
+	"TH" : "IMG_56.png",
+	"ID" : "IMG_57.png",
+	"MY" : "IMG_58.png",
+	"SG" : "IMG_59.png",
+	"ES" : "IMG_60.png",
+	"BR" : "IMG_61.png",
+	"PT" : "IMG_62.png",
+	"MN" : "IMG_63.png",
+	"NP" : "IMG_64.png",
+	"NZ" : "IMG_65.png",
+	"IN" : "IMG_66.png",
+	"SA" : "IMG_67.png",
+	"AE" : "IMG_68.png",
+	"UZ" : "IMG_69.png",
+	"ZA" : "IMG_70.png",
+	"AR" : "IMG_71.png",
+	"IT" : "IMG_72.png",
+	"SE" : "IMG_73.png",
+	"NO" : "IMG_74.png",
+	"FI" : "IMG_75.png",
+	"TW" : "IMG_77.png"
+	},
+	
+	"RankImg" : [
+		"ranking_1st.png",
+		"ranking_2st.png",
+		"ranking_3st.png"
+	],
+					
+  "GoodTypeImg" : [
+
+					["GOODS_ALL","common_item_icon_cook.png"], 
+					["GOODS_SNACK","common_item_icon_snack.png"],
+					["GOODS_RAMEN","common_item_icon_ramen.png"],
+					["GOODS_TISSUE","common_item_icon_tissue.png"],
+					["GOODS_ICE","common_item_icon_ice.png"],
+					["GOODS_DRINK","common_item_icon_drink.png"],
+					["GOODS_FRESH","common_item_icon_fresh.png"]
+					],				
+					
+					
+  "DebugText" : false,
+  
+  "DoorTime" : 2.0,
+  
+  "TempFriend" : [
+	[ "123456789abce" ,  40, "Mary" ],
+	[ "123456789abcd" , 50, "Max" ]
+  ],
+  
+  "check" : 0
+}

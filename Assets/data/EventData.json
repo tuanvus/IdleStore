@@ -1,0 +1,21 @@
+{
+	"Fire" : {
+		"FireTime" : 25, //파이어 시간
+		"FireReadyTime" : 3, //파이어 준비 시간
+		"FireMax" : 50,  //맥스 게이지
+		"FireDel" : 1,   //초당 감소율
+		"InsertTime" : 0.5,    //초당 감소율
+		"FirstCount" : 10
+	},
+	
+	"Rank" : {
+	  
+		"AutoOnOff" : false,
+		"RankSpeed" : 0.3,
+		"RankTime" : 120,
+		"TestRankTime" : 120,
+		"RankCount" : 3, 
+		"RankNextTime" : 180,
+		"RankCoolDown" : 7200	
+	}
+}

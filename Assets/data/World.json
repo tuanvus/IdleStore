@@ -1,0 +1,146 @@
+{ 
+  "Open" : 5,
+  
+  "World" : ["Seoul", "NewYork", "Beijing", "Tokyo", "Venezia", "CommingSoon", "CommingSoon"],
+  
+  "WorldImg" : ["icon_earth.png", "map_seoul.png", "map_newyork.png", "map_beijing.png", "map_tokyo.png", "map_venice.png"],
+  
+  "WorldCityImg" : ["world_select_seoul.png", "world_select_newyork.png", "world_select_beijjing.png", "world_select_tokyo.png", "world_select_venice.png"],
+  
+  "WorldName" : ["T_ALL", "T_SEOUL", "T_NEWYORK", "T_BEIJING", "T_TOYKO", "T_VENEZIA"],
+
+	
+  "Wolrd_Open" : 
+	{	
+		"NewYork" : {"Level" : 40, "Price" : 300000},
+		
+		"Beijing" : {"Level" : 40, "Price" : 1000000},
+			
+		"Tokyo" : {"Level" : 40, "Price" : 5000000},
+
+		"Venezia" : {"Level" : 40, "Price" : 10000000}
+	},
+	
+  "Seoul" : 
+  {
+	"Center" : [-35,-272],
+	"LeftTop" : [307,1558],
+	"RightBottom" : [2066, 632],
+	
+	"Back" : 	[
+					["back/bg2_bottom.png", 1188, 1044, -10],
+					["kor_bg2_top_center", 1188, 1144, 38],
+					["back/bg2_top_left.png", 1188, 1144, 32],
+					["kor_bg2_top_right", 1188, 1144, 38],
+					["left_top_01", 501, 1131, 9],
+					["left_top_02", 832, 1300, 9],
+					["left_top_03", 905, 1336, 9],
+					["left_top_04", 943, 1359, 9]
+				],
+	"Other" : 	[
+					["right_top_01", 15, 2, 9, 1, 1],
+					["right_top_02", 15, 5, 9, 1, 1],
+					["right_top_03", 16, 5, 9, 1, 1]
+				],
+				
+	"UI" 	: 	{ 
+					"node" : "node_kor",
+					"img" : "world_select_kor_",
+					"openEffect" : "",
+					"WorldEffect" : "level_reward_bg_seoul",
+					"WorldRewardImg" : "level_reward_bg_seoul.png"
+				}	
+  },
+  
+  "NewYork" : 
+  {
+	"Center" : [-35,-272],
+	"LeftTop" : [307,1558],
+	"RightBottom" : [2066, 632],
+	
+	"Back" :	[
+					["back/usa_bg_bottom.png", 1188, 1044, -10, 1],
+					["back/usa_bg_top_left.png", 1188, 1044, 38, 1],
+					["back/usa_bg_top_right.png", 1188, 1044, 38, 1]
+				],
+	"Other" : 	[
+	
+				],
+	"UI" 	: 	{ 
+					"node" : "node_usa",
+					"img" : "world_select_usa_",
+					"openEffect" : "world_select_open_usa",
+					"WorldEffect" : "level_reward_bg_newyork",
+					"WorldRewardImg" : "level_reward_bg_newyork.png"
+				}	
+  },
+  
+  "Beijing" : 
+  {
+	"Center" : [-35,-272],
+	"LeftTop" : [307,1558],
+	"RightBottom" : [2066, 632],
+	
+	"Back" :	[
+					["back/cha_bg_bottom.png", 1188, 1044, -10, 1],
+					["back/cha_bg_top_center.png", 1188, 1044, 38 , 1],
+					["back/cha_bg_top_left.png", 1188, 1044, 38, 1],
+					["back/cha_bg_top_right.png", 1188, 1044, 38, 1]
+				],
+	"Other" : 	[
+
+				],
+	"UI" 	: 	{ 
+					"node" : "node_cha",
+					"img" : "world_select_cha_",
+					"openEffect" : "world_select_open_cha",
+					"WorldEffect" : "level_reward_bg_beijing",
+					"WorldRewardImg" : "level_reward_bg_beijing.png"
+				}	
+  },
+  
+  "Tokyo" : 
+  {
+	"Center" : [-35,-272],
+	"LeftTop" : [307,1558],
+	"RightBottom" : [2066, 632],
+	
+	"Back" :	[
+					["back/jpn_bg_bottom.png", 1188, 1044, -10, 1],
+					["back/jpn_bg_top_left.png", 1188, 1044, 38, 1],
+					["back/jpn_bg_top_right.png", 1188, 1044, 38, 1]
+				],
+	"Other" : 	[],
+	"UI" 	: 	{ 
+					"node" : "node_jap",
+					"img" : "world_select_jpn_",
+					"openEffect" : "world_select_open_jpn",
+					"WorldEffect" : "level_reward_bg_tokyo",
+					"WorldRewardImg" : "level_reward_bg_tokyo.png"
+				}
+				
+  },
+  
+  "Venezia" : 
+  {
+	"Center" : [-35,-272],
+	"LeftTop" : [307,1558],
+	"RightBottom" : [2066, 632],
+	
+	"Back" :	[
+					["back/ita_bg_bottom.png", 1188, 1044, -10, 1],
+					["back/ita_bg_top_left.png", 1188, 1044, 32, 1],
+					["back/ita_bg_top_right.png", 1188, 1044, 38, 1]
+				],
+	"Other" : 	[
+
+				],
+	"UI" 	: 	{ 
+					"node" : "node_ven",
+					"img" : "world_select_ita_",
+					"openEffect" : "world_select_open_ita",
+					"WorldEffect" : "level_reward_bg_venice",
+					"WorldRewardImg" : "level_reward_bg_venice.png"
+				}
+  }
+ }

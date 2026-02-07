@@ -1,0 +1,62 @@
+
+effect_main_employee_card.png
+size: 649,649
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_employee_card_calculation
+  rotate: false
+  xy: 2, 485
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1
+main_employee_card_gold
+  rotate: false
+  xy: 2, 403
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1
+main_employee_card_gold_plus
+  rotate: false
+  xy: 2, 567
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1
+main_employee_card_heart
+  rotate: true
+  xy: 2, 2
+  size: 71, 80
+  orig: 80, 80
+  offset: 4, 0
+  index: -1
+main_employee_card_sale
+  rotate: false
+  xy: 2, 321
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1
+main_employee_card_skull
+  rotate: false
+  xy: 2, 239
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+main_employee_card_speed
+  rotate: false
+  xy: 2, 157
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1
+main_employee_card_star
+  rotate: false
+  xy: 2, 75
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1

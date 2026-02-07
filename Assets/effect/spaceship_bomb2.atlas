@@ -1,0 +1,69 @@
+
+spaceship_bomb2.png
+size: 590,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 342, 98
+  size: 107, 94
+  orig: 109, 96
+  offset: 1, 1
+  index: -1
+a2
+  rotate: true
+  xy: 190, 49
+  size: 157, 150
+  orig: 160, 152
+  offset: 1, 1
+  index: -1
+a3
+  rotate: false
+  xy: 2, 40
+  size: 186, 174
+  orig: 188, 176
+  offset: 1, 1
+  index: -1
+a4
+  rotate: false
+  xy: 2, 216
+  size: 186, 176
+  orig: 188, 178
+  offset: 1, 1
+  index: -1
+a5
+  rotate: false
+  xy: 204, 208
+  size: 187, 186
+  orig: 190, 188
+  offset: 1, 1
+  index: -1
+a6
+  rotate: false
+  xy: 2, 394
+  size: 200, 194
+  orig: 202, 196
+  offset: 1, 1
+  index: -1
+a7
+  rotate: false
+  xy: 204, 396
+  size: 192, 192
+  orig: 194, 194
+  offset: 1, 1
+  index: -1
+a8
+  rotate: false
+  xy: 398, 398
+  size: 190, 190
+  orig: 192, 192
+  offset: 1, 1
+  index: -1
+a9
+  rotate: true
+  xy: 398, 207
+  size: 189, 190
+  orig: 191, 192
+  offset: 1, 1
+  index: -1

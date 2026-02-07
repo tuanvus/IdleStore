@@ -1,0 +1,25 @@
+u,,,,,,1,,,,,,,,,,,,,
+m_Uid,m_strCode,m_strCode_Ios,m_strName,m_strDest,m_nJam,m_bOnce,m_bPackage,m_bSubs,m_uAddTime,m_nPrice,한국 가격,미국 가격,독일가격,러시아 가격,일본 가격,중국 가격,대만 가격,태국 가격,프랑스 가격
+고유아이디,,,이름,설명,잼,한번 구매,패키지,구독상품,추가 시간,가격,,,,,,,,,
+1001,store.gem.1,store.gem.1,100루비,,0,true,true,false,0,0,0,0,0,0,0,0,0,0,0
+1002,store.package.1,store.package.1,왕궁패키지,,0,true,true,false,0,12000,"₩ 12,000",$8.99,€ 9.49,$8.99,"¥ 1,050",$8.99,NT$280,฿ 280,€ 9.49
+1003,store.package.2,store.package.2,임금패키지,,0,true,true,false,0,5500,"₩ 5,500",$3.99,€ 4.39,$3.99,¥ 480,$3.99,NT$120,฿ 150,€ 4.39
+1004,store.package.3,store.package.3,왕세자패키지,,0,true,true,false,0,5500,"₩ 5,500",$3.99,€ 4.39,$3.99,¥ 480,$3.99,NT$120,฿ 150,€ 4.39
+1005,store.package.4,store.package.4,왕세자빈패키지,,0,true,true,false,0,5500,"₩ 5,500",$3.99,€ 4.39,$3.99,¥ 480,$3.99,NT$120,฿ 150,€ 4.39
+1006,store.package.5,store.package.5,과자라면패키지,,0,false,true,false,0,5500,"₩ 5,500",$3.99,€ 4.39,$3.99,¥ 480,$3.99,NT$120,฿ 150,€ 4.39
+1007,store.package.6,store.package.6,잡화음료패키지,,0,false,true,false,0,5500,"₩ 5,500",$3.99,€ 4.39,$3.99,¥ 480,$3.99,NT$120,฿ 150,€ 4.39
+1008,store.package.7,store.package.7,신선냉동패키지,,0,false,true,false,0,5500,"₩ 5,500",$3.99,€ 4.39,$3.99,¥ 480,$3.99,NT$120,฿ 150,€ 4.39
+1009,store.package.8,store.package.8,스타터패키지,,0,true,true,false,0,8900,"₩ 8,900",$6.49,€ 6.99,$6.49,¥ 760,$6.49,NT$190,฿ 225,€ 6.99
+1010,store.package.9,store.adpackage.30,광고제거1,,0,false,true,true,1,2400,"₩ 2,400",$1.99,€ 1.89,$1.99,¥ 210,$1.99,NT$54,฿ 63,€ 1.89
+1011,store.package.10,store.adpackage.90,광고제거2,,0,false,true,true,3,5500,"₩ 5,500",$3.99,€ 4.39,$3.99,¥ 480,$3.99,NT$120,฿ 150,€ 4.39
+1012,store.gem.2,store.gem.2,200루비,,0,false,false,false,0,2400,"₩ 2,400",$1.99,€ 1.89,$1.99,¥ 210,$1.99,NT$54,฿ 63,€ 1.89
+1013,store.gem.3,store.gem.3,500루비,,0,false,false,false,0,5500,"₩ 5,500",$3.99,€ 4.39,$3.99,¥ 480,$3.99,NT$120,฿ 150,€ 4.39
+1014,store.gem.4,store.gem.4,1500루비,,0,false,false,false,0,12000,"₩ 12,000",$8.99,€ 9.49,$8.99,"¥ 1,050",$8.99,NT$270,฿ 325,€ 9.49
+1015,store.gem.5,store.gem.5,8000루비,,0,false,false,false,0,45000,"₩ 45,000",$32.99,€ 35.99,$32.99,"¥ 3,900",$32.99,NT$990,"฿ 1,175",€ 35.99
+1016,store.gem.6,store.gem.6,24000루비,,0,false,false,false,0,120000,"₩ 120,000",$89.99,€ 94.99,$89.99,"¥ 10,500",$89.99,"NT$2,650","฿ 3,175",€ 94.99
+1017,store.gold.1,store.gold.1,50000골드,,50,false,false,false,0,0,0,0,0,0,0,0,0,0,0
+1018,store.gold.2,store.gold.2,100000골드,,100,false,false,false,0,0,0,0,0,0,0,0,0,0,0
+1019,store.gold.3,store.gold.3,600000골드,,500,false,false,false,0,0,0,0,0,0,0,0,0,0,0
+1020,store.gold.4,store.gold.4,1500000골드,,1300,false,false,false,0,0,0,0,0,0,0,0,0,0,0
+1021,store.gold.5,store.gold.5,3000000골드,,2500,false,false,false,0,0,0,0,0,0,0,0,0,0,0
+1022,store.levelreward.1,store.levelreward.1,레벨보상,,0,true,false,false,0,8900,"₩ 8,900",$6.49,€ 6.99,$6.49,¥ 760,$6.49,NT$190,฿ 225,€ 6.99

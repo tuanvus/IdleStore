@@ -1,0 +1,104 @@
+
+outside_shop_05.png
+size: 374,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 146
+  size: 150, 226
+  orig: 152, 228
+  offset: 1, 1
+  index: -1
+5.0
+  rotate: false
+  xy: 154, 146
+  size: 150, 226
+  orig: 152, 228
+  offset: 1, 1
+  index: -1
+5.1
+  rotate: true
+  xy: 2, 4
+  size: 36, 48
+  orig: 38, 50
+  offset: 1, 1
+  index: -1
+5.2
+  rotate: true
+  xy: 52, 4
+  size: 36, 47
+  orig: 38, 49
+  offset: 1, 1
+  index: -1
+5.3
+  rotate: false
+  xy: 208, 78
+  size: 107, 66
+  orig: 112, 71
+  offset: 2, 2
+  index: -1
+CFXM3_T_GlowStar
+  rotate: false
+  xy: 2, 42
+  size: 102, 102
+  orig: 104, 104
+  offset: 1, 1
+  index: -1
+body_f_5
+  rotate: true
+  xy: 106, 4
+  size: 38, 59
+  orig: 40, 61
+  offset: 1, 1
+  index: -1
+close_5
+  rotate: false
+  xy: 306, 243
+  size: 48, 64
+  orig: 50, 66
+  offset: 1, 1
+  index: -1
+hand_idle
+  rotate: false
+  xy: 167, 18
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+head5_welcome2
+  rotate: true
+  xy: 306, 309
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+head_idle1_5
+  rotate: false
+  xy: 274, 17
+  size: 64, 59
+  orig: 66, 61
+  offset: 1, 1
+  index: -1
+head_idle2_5
+  rotate: false
+  xy: 208, 16
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+light_01
+  rotate: false
+  xy: 106, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+steam2
+  rotate: false
+  xy: 167, 2
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1

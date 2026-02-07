@@ -1,0 +1,118 @@
+
+idle_store_gift_box.png
+size: 1627,1627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_box1
+  rotate: true
+  xy: 547, 1274
+  size: 351, 358
+  orig: 353, 362
+  offset: 1, 3
+  index: -1
+blue_box2
+  rotate: true
+  xy: 722, 904
+  size: 368, 412
+  orig: 371, 416
+  offset: 1, 3
+  index: -1
+dust1
+  rotate: false
+  xy: 2, 1577
+  size: 55, 48
+  orig: 57, 51
+  offset: 1, 2
+  index: -1
+dust2
+  rotate: true
+  xy: 59, 1572
+  size: 53, 54
+  orig: 56, 57
+  offset: 1, 1
+  index: -1
+dust3
+  rotate: false
+  xy: 115, 1556
+  size: 70, 69
+  orig: 73, 71
+  offset: 1, 1
+  index: -1
+gray_box1
+  rotate: true
+  xy: 907, 1274
+  size: 351, 358
+  orig: 358, 362
+  offset: 6, 3
+  index: -1
+gray_box2
+  rotate: true
+  xy: 2, 129
+  size: 420, 412
+  orig: 423, 416
+  offset: 1, 3
+  index: -1
+green_box1
+  rotate: true
+  xy: 1267, 1274
+  size: 351, 358
+  orig: 353, 362
+  offset: 1, 3
+  index: -1
+green_box2
+  rotate: true
+  xy: 1136, 904
+  size: 368, 412
+  orig: 371, 416
+  offset: 1, 3
+  index: -1
+light
+  rotate: false
+  xy: 416, 26
+  size: 916, 505
+  orig: 948, 568
+  offset: 12, 19
+  index: -1
+purple_box1
+  rotate: true
+  xy: 2, 921
+  size: 351, 358
+  orig: 353, 362
+  offset: 1, 3
+  index: -1
+purple_box2
+  rotate: true
+  xy: 2, 551
+  size: 368, 412
+  orig: 371, 416
+  offset: 1, 3
+  index: -1
+red_box1
+  rotate: true
+  xy: 362, 921
+  size: 351, 358
+  orig: 353, 362
+  offset: 1, 3
+  index: -1
+red_box2
+  rotate: true
+  xy: 416, 534
+  size: 368, 412
+  orig: 371, 416
+  offset: 1, 3
+  index: -1
+yellow_box1
+  rotate: true
+  xy: 187, 1274
+  size: 351, 358
+  orig: 353, 362
+  offset: 1, 3
+  index: -1
+yellow_box2
+  rotate: true
+  xy: 830, 533
+  size: 369, 412
+  orig: 371, 416
+  offset: 0, 3
+  index: -1

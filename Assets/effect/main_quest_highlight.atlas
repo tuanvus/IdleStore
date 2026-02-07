@@ -1,0 +1,13 @@
+
+main_quest_highlight.png
+size: 76,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_quest_highlight
+  rotate: false
+  xy: 2, 4
+  size: 72, 70
+  orig: 76, 72
+  offset: 3, 2
+  index: -1

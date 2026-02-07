@@ -1,0 +1,27 @@
+
+card_open_light.png
+size: 760,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+display
+  rotate: false
+  xy: 316, 361
+  size: 305, 397
+  orig: 314, 413
+  offset: 4, 8
+  index: -1
+goods
+  rotate: true
+  xy: 2, 2
+  size: 312, 436
+  orig: 314, 450
+  offset: 1, 7
+  index: -1
+vip_em
+  rotate: false
+  xy: 2, 316
+  size: 312, 442
+  orig: 314, 456
+  offset: 1, 7
+  index: -1

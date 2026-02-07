@@ -1,0 +1,13 @@
+
+level_reward_light.png
+size: 196,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level_reward_gold_ticket_light
+  rotate: false
+  xy: 2, 2
+  size: 185, 192
+  orig: 200, 200
+  offset: 8, 3
+  index: -1

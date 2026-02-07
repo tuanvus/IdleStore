@@ -1,0 +1,13 @@
+
+product_select.png
+size: 184,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+002
+  rotate: false
+  xy: 2, 50
+  size: 180, 132
+  orig: 190, 142
+  offset: 5, 5
+  index: -1

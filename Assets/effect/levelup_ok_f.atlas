@@ -1,0 +1,13 @@
+
+levelup_ok_f.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deck_base_e
+  rotate: false
+  xy: 2, 2
+  size: 201, 272
+  orig: 201, 272
+  offset: 0, 0
+  index: -1

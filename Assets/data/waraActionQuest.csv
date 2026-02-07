@@ -1,0 +1,8 @@
+,,,,,,,,,,,,,,,,,,,,,,,,
+version,1,,,,,,,,,,,,,,,,,,,,,,,
+m_Uid,m_strName,m_strDesc,m_nActionQuestType,m_strIcon,m_strSmallIcon,m_strExplain,m_strPlayAction,m_nLocation,m_nOpenLevel,m_nPlayTime,m_nCoolDown,m_nRewardRuby,m_nRewardGold,m_nRewardStarRuby,m_nFailRewardRuby,m_nFailRewardGold,m_nMaxCount,m_nMaxReward,m_nBonusCount_1,m_nBonusCount_2,m_nBonusRuby_1,m_nBonusRuby_2,m_strBonusDesc_1,m_strBonusDesc_2
+고유아이디,이름,설명,액션 퀘스트 타입,퀘스트 아이콘,작은 아이콘,설명 이미지,게임 플레이 액션,지역,로드 퀘스트 스텝,플레이 타임(초),쿨타임(분),보상 보석,보상 골드,스타 추가 루비,실패 보상 루비,실패 보상 골드,클리어 보상 횟수,횟수 보상(배수),보너스 카운터1,보너스 카운터1,,,,
+1,STRING_ACTION_QUEST_1,ufo 납치,eQuest_Action_UFO,action_quest_mission_img_1,action_quest_icon_ufo,action_quest_explan_ufo,Action_Quest_UFO,0,1,45,180,1,30000,1,0,1000,3,2,5,15,1,1,STRING_ACTION_QUEST_REWARD_1,STRING_ACTION_QUEST_REWARD_2
+2,STRING_ACTION_QUEST_2,도둑잡기,eQuest_Action_THIEF,action_quest_mission_img_2,action_quest_theif_icon,action_quest_explan_theif,Action_Quest_THIEF,0,5,70,180,1,30000,1,0,1000,3,2,4,2,1,1,STRING_ACTION_QUEST_REWARD_3,STRING_ACTION_QUEST_REWARD_4
+3,STRING_ACTION_QUEST_3,좀비처치,eQuest_Action_ZOMBIE,action_quest_mission_img_3,action_quest_zombie_icon,action_quest_explan_zombie,Action_Quest_ZOMBIE,0,10,75,180,1,30000,1,0,1000,3,2,3,5,1,1,STRING_ACTION_QUEST_REWARD_5,STRING_ACTION_QUEST_REWARD_6
+4,도둑잡기,도둑잡기,eQuest_Action_COMMING_SOON,action_quest_mission_img_2,action_quest_theif_icon,action_quest_mission_img_,Action_Quest_THIEF,0,11,90,180,1,30000,1,0,1000,3,2,1,1,1,1,+ 좀비 3마리 잡기,+ 좀비 5마리 잡기

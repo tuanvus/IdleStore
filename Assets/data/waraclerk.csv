@@ -1,0 +1,12 @@
+Column1,Column2,Column3,Column4,,Column5,,Column6,Column7,,,Column16,Column17,,Column18,Column19,,,
+version,1,,,,,,,,,,,,,,,,,
+m_Uid,m_strName,m_strSpine_File,m_fScale,m_nRareGrade,m_nMaxLevel,m_fComputeTime,m_nWorkTime,m_nBreakTime,m_nBuffIndex,m_nBuffPer,m_n64BuyCost,m_n64BuyLevelCost,m_nOpneCard,m_nNeedLevelCard,m_nNeedLevelCard,m_strBonusDesc,m_nTheme,m_nOpenLevel
+고유아이디,이름,스파인 파일,스케일,레어 레벨,맥스레벨,계산시간,워크 시간,휴식 시간,버프 인덱스,버프 확율,기본 레벨업 가격,레벨업시 추가 비용,최초 열대 필요 카드,기본 레벨업 카드,레벨업시 추가 카드,추가 보너스 설명,지역,오픈 레벨
+1,STRING_EMPLOYEE_1,employee01,0.7,CHAR_RARE_N,100,0.8,4,90,1,0.2,3000,3000,3,3,2,<s0>% 확률로 버프 생성<br>골드 <s1>% 보너스,T_SEOUL,1
+2,STRING_EMPLOYEE_2,employee02,0.7,CHAR_RARE_N,100,0.8,4,90,2,0.2,3000,3000,3,3,2,<s0>% 확률로 버프 생성<br>경험치 <s1>% 보너스,T_SEOUL,1
+3,STRING_EMPLOYEE_3,employee03,0.7,CHAR_RARE_N,100,0.8,4,90,3,0.2,3000,3000,3,3,2,<s0>% 확률로 버프 생성<br>골드 <s1>% 보너스,T_SEOUL,5
+4,STRING_EMPLOYEE_4,employee04,0.7,CHAR_RARE_N,100,0.8,4,90,5,0.2,3000,3000,3,3,2,<s0>% 확률로 버프 생성<br>경험치 <s1>% 보너스,T_SEOUL,10
+5,STRING_EMPLOYEE_5,employee05,0.7,CHAR_RARE_R,100,0.6,4,90,6,0.2,6000,6000,3,3,3,<s0>% 확률로 버프 생성<br>이동속도 <s1>% 보너스,T_SEOUL,15
+6,STRING_EMPLOYEE_6,employee06,0.7,CHAR_RARE_R,100,0.6,4,90,1,0.3,6000,6000,3,3,3,<s0>% 확률로 버프 생성<br>경험치 <s1>% 보너스,T_SEOUL,20
+7,STRING_EMPLOYEE_7,employee07,0.7,CHAR_RARE_SR,100,0.4,4,90,2,0.3,12000,10000,5,5,5,<s0>% 확률로 버프 생성<br>계산속도 <s1>% 보너스,T_SEOUL,30
+8,STRING_EMPLOYEE_8,employee08,0.7,CHAR_RARE_SR,100,0.4,4,90,3,0.3,12000,10000,5,5,5,<s0>% 확률로 버프 생성<br>구매량 <s1>% 보너스,T_SEOUL,35

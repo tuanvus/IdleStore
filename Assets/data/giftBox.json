@@ -1,0 +1,74 @@
+{
+  "AdGift" : 
+  {
+		"DayCount" : 2,
+		"RewardID" : 3001
+  },
+  
+  "AdDelTime" : 30,
+  "TimeToRuby" : 10, 
+  
+  "TimeGift" : 
+  [
+	{
+		"Img" : "gift_box_grey.png",
+		"Time" : 60,
+		"Ruby" : 0,
+		"RewardID" : 2001,
+		"AdCount" : 1,
+		
+		"UpRuby" : 5,
+		"UpImg" : "gift_box_green.png",
+		"Percent" : 100,
+		"UpRewardID" : 2002
+	},
+	{
+		"Img" : "gift_box_green.png",
+		"Time" : 180,
+		"Ruby" : 3,
+		"RewardID" : 2002,
+		"AdCount" : 2,
+		
+		"UpRuby" : 5,
+		"UpImg" : "gift_box_blue.png",
+		"Percent" : 100,
+		"UpRewardID" : 2003
+	},
+	{
+		"Img" : "gift_box_blue.png",
+		"Time" : 300,
+		"Ruby" : 5,
+		"RewardID" : 2003,
+		"AdCount" : 3,
+		
+		"UpRuby" : 5,
+		"UpImg" : "gift_box_purple.png",
+		"Percent" : 100,
+		"UpRewardID" : 2004
+	},
+	{
+		"Img" : "gift_box_purple.png",
+		"Time" : 600,
+		"Ruby" : 10,
+		"RewardID" : 2004,
+		"AdCount" : 4,
+		
+		"UpRuby" : 5,
+		"UpImg" : "gift_box_red.png",
+		"Percent" : 100,
+		"UpRewardID" : 2005
+	},
+	{
+		"Img" : "gift_box_red.png",
+		"Time" : 1440,
+		"Ruby" : 20,
+		"RewardID" : 2005,
+		"AdCount" : 5,
+		
+		"UpRuby" : 5,
+		"UpImg" : "gift_box_yellow.png",
+		"Percent" : 100,
+		"UpRewardID" : 2006
+	}
+  ]
+ }

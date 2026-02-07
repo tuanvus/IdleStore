@@ -1,0 +1,17 @@
+,,,,,,,,,,,
+version,1,,,,,,,,,,
+m_Uid,m_strName,m_strBuffIcon,m_nBuffType,m_strBuffSpine,m_fBuffNum,m_fBuffTime,m_fBuffAddNum,m_fBuffAddTime,m_strMessage,m_strRunEffect,m_strRouletteEffect
+고유아이디,이름,,버프타입,,버프 수치,버프 시간,버프 추가 수치,버프  추가 시간,버프 메시지,런이팩트,
+99999,,main_buff_card_one_coin.png,eCLARKBUFF_NONE,main_employee_card_one_coin,1,0,0,0,,,
+100000,,main_buff_card_coin_plus.png,eCLARKBUFF_COIN_AUTO,,1,0,0,0,,effect_gold_up,
+1,STRING_BUFF_NAME_1,main_buff_card_coin.png,eCLARKBUFF_COIN,employ_card_rotation_gold,0.2,30,0,5,,effect_gold_up,buff_roulette_coin
+2,STRING_BUFF_NAME_2,main_buff_card_exp.png,eCLARKBUFF_EXP,main_employee_card_star,0.2,30,0,5,,effect_exp_up,buff_roulette_exp
+3,STRING_BUFF_NAME_3,main_buff_card_speed.png,eCLARKBUFF_MOVE,employ_card_rotation_speed,0.2,30,0,5,,effect_speed_up,buff_roulette_speed
+4,,main_employee_card_heart.png,eCLARKBUFF_HEART,employ_card_rotation_heart,1,30,0,5,,,
+5,STRING_BUFF_NAME_4,main_buff_card_calculation.png,eCLARKBUFF_COMPUTE,employ_card_rotation_calculation,0.2,30,0,5,,effect_calaulation_up,buff_roulette_calculation
+6,STRING_BUFF_NAME_5,main_buff_card_sale.png,eCLARKBUFF_PICK,employ_card_rotation_sale,0.2,30,0,5,,effect_purchase_up,buff_roulette_sale
+7,,main_buff_card_speed.png,eCLARKBUFF_MOVE,employ_card_rotation_speed,0.7,10,0,5,,effect_speed_up,buff_roulette_speed
+8,,main_buff_card_calculation.png,eCLARKBUFF_COMPUTE_ALL,employ_card_rotation_calculation,0.7,30,0,5,,effect_calaulation_up,
+1001,,main_buff_card_speed.png,eCLARKBUFF_MOVE_VIP,employ_card_rotation_speed,0.2,30000,0,5,,effect_speed_up,
+1002,,main_buff_card_sale.png,eCLARKBUFF_PICK_VIP,employ_card_rotation_sale,0.1,30000,0,5,,effect_purchase_up,
+1003,,main_buff_card_calculation.png,eCLARKBUFF_COMPUTE_VIP,employ_card_rotation_calculation,0.1,30000,0,5,,effect_calaulation_up,

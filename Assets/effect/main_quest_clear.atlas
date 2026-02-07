@@ -1,0 +1,20 @@
+
+main_quest_clear.png
+size: 309,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_light_yellow
+  rotate: false
+  xy: 2, 99
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+quest_clear_box
+  rotate: false
+  xy: 2, 2
+  size: 95, 95
+  orig: 97, 97
+  offset: 1, 1
+  index: -1

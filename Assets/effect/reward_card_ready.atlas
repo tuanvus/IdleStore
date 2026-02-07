@@ -1,0 +1,55 @@
+
+reward_card_ready.png
+size: 613,613
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CFXM3_T_GlowStar
+  rotate: false
+  xy: 366, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pack_bg
+  rotate: false
+  xy: 2, 322
+  size: 219, 289
+  orig: 219, 289
+  offset: 0, 0
+  index: -1
+pack_bg2
+  rotate: false
+  xy: 405, 380
+  size: 179, 231
+  orig: 181, 251
+  offset: 1, 18
+  index: -1
+pack_bronze
+  rotate: true
+  xy: 366, 183
+  size: 180, 245
+  orig: 181, 251
+  offset: 0, 3
+  index: -1
+pack_gold
+  rotate: false
+  xy: 184, 74
+  size: 180, 246
+  orig: 181, 251
+  offset: 0, 2
+  index: -1
+pack_platinum
+  rotate: false
+  xy: 2, 74
+  size: 180, 246
+  orig: 180, 251
+  offset: 0, 2
+  index: -1
+pack_silver
+  rotate: false
+  xy: 223, 365
+  size: 180, 246
+  orig: 180, 251
+  offset: 0, 2
+  index: -1

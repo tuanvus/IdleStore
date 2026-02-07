@@ -1,0 +1,69 @@
+{
+  "TimeToRuby" : 5,
+  
+  "TimeCardPack" : 
+  [
+	{
+		"Img" : "gift_card_bronze.png",
+		"Img_Quest" : "main_quest_gift_card_icon.png",
+		"Time" : 60,
+		"RewardID" : 100001,
+		"UpRuby" : 5,
+		"Percent" : 0,
+		"Card_Num" : 3,
+		"Gold_Num" : 10000,
+		"Ruby_Num" : 5,
+		"Title" : "STRING_CARD_BRONZE"
+
+	},
+	{
+		"Img" : "gift_card_silver.png",
+		"Img_Quest" : "main_quest_gift_card_icon.png",
+		"Time" : 240,
+		"RewardID" : 100002,
+		"UpRuby" : 10,
+		"Percent" : 0,
+		"Card_Num" : 6,
+		"Gold_Num" : 30000,
+		"Ruby_Num" : 15,
+		"Title" : "STRING_CARD_SILVER"
+	},
+	{
+		"Img" : "gift_card_gold.png",
+		"Img_Quest" : "main_quest_gift_card_icon.png",
+		"Time" : 480,
+		"RewardID" : 100003,
+		"UpRuby" : 0,
+		"Percent" : 0,
+		"Card_Num" : 9,
+		"Gold_Num" : 90000,
+		"Ruby_Num" : 30,
+		"Title" : "STRING_CARD_GOLD"
+	},
+	{
+		"Img" : "gift_card_platinum.png",
+		"Img_Quest" : "main_quest_gift_card_icon.png",
+		"Time" : 720,
+		"RewardID" : 100004,
+		"UpRuby" : 0,
+		"Percent" : 100,
+		"Card_Num" : 15,
+		"Gold_Num" : 150000,
+		"Ruby_Num" : 50,
+		"Title" : "STRING_CARD_PLATINUM"
+	},
+	{
+		"Img" : "gift_card_bronze.png",
+		"Img_Quest" : "main_quest_gift_card_icon.png",
+		"Time" : 60,
+		"RewardID" : 200001,
+		"UpRuby" : 5,
+		"Percent" : 0,
+		"Card_Num" : 3,
+		"Gold_Num" : 10000,
+		"Ruby_Num" : 5,
+		"Title" : "STRING_CARD_BRONZE"
+
+	}
+  ]
+ }

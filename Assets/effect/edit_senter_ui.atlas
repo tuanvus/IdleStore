@@ -1,0 +1,48 @@
+
+edit_senter_ui.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+edit_change_direction
+  rotate: false
+  xy: 2, 409
+  size: 81, 81
+  orig: 83, 83
+  offset: 1, 1
+  index: -1
+edit_change_goods
+  rotate: false
+  xy: 85, 409
+  size: 81, 81
+  orig: 83, 83
+  offset: 1, 1
+  index: -1
+edit_ok
+  rotate: true
+  xy: 168, 409
+  size: 81, 82
+  orig: 83, 84
+  offset: 1, 1
+  index: -1
+edit_round_bar_top
+  rotate: false
+  xy: 2, 202
+  size: 488, 204
+  orig: 498, 215
+  offset: 5, 10
+  index: -1
+edit_trash_can
+  rotate: true
+  xy: 252, 408
+  size: 82, 83
+  orig: 84, 85
+  offset: 1, 1
+  index: -1
+edit_x
+  rotate: true
+  xy: 337, 408
+  size: 82, 83
+  orig: 84, 85
+  offset: 1, 1
+  index: -1

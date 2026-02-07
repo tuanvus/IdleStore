@@ -1,0 +1,153 @@
+
+boy01.png
+size: 291,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b01_head_ufo
+  rotate: false
+  xy: 2, 220
+  size: 71, 69
+  orig: 73, 71
+  offset: 1, 1
+  index: -1
+body_b
+  rotate: false
+  xy: 2, 13
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 216, 84
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+body_sit_b
+  rotate: true
+  xy: 143, 34
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+body_sit_f
+  rotate: false
+  xy: 216, 27
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+food
+  rotate: false
+  xy: 217, 251
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+food_b
+  rotate: false
+  xy: 217, 251
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+hand_good
+  rotate: true
+  xy: 43, 45
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hand_idle
+  rotate: false
+  xy: 217, 197
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hand_pick
+  rotate: false
+  xy: 217, 223
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+hand_v
+  rotate: false
+  xy: 43, 12
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: true
+  xy: 75, 218
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_eat1
+  rotate: true
+  xy: 2, 147
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_eat2
+  rotate: true
+  xy: 73, 2
+  size: 71, 68
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_idle1
+  rotate: false
+  xy: 73, 147
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_idle2
+  rotate: true
+  xy: 146, 218
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_laugh1
+  rotate: true
+  xy: 146, 145
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_laugh2
+  rotate: true
+  xy: 73, 75
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+head_pick1
+  rotate: true
+  xy: 2, 74
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_pick2
+  rotate: false
+  xy: 144, 74
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 143, 3
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1

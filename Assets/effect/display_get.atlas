@@ -1,0 +1,13 @@
+
+display_get.png
+size: 135,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_display
+  rotate: false
+  xy: 2, 2
+  size: 128, 131
+  orig: 133, 136
+  offset: 2, 2
+  index: -1

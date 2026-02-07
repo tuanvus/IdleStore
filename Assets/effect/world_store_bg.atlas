@@ -1,0 +1,97 @@
+
+world_store_bg.png
+size: 2678,2678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud1
+  rotate: false
+  xy: 2, 7
+  size: 1634, 359
+  orig: 1634, 359
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 1675, 2
+  size: 92, 40
+  orig: 94, 42
+  offset: 1, 1
+  index: -1
+cloud3
+  rotate: false
+  xy: 1675, 44
+  size: 119, 41
+  orig: 121, 43
+  offset: 1, 1
+  index: -1
+cloud4
+  rotate: true
+  xy: 1638, 3
+  size: 82, 35
+  orig: 84, 37
+  offset: 1, 1
+  index: -1
+cloud5
+  rotate: false
+  xy: 1638, 87
+  size: 277, 299
+  orig: 277, 299
+  offset: 0, 0
+  index: -1
+cloud6
+  rotate: true
+  xy: 1658, 2180
+  size: 496, 495
+  orig: 496, 495
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 2112, 776
+  size: 1280, 561
+  orig: 1282, 563
+  offset: 1, 1
+  index: -1
+mountain
+  rotate: false
+  xy: 1658, 2058
+  size: 475, 120
+  orig: 477, 122
+  offset: 1, 1
+  index: -1
+sea
+  rotate: true
+  xy: 1060, 388
+  size: 1634, 651
+  orig: 1634, 651
+  offset: 0, 0
+  index: -1
+sea_1
+  rotate: true
+  xy: 655, 368
+  size: 1654, 403
+  orig: 1654, 641
+  offset: 0, 0
+  index: -1
+sea_2
+  rotate: true
+  xy: 2, 368
+  size: 1654, 651
+  orig: 1654, 651
+  offset: 0, 0
+  index: -1
+sea_3
+  rotate: false
+  xy: 2, 2024
+  size: 1654, 652
+  orig: 1654, 652
+  offset: 0, 0
+  index: -1
+sky
+  rotate: true
+  xy: 1713, 422
+  size: 1634, 397
+  orig: 1634, 854
+  offset: 0, 457
+  index: -1

@@ -1,0 +1,27 @@
+
+reward_card_open_bg.png
+size: 810,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Highlight_line2.1
+  rotate: false
+  xy: 2, 371
+  size: 436, 437
+  orig: 500, 500
+  offset: 33, 31
+  index: -1
+Light_2
+  rotate: false
+  xy: 272, 208
+  size: 158, 161
+  orig: 300, 300
+  offset: 71, 70
+  index: -1
+reward_card_bg1
+  rotate: false
+  xy: 2, 2
+  size: 268, 367
+  orig: 270, 369
+  offset: 1, 1
+  index: -1

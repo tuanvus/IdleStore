@@ -1,0 +1,181 @@
+
+vip_girl01.png
+size: 287,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_b
+  rotate: false
+  xy: 72, 84
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: false
+  xy: 72, 19
+  size: 46, 63
+  orig: 46, 65
+  offset: 0, 1
+  index: -1
+body_f_1
+  rotate: false
+  xy: 123, 88
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+body_sit_b
+  rotate: false
+  xy: 167, 96
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+body_sit_f
+  rotate: true
+  xy: 214, 65
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+food
+  rotate: false
+  xy: 151, 48
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+food_b
+  rotate: false
+  xy: 151, 48
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+hand_good
+  rotate: false
+  xy: 208, 38
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hand_idle
+  rotate: false
+  xy: 152, 18
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+hand_idle_1
+  rotate: false
+  xy: 237, 39
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hand_pick
+  rotate: true
+  xy: 120, 5
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+hand_v
+  rotate: false
+  xy: 182, 15
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: false
+  xy: 2, 210
+  size: 73, 75
+  orig: 73, 77
+  offset: 0, 2
+  index: -1
+head_eat1
+  rotate: false
+  xy: 2, 141
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+head_eat2
+  rotate: false
+  xy: 77, 218
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+head_idle1
+  rotate: false
+  xy: 2, 72
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+head_idle1_1
+  rotate: false
+  xy: 147, 153
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+head_idle2
+  rotate: false
+  xy: 147, 218
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+head_idle2_1
+  rotate: false
+  xy: 213, 153
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+head_laugh1
+  rotate: false
+  xy: 2, 3
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+head_laugh2
+  rotate: false
+  xy: 217, 218
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+head_pick1
+  rotate: false
+  xy: 77, 149
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+head_pick2
+  rotate: false
+  xy: 77, 149
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 120, 35
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+vip_crown
+  rotate: false
+  xy: 214, 109
+  size: 55, 42
+  orig: 56, 44
+  offset: 1, 1
+  index: -1

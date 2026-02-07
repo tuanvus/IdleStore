@@ -1,0 +1,34 @@
+
+hand_ui.png
+size: 223,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand1
+  rotate: true
+  xy: 131, 131
+  size: 79, 90
+  orig: 81, 93
+  offset: 1, 1
+  index: -1
+hand2
+  rotate: true
+  xy: 98, 2
+  size: 79, 92
+  orig: 81, 94
+  offset: 1, 1
+  index: -1
+hand3
+  rotate: true
+  xy: 2, 2
+  size: 79, 94
+  orig: 81, 96
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 83
+  size: 127, 127
+  orig: 131, 131
+  offset: 2, 2
+  index: -1

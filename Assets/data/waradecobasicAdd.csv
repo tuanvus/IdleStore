@@ -1,0 +1,13 @@
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,m_strFirstName,m_strSecondName,,,m_bOpen,,,,,,,,,,,,,,,
+98000101,콘크리트 타일,,콘크리트 타일,T_ALL,0,0,0,0,GOODS_NONE,98,98,-22|3,2,0|0,1,floor_outside.png|||,,,,0
+98000102,기본 타일,,기본 타일,T_ALL,0,0,0,0,GOODS_NONE,98,98,37|73,2,0|0,1,wall_outside_left.png|||,,,,0
+98000103,흰색 타일,,흰색 타일,T_ALL,0,0,0,0,GOODS_NONE,98,98,-37|73,2,0|0,1,wall_outside_right.png|||,,,,0
+98000104,흰색 타일,,흰색 타일,T_ALL,0,0,0,0,GOODS_NONE,98,98,0|94,2,0|0,1,wall_outside_top.png|||,,,,0
+98000105,우드 마감 타일,,우드 마감 타일,T_ALL,0,0,0,0,GOODS_NONE,98,98,-22|3,2,0|0,1,outside_floor_test.png|||,,,,0
+98000106,우드 마감 타일,,우드 마감 타일,T_ALL,0,0,0,0,GOODS_NONE,98,98,-22|3,2,0|0,1,outside_floor_test_2.png|||,,,,0
+98000107,우드 마감 타일2,,우드 마감 타일2,T_ALL,0,0,0,0,GOODS_NONE,98,98,-22|-1,2,0|0,1,outside_floor_test_4.png|||,,,,0
+98000108,우드 마감 타일3,,우드 마감 타일3,T_ALL,0,0,0,0,GOODS_NONE,98,98,-22|-1,2,0|0,1,outside_floor_test_4_r.png|||,,,,0
+98000109,기본 타일,,기본 타일,T_ALL,0,0,0,0,GOODS_NONE,98,98,36|68,2,0|0,1,wall_outside_left_4.png|||,,,,0
+98000110,흰색 타일,,흰색 타일,T_ALL,0,0,0,0,GOODS_NONE,98,98,-36|68,2,0|0,1,wall_outside_right_4.png|||,,,,0

@@ -1,0 +1,793 @@
+[
+	{
+      "Id" : "CutScene",
+      "Step" : [       
+          {
+            "CutScene" : "opening_cutscene_1"
+          },
+          
+          {
+            "CutScene" : "opening_cutscene_2"
+          },
+		  
+          {
+            "CutScene" : "opening_cutscene_3"
+          },
+		  
+          {
+            "CutScene" : "opening_cutscene_4"
+          },
+		  
+          {
+            "CutScene" : "opening_cutscene_5"
+          },
+		  
+          {
+            "CutScene" : "opening_cutscene_6"
+          },
+		  
+          {
+            "CutScene" : "opening_cutscene_7"
+          },
+		  
+		  {
+            "CutScene" : "opening_cutscene_8"
+          },
+		  
+		  {
+            "CutScene" : "opening_cutscene_9"
+          },
+		  
+		  {
+            "CutScene" : "opening_cutscene_10"
+          },
+		  
+		  {
+            "CutScene" : "opening_cutscene_11"
+          }
+       ]
+    },
+	
+	{
+		"Id" : "dialogue_1",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_1"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_2"
+			 }
+
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_2",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_3"
+			 }
+
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_3",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_4"
+			 }
+
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_4",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_5"
+			 }
+
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_5",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_6"
+			 }
+			 
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_6",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_7"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_7_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_7",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_8"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_8",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_9"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_9_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_9",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_11"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_12"
+			 },
+			 
+			  {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_12_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_10",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_13"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_14"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_11",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_15"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_16"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_12",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_17"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_13",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_18"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_19"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_14",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_20"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_15",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_21"
+			 },
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_22"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_16",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_23"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_24"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_17",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_25"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_18",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_26"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_27"
+			 },
+			 
+			  {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_27_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_19",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_28"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_20",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_29"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_21",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_30"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_22",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_31"
+			 },
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_32"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_23",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_33"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_24",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_34"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_25",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_35"
+			 },
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_36"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_26",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_37"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_50"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_27",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_38"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_45",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_46"
+			 }
+		 ]
+	},
+	
+		
+	{
+		"Id" : "dialogue_28",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_2_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_29",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_4_1"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_4_2"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_30",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_3_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_31",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_6_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_32",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_16_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_33",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_17_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_35",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_17_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_36",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_8_1"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_37",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_7_2"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_38",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_39"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_39",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_40"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_40",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_41"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_41",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_42"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_42",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_43"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_43",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_44"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_44",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_45"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_45",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_46"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_46",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_47"
+			 },
+			 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_48"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_47",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_49"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_48",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_51"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_49",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_52"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_50",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_53"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_51",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_54"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_52",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_55"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_53",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_56"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_54",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_57"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_55",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_58"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_56",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_2_2"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_57",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_2_3"
+			 }
+		 ]
+	},
+	
+	{
+		"Id" : "dialogue_58",
+		"Step" : [		 
+			 {
+				"left" : "main_charactr_1.png",
+				"right" : "",
+				"dialogue" : "STRING_DIALOGUE_2_4"
+			 }
+		 ]
+	}
+]

@@ -1,0 +1,13 @@
+
+shop_sale.png
+size: 94,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shop_ui_SALE_2
+  rotate: false
+  xy: 2, 2
+  size: 90, 90
+  orig: 96, 96
+  offset: 2, 5
+  index: -1

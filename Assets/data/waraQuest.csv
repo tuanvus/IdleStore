@@ -1,0 +1,13 @@
+Column1,,Column2,Column3,Column4,Column5,Column6,Column7,Column8,,Column9,Column10,Column11,Column12,Column13,,Column14,,,Column17,
+Column1,,Column2,Column3,Column4,Column5,Column6,Column7,Column8,,Column9,Column10,Column11,Column12,Column13,,Column14,,,Column17,
+u,,,,,1,1,,,,,,,,,,,,,,
+m_Uid,m_nMode,m_nStartLevel,m_nLimitLevel,m_bRun,m_strName,m_strDesc,m_nQuestType,m_strIcon,m_strImg,m_nTableType,m_nTableCheck,m_nTableValue,m_nClearCount,m_nIntClear,m_nReward_0,m_nReward_1,m_nReward_2,m_nReward_3,m_strReAction,m_strClearReAction
+고유아이디,퀘스트 모드,시작 레벨,레벨 제한,퀘스트 실행여부,이름,설명,퀘스트 타입,퀘스트 아이콘,퀘스트 이미지,참조 테이블 아이디,참조타입,참조 밸류,완료 카운터,완료 수치 (재화타입),보상  0 무시,보상1,골드,루비,ReAction,
+1000001,eQuest_Mode_Daily,1,100,TRUE,메롱1,STRING_DAILY_QUEST_1,eQuest_Goods_Display,main_quest_goods_icon.png,,,,,50,,-1,,,1,,
+1000002,eQuest_Mode_Daily,1,100,TRUE,메롱2,STRING_DAILY_QUEST_2,eQuest_Vip_LevelUp,main_quest_vip_icon.png,,,,,10,,-1,,,1,,
+1000004,eQuest_Mode_Daily,1,104,TRUE,메롱4,STRING_DAILY_QUEST_4,eQuest_Clark_LevelUp,main_quest_employee_icon.png,,,,,10,,-1,,,1,,
+1000005,eQuest_Mode_Daily,1,105,TRUE,메롱5,STRING_DAILY_QUEST_5,eQuest_On_Fever,main_quest_fever_icon.png,,,,,5,,-1,,,1,,
+1000006,eQuest_Mode_Daily,1,106,TRUE,메롱6,STRING_DAILY_QUEST_6,eQuest_Interior_Time_Run,main_quest_cactus_icon.png,,,,,3,,-1,,,1,,
+1000007,eQuest_Mode_Daily,1,100,TRUE,메롱7,STRING_DAILY_QUEST_7,eQuest_Card_Pack_Open,main_quest_gift_card_icon.png,,,,,5,,-1,,,1,,
+1000008,eQuest_Mode_Daily,1,100,TRUE,메롱8,모든 일일 퀘스트 클리어,eQuest_Daily_Clear,main_quest_quest_icon.png,,,,,6,,-1,,,1,,
+,,,,,,,,,,,,,,,3,,,,,

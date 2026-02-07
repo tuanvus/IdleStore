@@ -1,0 +1,76 @@
+
+zombie_red.png
+size: 211,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_1
+  rotate: false
+  xy: 148, 97
+  size: 33, 30
+  orig: 35, 32
+  offset: 1, 1
+  index: -1
+attack_2
+  rotate: false
+  xy: 73, 79
+  size: 32, 28
+  orig: 35, 32
+  offset: 1, 1
+  index: -1
+attack_3
+  rotate: true
+  xy: 183, 95
+  size: 32, 26
+  orig: 35, 32
+  offset: 1, 1
+  index: -1
+body_b_2
+  rotate: true
+  xy: 148, 170
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+body_f_2
+  rotate: true
+  xy: 148, 129
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+hand_idle2
+  rotate: false
+  xy: 122, 114
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+head_back2
+  rotate: false
+  xy: 2, 140
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_idle1_2
+  rotate: false
+  xy: 75, 140
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_idle2_2
+  rotate: true
+  xy: 2, 67
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 73, 109
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+employee07.png
+size: 409,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_b
+  rotate: true
+  xy: 347, 293
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: true
+  xy: 139, 198
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+counter01_b
+  rotate: false
+  xy: 322, 134
+  size: 60, 60
+  orig: 100, 180
+  offset: 21, 18
+  index: -1
+counter01_f
+  rotate: true
+  xy: 347, 345
+  size: 62, 58
+  orig: 100, 180
+  offset: 17, 14
+  index: -1
+fever_y
+  rotate: false
+  xy: 2, 195
+  size: 135, 212
+  orig: 135, 212
+  offset: 0, 0
+  index: -1
+hand_idle
+  rotate: false
+  xy: 201, 215
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hand_idle_b
+  rotate: false
+  xy: 201, 215
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+head_angry
+  rotate: true
+  xy: 114, 111
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: true
+  xy: 2, 109
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+head_idle1
+  rotate: true
+  xy: 139, 325
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+head_idle2
+  rotate: true
+  xy: 114, 27
+  size: 82, 121
+  orig: 82, 121
+  offset: 0, 0
+  index: -1
+head_look1
+  rotate: false
+  xy: 263, 286
+  size: 82, 121
+  orig: 82, 121
+  offset: 0, 0
+  index: -1
+head_look2
+  rotate: true
+  xy: 139, 241
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+head_welcome1
+  rotate: false
+  xy: 238, 117
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+head_welcome2
+  rotate: true
+  xy: 238, 33
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 263, 255
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: true
+  xy: 201, 202
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+table01_b
+  rotate: false
+  xy: 2, 29
+  size: 88, 78
+  orig: 100, 180
+  offset: 6, 8
+  index: -1
+table01_f
+  rotate: true
+  xy: 322, 196
+  size: 88, 78
+  orig: 100, 180
+  offset: 6, 8
+  index: -1

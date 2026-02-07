@@ -1,0 +1,34 @@
+
+effect_quest_clear.png
+size: 774,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CFXM3_T_GlowStar
+  rotate: false
+  xy: 644, 644
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fever_bg03
+  rotate: false
+  xy: 2, 412
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+levelup1
+  rotate: true
+  xy: 644, 353
+  size: 289, 52
+  orig: 289, 52
+  offset: 0, 0
+  index: -1
+levelup2
+  rotate: true
+  xy: 698, 357
+  size: 285, 48
+  orig: 285, 48
+  offset: 0, 0
+  index: -1

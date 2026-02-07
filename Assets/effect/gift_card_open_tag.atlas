@@ -1,0 +1,13 @@
+
+gift_card_open_tag.png
+size: 150,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift_card_open_tag
+  rotate: false
+  xy: 2, 2
+  size: 146, 67
+  orig: 146, 67
+  offset: 0, 0
+  index: -1

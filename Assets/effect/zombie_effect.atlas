@@ -1,0 +1,167 @@
+
+zombie_effect.png
+size: 788,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 172, 14
+  size: 149, 170
+  orig: 200, 200
+  offset: 22, 13
+  index: -1
+02
+  rotate: false
+  xy: 388, 405
+  size: 168, 188
+  orig: 200, 200
+  offset: 12, 5
+  index: -1
+03
+  rotate: true
+  xy: 558, 432
+  size: 165, 155
+  orig: 200, 200
+  offset: 20, 17
+  index: -1
+04
+  rotate: true
+  xy: 202, 390
+  size: 195, 184
+  orig: 200, 200
+  offset: 2, 6
+  index: -1
+05
+  rotate: true
+  xy: 200, 187
+  size: 197, 195
+  orig: 200, 200
+  offset: 2, 3
+  index: -1
+06
+  rotate: true
+  xy: 2, 386
+  size: 199, 198
+  orig: 200, 200
+  offset: 1, 1
+  index: -1
+07
+  rotate: false
+  xy: 2, 587
+  size: 199, 199
+  orig: 200, 200
+  offset: 1, 0
+  index: -1
+08
+  rotate: true
+  xy: 2, 186
+  size: 198, 196
+  orig: 200, 200
+  offset: 2, 3
+  index: -1
+09
+  rotate: true
+  xy: 369, 595
+  size: 191, 185
+  orig: 200, 200
+  offset: 7, 9
+  index: -1
+10
+  rotate: true
+  xy: 2, 8
+  size: 176, 168
+  orig: 200, 200
+  offset: 12, 19
+  index: -1
+a01
+  rotate: false
+  xy: 722, 747
+  size: 64, 39
+  orig: 304, 304
+  offset: 112, 93
+  index: -1
+a02
+  rotate: false
+  xy: 397, 343
+  size: 58, 60
+  orig: 304, 304
+  offset: 114, 93
+  index: -1
+a03
+  rotate: true
+  xy: 715, 489
+  size: 87, 66
+  orig: 304, 304
+  offset: 102, 100
+  index: -1
+a04
+  rotate: false
+  xy: 457, 344
+  size: 133, 59
+  orig: 304, 304
+  offset: 82, 120
+  index: -1
+a05
+  rotate: true
+  xy: 715, 342
+  size: 145, 60
+  orig: 304, 304
+  offset: 77, 128
+  index: -1
+a06
+  rotate: true
+  xy: 722, 578
+  size: 167, 60
+  orig: 304, 304
+  offset: 67, 142
+  index: -1
+b1
+  rotate: false
+  xy: 323, 15
+  size: 149, 170
+  orig: 200, 200
+  offset: 22, 13
+  index: -1
+b2
+  rotate: false
+  xy: 556, 599
+  size: 164, 187
+  orig: 200, 200
+  offset: 11, 5
+  index: -1
+b3
+  rotate: false
+  xy: 203, 594
+  size: 164, 192
+  orig: 200, 200
+  offset: 11, 1
+  index: -1
+b4
+  rotate: false
+  xy: 474, 2
+  size: 166, 185
+  orig: 200, 200
+  offset: 11, 3
+  index: -1
+b5
+  rotate: true
+  xy: 531, 191
+  size: 149, 165
+  orig: 200, 200
+  offset: 22, 12
+  index: -1
+b6
+  rotate: true
+  xy: 642, 62
+  size: 127, 137
+  orig: 200, 200
+  offset: 35, 27
+  index: -1
+hit_effect
+  rotate: false
+  xy: 397, 189
+  size: 132, 151
+  orig: 138, 155
+  offset: 3, 2
+  index: -1

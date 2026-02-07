@@ -1,0 +1,41 @@
+
+ani_heart.png
+size: 158,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heart01
+  rotate: true
+  xy: 98, 94
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+heart02
+  rotate: false
+  xy: 98, 120
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+heart03
+  rotate: true
+  xy: 81, 15
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+heart04
+  rotate: false
+  xy: 2, 2
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+heart05
+  rotate: false
+  xy: 2, 73
+  size: 94, 83
+  orig: 96, 87
+  offset: 1, 2
+  index: -1

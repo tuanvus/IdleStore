@@ -1,0 +1,41 @@
+
+vip_employee_effect.png
+size: 714,714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22
+  rotate: true
+  xy: 65, 603
+  size: 88, 154
+  orig: 90, 165
+  offset: 1, 5
+  index: -1
+33
+  rotate: true
+  xy: 221, 603
+  size: 88, 153
+  orig: 90, 161
+  offset: 1, 2
+  index: -1
+L2
+  rotate: true
+  xy: 376, 533
+  size: 158, 161
+  orig: 164, 165
+  offset: 3, 3
+  index: -1
+light1
+  rotate: false
+  xy: 2, 631
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+light_line2
+  rotate: true
+  xy: 2, 693
+  size: 19, 710
+  orig: 19, 713
+  offset: 0, 3
+  index: -1

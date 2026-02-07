@@ -1,0 +1,4 @@
+version,1,,,,,,,,,,,
+m_uGrade,sGradeCost.m_n64Cost,sGradeCost.m_fAddPer,sGradeCost.m_nGradeCard,sGradeCost.m_n64GradeCost,sGradeCost.m_n64Cost,sGradeCost.m_fAddPer,sGradeCost.m_nGradeCard,sGradeCost.m_n64GradeCost,sGradeCost.m_n64Cost,sGradeCost.m_fAddPer,sGradeCost.m_nGradeCard,sGradeCost.m_n64GradeCost
+등급,노말레벨업용,레벨당 증가율,등급업 필요카드,등급업 필요 비용,레어레벨업용,레벨당 증가율,등급업 필요카드,등급업 필요 비용,전설레벨업용,레벨당 증가율,등급업 필요카드,등급업 필요 비용
+1,100,1,25,100,100,1,25,100,100,1,25,100

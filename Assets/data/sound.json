@@ -1,0 +1,27 @@
+{
+
+	"bgm_play": [ "sound/main_bgm_2.mp3", true ],
+	"ufo_bgm": [ "sound/action_quest_bgm.mp3", true ],
+
+	"pc_swing": [ "sound/pc_swing.ogg", false ],
+	"coin_get": [ "sound/coin_get.mp3", false ],
+	"coin_drop": [ "sound/coin_drop.mp3", false ],
+	"exp_get": [ "sound/exp_get.mp3", false ],
+	"exp_drop": [ "sound/exp_drop.mp3", false ],
+	"popular_get": [ "sound/popular_get.mp3", false ],
+	"popular_drop": [ "sound/popular_drop.mp3", false ],
+	"goods_display": [ "sound/goods_display.mp3", false ],
+	"ui_touch": [ "sound/ui_touch.mp3", false ],
+	"level_up_sound": [ "sound/gacha_complete_success.mp3", false ],
+	"ufo_hit_sound": [ "sound/bang_sound.mp3", false ],
+	"ufo_warning_sound": [ "sound/dos_warning.mp3", false ],
+	"police_wistle_sound" : [ "sound/Wistle_long.mp3", false ],
+	"catch_ok_sound" : [ "sound/catch ok.mp3", false ],
+	"ploice_sound" : [ "sound/police_sound.mp3", false ],
+	"action_quest_clear_sound" : [ "sound/clear_sound.mp3", false ],
+	"action_quest_fail_sound" : [ "sound/fail_sound.mp3", false ],
+	"zombie_reload_sound" : ["sound/zombie_reload.mp3", false],
+	"zombie_shooting_sound" : ["sound/zombie_shot.mp3", false],
+	"zombie_hit_sound" : ["sound/zombie_hit.mp3", false]
+}
+

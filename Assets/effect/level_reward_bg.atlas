@@ -1,0 +1,48 @@
+
+level_reward_bg.png
+size: 1458,1458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_line_beijing
+  rotate: true
+  xy: 2, 1455
+  size: 1, 482
+  orig: 1, 482
+  offset: 0, 0
+  index: -1
+bg_line_italy
+  rotate: true
+  xy: 486, 1455
+  size: 1, 482
+  orig: 1, 482
+  offset: 0, 0
+  index: -1
+bg_line_japan
+  rotate: true
+  xy: 970, 1455
+  size: 1, 482
+  orig: 1, 482
+  offset: 0, 0
+  index: -1
+bg_line_newyork
+  rotate: true
+  xy: 2, 1452
+  size: 1, 482
+  orig: 1, 482
+  offset: 0, 0
+  index: -1
+bg_line_seoul
+  rotate: true
+  xy: 486, 1452
+  size: 1, 482
+  orig: 1, 482
+  offset: 0, 0
+  index: -1
+cionbg
+  rotate: false
+  xy: 2, 976
+  size: 1454, 474
+  orig: 1480, 482
+  offset: 15, 4
+  index: -1

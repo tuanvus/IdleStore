@@ -1,0 +1,27 @@
+
+ani_ruby.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruby01
+  rotate: true
+  xy: 2, 184
+  size: 74, 82
+  orig: 78, 88
+  offset: 2, 3
+  index: -1
+ruby02
+  rotate: true
+  xy: 86, 184
+  size: 74, 82
+  orig: 78, 88
+  offset: 2, 3
+  index: -1
+ruby03
+  rotate: true
+  xy: 170, 180
+  size: 78, 88
+  orig: 78, 88
+  offset: 0, 0
+  index: -1

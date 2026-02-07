@@ -1,0 +1,62 @@
+
+321start.png
+size: 1213,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 218
+  size: 96, 209
+  orig: 98, 211
+  offset: 1, 1
+  index: -1
+1.1
+  rotate: true
+  xy: 213, 218
+  size: 96, 209
+  orig: 98, 211
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 785, 2
+  size: 156, 212
+  orig: 158, 214
+  offset: 1, 1
+  index: -1
+2.1
+  rotate: true
+  xy: 999, 2
+  size: 156, 212
+  orig: 158, 214
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 990, 160
+  size: 154, 215
+  orig: 156, 217
+  offset: 1, 1
+  index: -1
+3.1
+  rotate: true
+  xy: 2, 62
+  size: 154, 215
+  orig: 156, 217
+  offset: 1, 1
+  index: -1
+start
+  rotate: false
+  xy: 424, 162
+  size: 564, 152
+  orig: 566, 154
+  offset: 1, 1
+  index: -1
+start_2
+  rotate: false
+  xy: 219, 8
+  size: 564, 152
+  orig: 566, 154
+  offset: 1, 1
+  index: -1

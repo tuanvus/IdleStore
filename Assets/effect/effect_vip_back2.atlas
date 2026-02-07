@@ -1,0 +1,20 @@
+
+effect_vip_back2.png
+size: 141,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_b
+  rotate: false
+  xy: 2, 2
+  size: 67, 137
+  orig: 67, 137
+  offset: 0, 0
+  index: -1
+l_f
+  rotate: false
+  xy: 71, 2
+  size: 67, 137
+  orig: 67, 137
+  offset: 0, 0
+  index: -1

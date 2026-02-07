@@ -1,0 +1,20 @@
+
+shop_bg.png
+size: 622,622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shop_ui_pop
+  rotate: false
+  xy: 312, 75
+  size: 308, 545
+  orig: 320, 550
+  offset: 6, 2
+  index: -1
+shop_ui_pop_3
+  rotate: false
+  xy: 2, 75
+  size: 308, 545
+  orig: 320, 550
+  offset: 6, 2
+  index: -1

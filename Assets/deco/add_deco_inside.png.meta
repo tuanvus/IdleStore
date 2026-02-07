@@ -1,0 +1,1423 @@
+fileFormatVersion: 2
+guid: 7f1f86e73901d734d9f3fbefa5c7abcc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 901100_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 396
+        width: 78
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac91a683de856240800000000000000
+      internalID: 4784387218299002026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901100_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 86
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6531f6a24d12f2a0800000000000000
+      internalID: -6705264723095374482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901101_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 748
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d474dbdaf542c7d0800000000000000
+      internalID: -2899678266340903722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901102_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 236
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82839dabcef0efc10800000000000000
+      internalID: 2089124786567985192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901103_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 790
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b75179d5e0bfe0800000000000000
+      internalID: -1175186780671463020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901104_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 124
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a8e4d4606ed1470800000000000000
+      internalID: 8367096597465434689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901105_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 314
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e55b26a4face5a0800000000000000
+      internalID: -6490620228929233395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901106_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 638
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68acaee5223a74b50800000000000000
+      internalID: 6577405148814559878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901107_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 734
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62336bc6ffc492c30800000000000000
+      internalID: 4335080776245064486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901108_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 236
+        width: 122
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59386d5460f26720800000000000000
+      internalID: 2838095029051341146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901109_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 572
+        width: 136
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b5cf7eaeadd300800000000000000
+      internalID: 278570816458043610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901110_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 640
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01493cf00fb4b3210800000000000000
+      internalID: 1313727210737341456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901111_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 12
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45733b5cb89328a50800000000000000
+      internalID: 6521838482865993556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901111_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 360
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccc494f83f1c7f90800000000000000
+      internalID: -6954649395084866364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901112_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 624
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01f18223f0550e50800000000000000
+      internalID: 6774910219634995470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901113_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 470
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd060b64cb9f6cbc0800000000000000
+      internalID: -3763045851586338595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901114_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b09c99fc566b590800000000000000
+      internalID: -7658822173984224428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901115_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 852
+        width: 86
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3538bbeff32eed0800000000000000
+      internalID: -2386274489252752467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901116_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 898
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74f7abadb517d860800000000000000
+      internalID: 7554530804310209659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901116_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 580
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43acf79d6926a6940800000000000000
+      internalID: 5290149112333716020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901117_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 794
+        width: 94
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582221f3a12996250800000000000000
+      internalID: 5938438225089667717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901118_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 92
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537f402660b652b0800000000000000
+      internalID: -5596091534286032046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901119_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 366
+        width: 92
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6daad0ac21fea9a0800000000000000
+      internalID: -6219768861372535444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901120_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 700
+        width: 74
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ea648b57d755660800000000000000
+      internalID: 7373937909445340747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901120_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 858
+        width: 74
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf12a353a4209d50800000000000000
+      internalID: 6741928926075035591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901121_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 862
+        width: 74
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5f68071b17a9890800000000000000
+      internalID: -7450517626620021275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901121_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 686
+        width: 74
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229dade8c68800430800000000000000
+      internalID: 3747144889806805282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901122_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 636
+        width: 78
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024a4ec4b465f8040800000000000000
+      internalID: 4652031821509600288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901122_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 194
+        width: 86
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221971aba18774930800000000000000
+      internalID: 4127399639694938402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901123_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 734
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e8241f1c59bd1c0800000000000000
+      internalID: -4477820744280928635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901124_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 826
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245d50cd3aac09ce0800000000000000
+      internalID: -1400396678992374462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901125_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 928
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbb5a0338a995f50800000000000000
+      internalID: 6870692594777963481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901126_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 100
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd325fb146f934e80800000000000000
+      internalID: -8195531644569574435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901127_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 218
+        width: 86
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf36d18aa05b8120800000000000000
+      internalID: 2417114318267367358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901128_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 380
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f890482288177470800000000000000
+      internalID: 8392203377928345843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901129_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 112
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bd1c01a29317ea0800000000000000
+      internalID: -5876853185909236926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901130_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 900
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342a05c96cee19d80800000000000000
+      internalID: -8245546905945202109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901131_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 816
+        width: 96
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eadfbc1987a89880800000000000000
+      internalID: -8603942880756639003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901132_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 106
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11550be7f18119020800000000000000
+      internalID: 2346683404385277201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901133_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 572
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f078e45a849ce210800000000000000
+      internalID: 1363628109037334774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901134_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 794
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aeef861225c3630800000000000000
+      internalID: 3908088880099682829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901135_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 428
+        width: 74
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656263725832de4f0800000000000000
+      internalID: -797942504179227050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901136_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 578
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4a19d56b50d4980800000000000000
+      internalID: -8553173836494691138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901136_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 136
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c2a1b3dfc303b10800000000000000
+      internalID: 1959132896222129260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901137_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 712
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8a80740e9808a10800000000000000
+      internalID: 1909677838362519719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901137_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 52
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4c65d3447345980800000000000000
+      internalID: -8551149026243328843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901138_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 864
+        width: 82
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fed780e44ece5b0800000000000000
+      internalID: -5337640434539827362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901138_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 402
+        width: 82
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c80a260dc2398f10800000000000000
+      internalID: 2272403343138228423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901139_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 82
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d2cf0417f11cc70800000000000000
+      internalID: 8989500902490254593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901139_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 694
+        width: 84
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdd67bb596215010800000000000000
+      internalID: 1175763402257522163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901140_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6
+        width: 82
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb252adc9ca786e10800000000000000
+      internalID: 2191136225872728764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901141_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 434
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f58f517627273e00800000000000000
+      internalID: 1024330486314403319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901142_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 924
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4f4245165b8eb60800000000000000
+      internalID: 7775664186283324590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901143_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 810
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda045fea7847b630800000000000000
+      internalID: 3942699691624631004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901143_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 878
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9833a9a71aec360800000000000000
+      internalID: 7191863202902411756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901144_deco_etc_b
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 934
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafbedff0d44cea90800000000000000
+      internalID: -7283370832928260181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901144_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 844
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b00e7d7a0fb03e0800000000000000
+      internalID: -2086309398684103896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 901145_deco_etc_f
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 948
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81c5b07c4727a8a0800000000000000
+      internalID: -6294018744965021300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      901100_deco_etc_b: 4784387218299002026
+      901100_deco_etc_f: -6705264723095374482
+      901101_deco_etc_f: -2899678266340903722
+      901102_deco_etc_f: 2089124786567985192
+      901103_deco_etc_f: -1175186780671463020
+      901104_deco_etc_f: 8367096597465434689
+      901105_deco_etc_f: -6490620228929233395
+      901106_deco_etc_f: 6577405148814559878
+      901107_deco_etc_f: 4335080776245064486
+      901108_deco_etc_f: 2838095029051341146
+      901109_deco_etc_f: 278570816458043610
+      901110_deco_etc_f: 1313727210737341456
+      901111_deco_etc_b: 6521838482865993556
+      901111_deco_etc_f: -6954649395084866364
+      901112_deco_etc_f: 6774910219634995470
+      901113_deco_etc_f: -3763045851586338595
+      901114_deco_etc_f: -7658822173984224428
+      901115_deco_etc_f: -2386274489252752467
+      901116_deco_etc_b: 7554530804310209659
+      901116_deco_etc_f: 5290149112333716020
+      901117_deco_etc_f: 5938438225089667717
+      901118_deco_etc_f: -5596091534286032046
+      901119_deco_etc_f: -6219768861372535444
+      901120_deco_etc_b: 7373937909445340747
+      901120_deco_etc_f: 6741928926075035591
+      901121_deco_etc_b: -7450517626620021275
+      901121_deco_etc_f: 3747144889806805282
+      901122_deco_etc_b: 4652031821509600288
+      901122_deco_etc_f: 4127399639694938402
+      901123_deco_etc_f: -4477820744280928635
+      901124_deco_etc_f: -1400396678992374462
+      901125_deco_etc_f: 6870692594777963481
+      901126_deco_etc_f: -8195531644569574435
+      901127_deco_etc_f: 2417114318267367358
+      901128_deco_etc_f: 8392203377928345843
+      901129_deco_etc_f: -5876853185909236926
+      901130_deco_etc_f: -8245546905945202109
+      901131_deco_etc_f: -8603942880756639003
+      901132_deco_etc_f: 2346683404385277201
+      901133_deco_etc_f: 1363628109037334774
+      901134_deco_etc_f: 3908088880099682829
+      901135_deco_etc_f: -797942504179227050
+      901136_deco_etc_b: -8553173836494691138
+      901136_deco_etc_f: 1959132896222129260
+      901137_deco_etc_b: 1909677838362519719
+      901137_deco_etc_f: -8551149026243328843
+      901138_deco_etc_b: -5337640434539827362
+      901138_deco_etc_f: 2272403343138228423
+      901139_deco_etc_b: 8989500902490254593
+      901139_deco_etc_f: 1175763402257522163
+      901140_deco_etc_f: 2191136225872728764
+      901141_deco_etc_f: 1024330486314403319
+      901142_deco_etc_f: 7775664186283324590
+      901143_deco_etc_b: 3942699691624631004
+      901143_deco_etc_f: 7191863202902411756
+      901144_deco_etc_b: -7283370832928260181
+      901144_deco_etc_f: -2086309398684103896
+      901145_deco_etc_f: -6294018744965021300
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

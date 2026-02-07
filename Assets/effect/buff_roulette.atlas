@@ -1,0 +1,55 @@
+
+buff_roulette.png
+size: 547,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 399
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+main_buff_card_calculation
+  rotate: false
+  xy: 84, 399
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+main_buff_card_coin
+  rotate: false
+  xy: 166, 399
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+main_buff_card_exp
+  rotate: false
+  xy: 248, 399
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+main_buff_card_sale
+  rotate: false
+  xy: 330, 399
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+main_buff_card_speed
+  rotate: false
+  xy: 412, 399
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+r1
+  rotate: true
+  xy: 2, 481
+  size: 64, 543
+  orig: 64, 543
+  offset: 0, 0
+  index: -1

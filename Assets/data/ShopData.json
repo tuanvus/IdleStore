@@ -1,0 +1,339 @@
+{
+	"LevelReward" : [1022],
+	"ItemShop" : [],
+	
+	"ShopUiType" : ["scroll","scroll","scroll","SingleTime","Single","Single"],
+	
+	"ShopData" :
+	[
+		[//캐릭터 패키지
+			{
+				"PurchaseID" : 1002,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_1",
+				"Sale" : true,
+				"BgImage" : "",
+				"Image" : "character_full_package.png",
+				"Pakage" : [[1,608,3],[1,609,3],[1,610,3],[3,0,1000000],[4,0,750]],   // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "character"
+			},
+
+			{
+				"PurchaseID" : 1003,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_2",
+				"Sale" : true,
+				"Image" : "king_package.png",
+				"Pakage" : [[1,608,3],[3,0,300000],[4,0,200]],   // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "character"
+			},
+			
+			{
+				"PurchaseID" : 1004,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_3",
+				"Sale" : true,
+				"Image" : "prince_package.png",
+				"Pakage" : [[1,609,3],[3,0,300000],[4,0,200]],  // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "character"
+			},
+			
+			{
+				"PurchaseID" : 1005,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_4",
+				"Sale" : true,
+				"Image" : "princess_package.png",
+				"Pakage" : [[1,610,3],[3,0,300000],[4,0,200]],   // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "character"
+			}
+		],
+		
+		[//상품 패키지
+			
+			{
+				"PurchaseID" : 1006,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_5",
+				"Sale" : true,
+				"Image" : "goods_full_package.png",
+				"Pakage" : [[0,29,3,150],[0,1029,3,150],[3,0,200000],[4,0,300]],   // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "goods"
+			},
+			
+			{
+				"PurchaseID" : 1007,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_6",
+				"Sale" : true,
+				"Image" : "stuff_package.png",
+				"Pakage" : [[0,2029,3,150],[0,4021,3,150],[3,0,200000],[4,0,300]],   // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "goods"
+			},
+			
+			{
+				"PurchaseID" : 1008,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_7",
+				"Sale" : true,
+				"Image" : "ice_fresh_package.png",
+				"Pakage" : [[0,3021,3,150],[0,5021,3,150],[3,0,200000],[4,0,300]],   // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "goods"
+			}
+		],
+		
+		[//스페셜 패키지
+			{
+				"PurchaseID" : 1009,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_8",
+				"Sale" : true,
+				"Image" : "goods_full_package.png",
+				"Pakage" : [[0,29,3,150],[0,1029,3,150],[0,2029,3,150],[3,0,500000],[4,0,500]],   // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "goods"
+			},
+			
+			{
+				"PurchaseID" : 1010,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_9",
+				"Sale" : true,
+				"Image" : "ad_remove_30days.png",
+				"Pakage" : "",   // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "ad"
+			},
+			
+			{
+				"PurchaseID" : 1011,
+				"PurchaseName" : "STRING_SHOP_PACKAGE_10",
+				"Sale" : true,
+				"Image" : "ad_remove_3months.png",
+				"Pakage" : "",   // [[1,1233,1]]
+				"InfoImg" : "ex_popup.png",
+				"Type" : "ad"
+			}
+		],
+		
+		[//단일 상품
+			{
+				"PurchaseID" : 0,
+				"NeedRuby" : 100,
+				"PurchaseName" : "상품_1",
+				"Sale" : true,
+				"Image" : "goods_full_package.png",
+				"Pakage" : [[4,0,200]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "goods"
+			},
+			
+			{
+				"PurchaseID" : 1,
+				"NeedRuby" : 100,
+				"PurchaseName" : "상품_2",
+				"Sale" : true,
+				"Image" : "stuff_package.png",
+				"Pakage" : [[4,0,500]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "goods"
+			},
+			
+			{
+				"PurchaseID" : 2,
+				"NeedRuby" : 100,
+				"PurchaseName" : "상품_3",
+				"Sale" : true,
+				"Image" : "ice_fresh_package.png",
+				"Pakage" : [[4,0,1700]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "goods"
+			},
+			
+			{
+				"PurchaseID" : 3,
+				"NeedRuby" : 50,
+				"PurchaseName" : "STRING_SHOP_CARDPACK_3",
+				"Sale" : true,
+				"Image" : "ice_fresh_package.png",
+				"Pakage" : [[5,2,1]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "card"
+			},
+			
+			{
+				"PurchaseID" : 4,
+				"NeedRuby" : 30,
+				"PurchaseName" : "STRING_SHOP_CARDPACK_2",
+				"Sale" : true,
+				"Image" : "ice_fresh_package.png",
+				"Pakage" : [[5,1,1]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "card"
+			},
+			
+			{
+				"PurchaseID" : 5,
+				"NeedRuby" : 10,
+				"PurchaseName" : "STRING_SHOP_CARDPACK_1",
+				"Sale" : true,
+				"Image" : "ice_fresh_package.png",
+				"Pakage" : [[5,0,1]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "card"
+			}
+		],
+		
+		[//루비
+			{
+				"PurchaseID" : 1012,
+				"PurchaseName" : "STRING_SHOP_RUBY_1",
+				"OutText" : "",
+				"Sale" : true,
+				"Image" : "shop_ui_jewel_1.png",
+				"Pakage" : [[4,0,200]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "ruby"
+			},
+			
+			{
+				"PurchaseID" : 1013,
+				"PurchaseName" : "STRING_SHOP_RUBY_2",
+				"OutText" : "",
+				"Sale" : true,
+				"Image" : "shop_ui_jewel_2.png",
+				"Pakage" : [[4,0,500]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "ruby"
+			},
+			
+			{
+				"PurchaseID" : 1014,
+				"PurchaseName" : "STRING_SHOP_RUBY_3",
+				"OutText" : ["1,200","STRING_SHOP_RUBY_BOUNS_1"],
+				"Sale" : true,
+				"Image" : "shop_ui_jewel_3.png",
+				"Pakage" : [[4,0,1700]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "ruby"
+			},
+			
+			{
+				"PurchaseID" : 1015,
+				"PurchaseName" : "STRING_SHOP_RUBY_4",
+				"OutText" : ["4,500","STRING_SHOP_RUBY_BOUNS_2"],
+				"Sale" : true,
+				"Image" : "shop_ui_jewel_4.png",
+				"Pakage" : [[4,0,8000]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "ruby"
+			},
+			
+			{
+				"PurchaseID" : 1016,
+				"PurchaseName" : "STRING_SHOP_RUBY_5",
+				"OutText" : ["11,000","STRING_SHOP_RUBY_BOUNS_3"],
+				"Sale" : true,
+				"Image" : "shop_ui_jewel_5.png",
+				"Pakage" : [[4,0,24000]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "rubylong"
+			}
+		],
+		
+		[//골드
+			{
+				"PurchaseID" : 1017,
+				"NeedRuby" : 50,
+				"PurchaseName" : "STRING_SHOP_GOLD_1",
+				"OutText" : "",
+				"Sale" : true,
+				"Image" : "shop_ui_gold_1.png",
+				"Pakage" : [[3,0,50000]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "gold"
+			},
+			
+			{
+				"PurchaseID" : 1018,
+				"NeedRuby" : 100,
+				"PurchaseName" : "STRING_SHOP_GOLD_2",
+				"OutText" : "",
+				"Sale" : true,
+				"Image" : "shop_ui_gold_2.png",
+				"Pakage" : [[3,0,100000]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "gold"
+			},
+			
+			{
+				"PurchaseID" : 1019,
+				"NeedRuby" : 500,
+				"PurchaseName" : "STRING_SHOP_GOLD_3",
+				"OutText" : ["500,000","STRING_SHOP_GOLD_BOUNS_1"],
+				"Sale" : true,
+				"Image" : "shop_ui_gold_3.png",
+				"Pakage" : [[3,0,600000]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "gold"
+			},
+			
+			{
+				"PurchaseID" : 1020,
+				"NeedRuby" : 1300,
+				"PurchaseName" : "STRING_SHOP_GOLD_4",
+				"OutText" : ["1,300,000","STRING_SHOP_GOLD_BOUNS_2"],
+				"Sale" : true,
+				"Image" : "shop_ui_gold_4.png",
+				"Pakage" : [[3,0,1500000]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "gold"
+			},
+			
+			{
+				"PurchaseID" : 1021,
+				"NeedRuby" : 2500,
+				"PurchaseName" : "STRING_SHOP_GOLD_5",
+				"OutText" : ["2,500,000","STRING_SHOP_GOLD_BOUNS_3"],
+				"Sale" : true,
+				"Image" : "shop_ui_gold_5.png",
+				"Pakage" : [[3,0,3000000]],   // [[1,1233,1]]
+				"InfoImg" : "shop_info_ui_pop_1.png",
+				"Type" : "goldlong"
+			}
+		]
+	],
+	
+	
+	"SpecialData" : 
+	[
+		{
+			"Key" :"Starter",
+			
+			"OpenType" : "Quest",
+			"StartNum" : 16,
+			"EndNum" : 49,
+			"UiType" : "E_UI_GAME_STARTER_PACAKAGE_POPUP",
+			"ShopData" : [
+				{
+					"PurchaseID" : 1009,
+					"Image" : [ "shop_starter_popup_package_icon.png", "shop_ui_gold_4.png","shop_ui_jewel_4.png"],
+					"Text" : [ "STRING_SHOP_PACKAGE_8", "STRING_SHOP_STARTER_INFO_1","STRING_SHOP_STARTER_INFO_2"]
+				}
+			]
+		},
+		{
+			"Key" :"AD",
+			"OpenType" : "Quest",
+			"StartNum" : 10,
+			"EndNum" : 15,
+			"UiType" : "",
+			"ShopData" : [
+				{
+					"PurchaseID" : 1010
+				},	
+				{
+					"PurchaseID" : 1011
+				}
+			]
+		}			
+	]
+}

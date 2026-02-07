@@ -1,0 +1,27 @@
+
+action_quest_police_car.png
+size: 302,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+action_quest_police_car
+  rotate: false
+  xy: 2, 178
+  size: 209, 122
+  orig: 211, 124
+  offset: 1, 1
+  index: -1
+police_car_light1
+  rotate: false
+  xy: 213, 170
+  size: 87, 64
+  orig: 97, 71
+  offset: 3, 6
+  index: -1
+police_car_light2
+  rotate: false
+  xy: 213, 236
+  size: 87, 64
+  orig: 97, 71
+  offset: 3, 6
+  index: -1

@@ -1,0 +1,41 @@
+
+action_quest_bullet.png
+size: 108,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+action_quest_bullet_1
+  rotate: false
+  xy: 2, 48
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+action_quest_bullet_1_2
+  rotate: false
+  xy: 54, 55
+  size: 16, 51
+  orig: 16, 51
+  offset: 0, 0
+  index: -1
+action_quest_bullet_2
+  rotate: false
+  xy: 28, 48
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+action_quest_bullet_2_1
+  rotate: false
+  xy: 72, 55
+  size: 16, 51
+  orig: 16, 51
+  offset: 0, 0
+  index: -1
+action_quest_bullet_3
+  rotate: false
+  xy: 90, 55
+  size: 16, 51
+  orig: 16, 51
+  offset: 0, 0
+  index: -1

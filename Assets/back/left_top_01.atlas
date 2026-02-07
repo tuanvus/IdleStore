@@ -1,0 +1,27 @@
+
+left_top_01.png
+size: 112,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_sit_f2
+  rotate: true
+  xy: 28, 71
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+hand_idle
+  rotate: false
+  xy: 2, 86
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+head_pick2
+  rotate: false
+  xy: 2, 2
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1

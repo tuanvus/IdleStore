@@ -1,0 +1,13 @@
+
+main_quest_reward_bg.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_quest_reward_light
+  rotate: false
+  xy: 2, 2
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1

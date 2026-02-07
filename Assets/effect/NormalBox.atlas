@@ -1,0 +1,104 @@
+
+NormalBox.png
+size: 420,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Box_0
+  rotate: false
+  xy: 120, 64
+  size: 104, 74
+  orig: 107, 77
+  offset: 1, 1
+  index: -1
+Box_0.1
+  rotate: false
+  xy: 226, 64
+  size: 104, 74
+  orig: 107, 77
+  offset: 1, 1
+  index: -1
+Box_00
+  rotate: false
+  xy: 2, 146
+  size: 121, 122
+  orig: 123, 124
+  offset: 1, 1
+  index: -1
+Box_1
+  rotate: false
+  xy: 241, 140
+  size: 105, 61
+  orig: 107, 64
+  offset: 1, 1
+  index: -1
+Box_1_1
+  rotate: false
+  xy: 245, 203
+  size: 111, 65
+  orig: 115, 69
+  offset: 2, 2
+  index: -1
+Box_2
+  rotate: false
+  xy: 115, 7
+  size: 110, 55
+  orig: 112, 57
+  offset: 1, 1
+  index: -1
+Box_2_1
+  rotate: true
+  xy: 358, 152
+  size: 116, 60
+  orig: 120, 65
+  offset: 2, 3
+  index: -1
+Box_3
+  rotate: false
+  xy: 125, 140
+  size: 114, 61
+  orig: 116, 64
+  offset: 1, 1
+  index: -1
+Box_3_1
+  rotate: false
+  xy: 125, 203
+  size: 118, 65
+  orig: 121, 69
+  offset: 2, 2
+  index: -1
+Box_4
+  rotate: false
+  xy: 2, 2
+  size: 111, 68
+  orig: 113, 70
+  offset: 1, 1
+  index: -1
+Box_4_1
+  rotate: false
+  xy: 2, 72
+  size: 116, 72
+  orig: 120, 76
+  offset: 2, 2
+  index: -1
+Light1
+  rotate: true
+  xy: 332, 49
+  size: 89, 55
+  orig: 95, 62
+  offset: 3, 5
+  index: -1
+Light2
+  rotate: false
+  xy: 227, 9
+  size: 102, 53
+  orig: 107, 57
+  offset: 3, 2
+  index: -1
+Light3
+  rotate: false
+  xy: 331, 11
+  size: 84, 36
+  orig: 88, 40
+  offset: 2, 2
+  index: -1

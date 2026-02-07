@@ -1,0 +1,27 @@
+
+level_character_bg.png
+size: 65,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Loding
+  rotate: true
+  xy: 50, 22
+  size: 51, 13
+  orig: 53, 15
+  offset: 1, 1
+  index: -1
+Round
+  rotate: true
+  xy: 2, 26
+  size: 47, 46
+  orig: 49, 48
+  offset: 1, 1
+  index: -1
+Round2
+  rotate: false
+  xy: 2, 2
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1

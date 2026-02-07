@@ -1,0 +1,13 @@
+
+vip_crown.png
+size: 74,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crown
+  rotate: false
+  xy: 2, 17
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1

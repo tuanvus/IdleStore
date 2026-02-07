@@ -1,0 +1,20 @@
+
+concent_line.png
+size: 1582,1404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 2, 2
+  size: 1400, 788
+  orig: 1400, 788
+  offset: 0, 0
+  index: -1
+002
+  rotate: true
+  xy: 792, 2
+  size: 1400, 788
+  orig: 1400, 788
+  offset: 0, 0
+  index: -1

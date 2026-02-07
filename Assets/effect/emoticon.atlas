@@ -1,0 +1,76 @@
+
+emoticon.png
+size: 266,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alien
+  rotate: true
+  xy: 179, 194
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 179, 122
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+awkard
+  rotate: true
+  xy: 92, 116
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+fever_mark
+  rotate: true
+  xy: 176, 27
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 2, 187
+  size: 88, 77
+  orig: 96, 87
+  offset: 3, 5
+  index: -1
+joy
+  rotate: true
+  xy: 179, 50
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+sickness
+  rotate: true
+  xy: 92, 188
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 2, 115
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+smile2
+  rotate: true
+  xy: 89, 44
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+trouble
+  rotate: true
+  xy: 2, 43
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+world_store_bg_boat.png
+size: 98,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boat
+  rotate: false
+  xy: 2, 31
+  size: 94, 65
+  orig: 95, 68
+  offset: 1, 3
+  index: -1

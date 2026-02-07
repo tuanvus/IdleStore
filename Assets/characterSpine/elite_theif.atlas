@@ -1,0 +1,174 @@
+
+elite_theif.png
+size: 271,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b01_head_ufo
+  rotate: false
+  xy: 2, 121
+  size: 72, 73
+  orig: 75, 74
+  offset: 0, 1
+  index: -1
+bag_b1
+  rotate: false
+  xy: 207, 128
+  size: 19, 15
+  orig: 21, 18
+  offset: 1, 1
+  index: -1
+bag_b2
+  rotate: false
+  xy: 107, 5
+  size: 35, 44
+  orig: 37, 46
+  offset: 1, 1
+  index: -1
+bag_f
+  rotate: false
+  xy: 2, 3
+  size: 65, 41
+  orig: 67, 43
+  offset: 1, 1
+  index: -1
+body_b
+  rotate: false
+  xy: 224, 210
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+body_f
+  rotate: true
+  xy: 151, 159
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+body_sit_b
+  rotate: true
+  xy: 150, 119
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+body_sit_f
+  rotate: false
+  xy: 149, 62
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+food
+  rotate: false
+  xy: 190, 79
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+food_b
+  rotate: false
+  xy: 190, 79
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+hand_good
+  rotate: true
+  xy: 212, 171
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hand_idle
+  rotate: false
+  xy: 212, 145
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hand_pick
+  rotate: false
+  xy: 239, 182
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+hand_v
+  rotate: true
+  xy: 190, 53
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: false
+  xy: 2, 196
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+head_eat1
+  rotate: false
+  xy: 151, 200
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_eat2
+  rotate: false
+  xy: 76, 51
+  size: 71, 68
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head_idle1
+  rotate: false
+  xy: 77, 196
+  size: 72, 73
+  orig: 75, 74
+  offset: 0, 1
+  index: -1
+head_laugh2
+  rotate: false
+  xy: 77, 196
+  size: 72, 73
+  orig: 75, 74
+  offset: 0, 1
+  index: -1
+head_idle2
+  rotate: false
+  xy: 2, 46
+  size: 72, 73
+  orig: 75, 74
+  offset: 0, 1
+  index: -1
+head_laugh1
+  rotate: false
+  xy: 76, 121
+  size: 72, 73
+  orig: 75, 74
+  offset: 0, 1
+  index: -1
+head_pick1
+  rotate: false
+  xy: 76, 121
+  size: 72, 73
+  orig: 75, 74
+  offset: 0, 1
+  index: -1
+head_pick2
+  rotate: false
+  xy: 76, 121
+  size: 72, 73
+  orig: 75, 74
+  offset: 0, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 76, 2
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1

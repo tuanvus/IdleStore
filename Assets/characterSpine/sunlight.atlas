@@ -1,0 +1,48 @@
+
+sunlight.png
+size: 1556,1556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1346
+  size: 208, 208
+  orig: 210, 210
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 212, 1286
+  size: 271, 268
+  orig: 281, 276
+  offset: 5, 4
+  index: -1
+a1
+  rotate: false
+  xy: 485, 1199
+  size: 355, 355
+  orig: 357, 357
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 842, 1199
+  size: 355, 355
+  orig: 357, 357
+  offset: 1, 1
+  index: -1
+b1
+  rotate: false
+  xy: 1199, 1199
+  size: 355, 355
+  orig: 357, 357
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 1199, 1199
+  size: 355, 355
+  orig: 357, 357
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+buff_calculate.png
+size: 63,63
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card_sale_plus_icon
+  rotate: false
+  xy: 2, 4
+  size: 59, 57
+  orig: 74, 74
+  offset: 8, 9
+  index: -1

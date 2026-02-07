@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>deco_floor_lock.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{88,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{88,44}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{88,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>deco_floor_lock.png</string>
+            <key>size</key>
+            <string>{90,46}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:3c106f6080dfee3b0604b66279214866:d78d6a922f6466253fa163cf534ca8d7:e67014d5ff88813be06a7f1136f5c201$</string>
+            <key>textureFileName</key>
+            <string>deco_floor_lock.png</string>
+        </dict>
+    </dict>
+</plist>
