@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: outside_shop_03_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 3971555481194fa4287f52c9aaff6813, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 7fe6746299b4ce64a8ddc6d1d067f3d1, type: 3}
+  isUpgradingBlendModeMaterials: 0
+  blendModeMaterials:
+    requiresBlendModeMaterials: 1
+    applyAdditiveMaterial: 1
+    additiveMaterials:
+    - pageName: outside_shop_03.png
+      material: {fileID: 2100000, guid: c19c48246edaa4c46bfbc0ef5e07de3b, type: 2}
+    multiplyMaterials: []
+    screenMaterials:
+    - pageName: outside_shop_03.png
+      material: {fileID: 2100000, guid: 43549dbc58cf14f42ab3f2676ca8062f, type: 2}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}

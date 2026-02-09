@@ -13,7 +13,6 @@ public class SpineOrganizerWindow : EditorWindow
     [MenuItem("Tools/Spine Organizer Window")]
     public static void ShowWindow()
     {
-        // Hiển thị cửa sổ Editor
         GetWindow<SpineOrganizerWindow>("Spine Organizer");
     }
 
@@ -22,57 +21,113 @@ public class SpineOrganizerWindow : EditorWindow
         GUILayout.Label("Cài đặt Folder", EditorStyles.boldLabel);
         EditorGUILayout.Space();
 
-        // Ô kéo thả Folder Nguồn (Nơi chứa các file lộn xộn)
+        // Ô kéo thả Folder Nguồn
         sourceFolder = (DefaultAsset)EditorGUILayout.ObjectField(
-            new GUIContent("Folder Nguồn (Source)", "Kéo folder chứa các file .png, .json, .atlas vào đây"),
-            sourceFolder,
-            typeof(DefaultAsset),
+            new GUIContent("Folder Nguồn", "Folder cha chứa file hoặc subfolder cần xử lý"), 
+            sourceFolder, 
+            typeof(DefaultAsset), 
             false
         );
 
-        // Ô kéo thả Folder Đích (Nơi sẽ tạo các folder con). 
-        // Nếu để trống, code sẽ mặc định dùng luôn Folder Nguồn.
+        // Ô kéo thả Folder Đích
         destinationFolder = (DefaultAsset)EditorGUILayout.ObjectField(
-            new GUIContent("Folder Đích (Dest)",
-                "Kéo folder bạn muốn chứa các folder con. Nếu để trống sẽ dùng Folder Nguồn"),
-            destinationFolder,
-            typeof(DefaultAsset),
+            new GUIContent("Folder Đích (Gom nhóm)", "Nơi tạo folder con khi dùng chức năng Gom Nhóm. Để trống = Folder Nguồn"), 
+            destinationFolder, 
+            typeof(DefaultAsset), 
             false
         );
 
         EditorGUILayout.Space();
+        EditorGUILayout.LabelField("", GUI.skin.horizontalSlider);
+        EditorGUILayout.Space();
 
-        // Nút bấm xử lý
-        if (GUILayout.Button("Bắt đầu Gom File", GUILayout.Height(40)))
+        // --- CHỨC NĂNG 1: GOM FILE ---
+        GUILayout.Label("Chức năng 1: Gom file vào Folder", EditorStyles.boldLabel);
+        if (GUILayout.Button("Gom nhóm file Spine (Auto Group)", GUILayout.Height(35)))
         {
-            if (sourceFolder == null)
-            {
-                EditorUtility.DisplayDialog("Lỗi", "Bạn chưa chọn Folder Nguồn!", "OK");
-                return;
-            }
+            if (CheckInput()) OrganizeSpineFiles();
+        }
 
-            // Nếu không chọn đích, mặc định đích = nguồn
-            if (destinationFolder == null) destinationFolder = sourceFolder;
+        EditorGUILayout.Space();
 
-            OrganizeSpineFiles();
+        // --- CHỨC NĂNG 2: ĐỔI TÊN ---
+        GUILayout.Label("Chức năng 2: Sửa lỗi Import", EditorStyles.boldLabel);
+        if (GUILayout.Button("Đổi đuôi .atlas -> .atlas.txt (Quét toàn bộ Subfolder)", GUILayout.Height(35)))
+        {
+            if (CheckInput()) RenameAtlasFilesRecursive();
         }
     }
 
-    private void OrganizeSpineFiles()
+    // Hàm kiểm tra đầu vào
+    private bool CheckInput()
     {
-        // Lấy đường dẫn Assets/... của folder
-        string sourcePath = AssetDatabase.GetAssetPath(sourceFolder);
-        string destPath = AssetDatabase.GetAssetPath(destinationFolder);
-
-        // Kiểm tra xem có đúng là folder không (tránh trường hợp kéo nhầm file thường)
-        if (!AssetDatabase.IsValidFolder(sourcePath) || !AssetDatabase.IsValidFolder(destPath))
+        if (sourceFolder == null)
         {
-            Debug.LogError("Input không phải là Folder hợp lệ!");
+            EditorUtility.DisplayDialog("Lỗi", "Bạn chưa chọn Folder Nguồn!", "OK");
+            return false;
+        }
+        return true;
+    }
+
+    // ---------------------------------------------------------
+    // CHỨC NĂNG: ĐỔI TÊN RECURSIVE
+    // ---------------------------------------------------------
+    private void RenameAtlasFilesRecursive()
+    {
+        string rootPath = AssetDatabase.GetAssetPath(sourceFolder);
+        
+        // Lấy tất cả file .atlas trong folder nguồn VÀ TẤT CẢ SUBFOLDER
+        // SearchOption.AllDirectories là chìa khóa để quét đệ quy
+        string[] atlasFiles = Directory.GetFiles(rootPath, "*.atlas", SearchOption.AllDirectories);
+
+        if (atlasFiles.Length == 0)
+        {
+            Debug.Log("Không tìm thấy file .atlas nào cần đổi tên.");
             return;
         }
 
-        // Lấy tất cả file trong thư mục nguồn
-        // Directory.GetFiles trả về đường dẫn hệ thống hoặc relative tùy môi trường, ta cần chuẩn hóa
+        int count = 0;
+        AssetDatabase.StartAssetEditing(); // Tối ưu hiệu năng
+
+        foreach (string sysPath in atlasFiles)
+        {
+            // Chuyển đường dẫn hệ thống thành đường dẫn Unity (Assets/...)
+            string unityPath = sysPath.Replace("\\", "/");
+            
+            // AssetDatabase.RenameAsset yêu cầu đường dẫn cũ và TÊN MỚI (chỉ tên, không kèm đường dẫn)
+            string fileName = Path.GetFileName(unityPath); // vd: hero.atlas
+            string newName = fileName + ".txt";            // vd: hero.atlas.txt
+
+            string error = AssetDatabase.RenameAsset(unityPath, newName);
+
+            if (string.IsNullOrEmpty(error))
+            {
+                count++;
+            }
+            else
+            {
+                Debug.LogError($"Lỗi đổi tên file {fileName}: {error}");
+            }
+        }
+
+        AssetDatabase.StopAssetEditing();
+        AssetDatabase.Refresh();
+
+        EditorUtility.DisplayDialog("Hoàn tất", $"Đã đổi đuôi {count} file từ .atlas sang .atlas.txt", "OK");
+    }
+
+    // ---------------------------------------------------------
+    // CHỨC NĂNG: GOM NHÓM (CODE CŨ)
+    // ---------------------------------------------------------
+    private void OrganizeSpineFiles()
+    {
+        if (destinationFolder == null) destinationFolder = sourceFolder;
+
+        string sourcePath = AssetDatabase.GetAssetPath(sourceFolder);
+        string destPath = AssetDatabase.GetAssetPath(destinationFolder);
+
+        // Lưu ý: Chức năng gom nhóm này chỉ quét ở thư mục gốc được chọn (TopDirectoryOnly)
+        // để tránh làm loạn cấu trúc các folder đã quy hoạch.
         string[] allFilePaths = Directory.GetFiles(sourcePath);
 
         Dictionary<string, List<string>> fileGroups = new Dictionary<string, List<string>>();
@@ -80,69 +135,65 @@ public class SpineOrganizerWindow : EditorWindow
 
         foreach (string rawFilePath in allFilePaths)
         {
-            // Chuẩn hóa đường dẫn thành dấu / để tránh lỗi AssetDatabase
             string filePath = rawFilePath.Replace("\\", "/");
-
             if (filePath.EndsWith(".meta")) continue;
 
             string extension = Path.GetExtension(filePath).ToLower();
-            string fileNameWithoutExt = Path.GetFileNameWithoutExtension(filePath);
+            
+            // Xử lý logic tên file: Nếu là .atlas.txt thì bỏ .txt đi để lấy tên gốc
+            string fileNameWithoutExt;
+            if (filePath.EndsWith(".atlas.txt"))
+            {
+                fileNameWithoutExt = Path.GetFileNameWithoutExtension(Path.GetFileNameWithoutExtension(filePath));
+            }
+            else
+            {
+                fileNameWithoutExt = Path.GetFileNameWithoutExtension(filePath);
+            }
 
-            // Logic lọc file Spine
-            if (targetExtensions.Contains(extension))
+            if (targetExtensions.Contains(extension) || filePath.EndsWith(".atlas.txt"))
             {
                 if (!fileGroups.ContainsKey(fileNameWithoutExt))
                 {
                     fileGroups[fileNameWithoutExt] = new List<string>();
                 }
-
                 fileGroups[fileNameWithoutExt].Add(filePath);
             }
         }
 
         int groupCount = 0;
-        AssetDatabase.StartAssetEditing(); // Bắt đầu batch process
+        AssetDatabase.StartAssetEditing();
 
         foreach (var group in fileGroups)
         {
             string baseName = group.Key;
             List<string> files = group.Value;
 
-            // Chỉ xử lý nếu có file trong nhóm
             if (files.Count > 0)
             {
-                // Đường dẫn thư mục con mới tại Folder Đích
                 string targetSubFolderPath = destPath + "/" + baseName;
-
-                // Tạo folder nếu chưa có
                 if (!AssetDatabase.IsValidFolder(targetSubFolderPath))
                 {
+                    string destGuid = AssetDatabase.AssetPathToGUID(destPath);
                     AssetDatabase.CreateFolder(destPath, baseName);
                 }
 
-                // Di chuyển file
                 foreach (string currentFilePath in files)
                 {
                     string fileName = Path.GetFileName(currentFilePath);
                     string destinationFilePath = targetSubFolderPath + "/" + fileName;
 
-                    // Kiểm tra nếu file đã ở đúng chỗ thì bỏ qua
                     if (currentFilePath == destinationFilePath) continue;
 
-                    string error = AssetDatabase.MoveAsset(currentFilePath, destinationFilePath);
-                    if (!string.IsNullOrEmpty(error))
-                    {
-                        Debug.LogError($"Lỗi di chuyển {fileName}: {error}");
-                    }
+                    AssetDatabase.MoveAsset(currentFilePath, destinationFilePath);
                 }
-
                 groupCount++;
             }
         }
 
         AssetDatabase.StopAssetEditing();
-        AssetDatabase.Refresh(); // Cập nhật lại UI Unity
-
-        EditorUtility.DisplayDialog("Hoàn tất", $"Đã xử lý xong {groupCount} nhóm file!", "OK");
+        AssetDatabase.Refresh();
+        EditorUtility.DisplayDialog("Hoàn tất", $"Đã gom {groupCount} nhóm file!", "OK");
     }
 }
+
