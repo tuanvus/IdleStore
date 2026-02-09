@@ -67,7 +67,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -127,7 +127,3829 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: arrow01
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 7
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2e5b15d7eae2260800000000000000
+      internalID: 7074783917910647521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow01_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977f1ecc7bc685ae0800000000000000
+      internalID: -1560377734211700871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_01
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd164aada8431b80800000000000000
+      internalID: -8425310567156802060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_black
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 171
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830249568e01bb450800000000000000
+      internalID: 6105492310153502776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_deco01
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 467
+        width: 39
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b8fc481b4ef1810800000000000000
+      internalID: 1738359432276839214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_deco02
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 373
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a476ce9f1cbc5950800000000000000
+      internalID: 6439228411226780841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_deco03
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 5
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d325a88bcc25f59e0800000000000000
+      internalID: -1630493500861951427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_employee01
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1214
+        width: 72
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e374e070b159dc20800000000000000
+      internalID: 3231704025865155559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_bg
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1209
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab5366b3fac0fe0800000000000000
+      internalID: -1221408729271518563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_deck_bg
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 29
+        width: 125
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276494d65bc5af310800000000000000
+      internalID: 1439564965190649458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap01
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 15
+        width: 231
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f827be8fad9e8d0800000000000000
+      internalID: -2816479329306636418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap01_2
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 381
+        width: 55
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8197ac0e51df8f40800000000000000
+      internalID: 5733031052535370127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap02
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 235
+        width: 231
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a1cc33434755a20800000000000000
+      internalID: 3050472090169514563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap02_2
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 976
+        width: 55
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333f57c6fc9b93380800000000000000
+      internalID: -8990950880539446477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap03
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 793
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d15915be7741940800000000000000
+      internalID: 5265965716872699278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap04
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 679
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846ed4299038333c0800000000000000
+      internalID: -4381013935368837560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon1
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 284
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08c5742caa292d50800000000000000
+      internalID: 6712943638406875146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon1_2
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 141
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6c2c2e750499ae0800000000000000
+      internalID: -1542130651186936148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon2
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 266
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a2dcaabde5f6c90800000000000000
+      internalID: -7174411383821489551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon2_2
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 619
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd56ed24ce84c880800000000000000
+      internalID: -8591585215881257482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon3
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 164
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afce4f5e550fa560800000000000000
+      internalID: 7327081021639151522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon3_2
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 100
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f5dc8db5552ef80800000000000000
+      internalID: -8078800928581525643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon4
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 334
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815d7925f870bc50800000000000000
+      internalID: 6678971241748844934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon4_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1387
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefe69f856d7f54f0800000000000000
+      internalID: -837813130513420310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon5
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 633
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b54d44a9c5667f0800000000000000
+      internalID: -619706081067377799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon5_2
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 753
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063a250f172196ff0800000000000000
+      internalID: -42482440910757024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a7cb3c5ae2c4b30800000000000000
+      internalID: 4272841435956148771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_tap_icon6_2
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 19
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f860e6a20e7e040800000000000000
+      internalID: 4676953210886721425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: display_deck
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 410
+        width: 159
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9df0525c0cd51940800000000000000
+      internalID: 5266357284758420892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: display_deck2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 171
+        width: 159
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ea448c8b11d6140800000000000000
+      internalID: 4714443870258376273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: display_deck2_arrow
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 446
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76acc74ec6a2bf70800000000000000
+      internalID: 9201600393569412731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: display_deck3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 10
+        width: 237
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7250d2c173b1a8720800000000000000
+      internalID: 2849119637775123751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: display_deck_empty_icon
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3081f7c2c23c0e70800000000000000
+      internalID: 9082690360658985022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: display_deck_select
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 215
+        width: 163
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87abbb01753d0e6b0800000000000000
+      internalID: -5268979193127126408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_btn_l
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4392a386b8086adf0800000000000000
+      internalID: -169306599742363340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_btn_levelup
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 11
+        width: 174
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b2474b5993c7b0800000000000000
+      internalID: -5205148126993534828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_btn_r
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a2cf39a24081cd0800000000000000
+      internalID: -2587313405006435702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 972
+        width: 184
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e120d1118a50020800000000000000
+      internalID: 2307435175551835682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck0
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 54
+        width: 237
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46407981e423ee0800000000000000
+      internalID: -1282877076327340818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 478
+        width: 159
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b60dd9d784ad9660800000000000000
+      internalID: 7394247066594903734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck1_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 195
+        width: 159
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6dc7402ecfd9090800000000000000
+      internalID: -8025980913236257037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck1_280
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1062
+        width: 280
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e3b20901ba18ac0800000000000000
+      internalID: -3854611718425854393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 972
+        width: 185
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d3ede0e610d29a0800000000000000
+      internalID: -6256342735140274861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck2_2
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 276
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9defedb80357d8ee0800000000000000
+      internalID: -1257219869600973095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 510
+        width: 185
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f603b2070fc73d1f0800000000000000
+      internalID: -1021335318367096721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck3_2
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 568
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fdff83a5cb10ef0800000000000000
+      internalID: -143626617409773681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b37f3f690d5d000800000000000000
+      internalID: 60183516796107536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_btn
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 219
+        width: 151
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473fcd59f7732b110800000000000000
+      internalID: 1275142665613931380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_btn2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 913
+        width: 41
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70a73433fc0dec50800000000000000
+      internalID: 6696022459662442618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_levelup_bg
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 982
+        width: 250
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f307e9940705d080800000000000000
+      internalID: -9163410150472088592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_levelup_bg2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 451
+        width: 173
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902037ca12a183a40800000000000000
+      internalID: 5348053289431925257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_levelup_bg3
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1209
+        width: 271
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf6c6a727b0df50800000000000000
+      internalID: 6904219609688636391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_levelup_bg4
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1161
+        width: 173
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0810ac943e0339660800000000000000
+      internalID: 7391305166198800768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_levelup_e1
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 481
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7daf6e922aa4b40800000000000000
+      internalID: 5425327001973741544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_levelup_e2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1434
+        width: 713
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757f2b4d22dac76f0800000000000000
+      internalID: -685482678158166185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_loading
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1241
+        width: 34
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb93e5cc8d799a170800000000000000
+      internalID: 8190244354747414975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_loading2
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 476
+        width: 34
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ce84478d355330800000000000000
+      internalID: 3698930320134816739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_loading2_ok
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 98
+        width: 141
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad621ec28a5ec6d0800000000000000
+      internalID: -2968335586541015639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_loading_arrow
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d363b169aa9c1e50800000000000000
+      internalID: 6781465191192421337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_loading_bg
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 468
+        width: 41
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea16a0e6a0dd0610800000000000000
+      internalID: 1589155658683783919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_loading_level
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 972
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc6a2c4009bad40800000000000000
+      internalID: 5596725312057953715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_lv
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1164
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa0ee60ced8dcb50800000000000000
+      internalID: 6615099472545188602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_lv2
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 23
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db0b2013a3104cb0800000000000000
+      internalID: -4881880404997764138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_lv3
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 241
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c751628481e8640800000000000000
+      internalID: 5084027727503522972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_star
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 131
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9873e0fb3ffce7930800000000000000
+      internalID: 4142977353016817545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_star2
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 98
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723b4265745f4ec90800000000000000
+      internalID: -7141313422366035161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_deck_star3
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e1f6f2d815fba60800000000000000
+      internalID: 7691956355400146525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_popup
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1123
+        width: 225
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332fbddc607acdb50800000000000000
+      internalID: 6619349199993172531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 54
+        width: 237
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c686200c5309da40800000000000000
+      internalID: 5393345722427279043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck2
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 568
+        width: 159
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cca100fac4422920800000000000000
+      internalID: 2964007143163931841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck2_2
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 55
+        width: 210
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833de4990cafd8670800000000000000
+      internalID: 8542759773304443704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck2_280
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1048
+        width: 280
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e391b50a3e84129c0800000000000000
+      internalID: -3953798855369483970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck2_280_lock
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1048
+        width: 280
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8636fa9a03b85ed40800000000000000
+      internalID: 5613045551708726120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck2_280_sale
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 907
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9b5bb728405f340800000000000000
+      internalID: 4896825128303049160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck2_280_work
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 400
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3cfb28c7f076c40800000000000000
+      internalID: 5505386096927687644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_bg
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1034
+        width: 164
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fec18d61c1deab0800000000000000
+      internalID: -4977291128733896805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_btn
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 466
+        width: 44
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5812856fc89eca0800000000000000
+      internalID: -5987099239943928340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_check
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 419
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca396786e71318a40800000000000000
+      internalID: 5368626649790583724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_coin
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 164
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3161b5d938d6d1460800000000000000
+      internalID: 7214042590165538323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_levelup_bg
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 578
+        width: 173
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c2ecc87b36a23c0800000000000000
+      internalID: -4383581647299269473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_lock
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 307
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d18ef69af34cfe0800000000000000
+      internalID: -1169740006249980649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_lock_s
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 98
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f56e3d3426bbd30800000000000000
+      internalID: 4448257100415917882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_lv
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 164
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b70032e2fa66410800000000000000
+      internalID: 1470054941073636214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_lv2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1064
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b46729d0013c710800000000000000
+      internalID: 1712229933808765791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_deck_v
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 203
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eed375e85d7b360800000000000000
+      internalID: 7185446537818664488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_left_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 727
+        width: 208
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f809f98d651a0e0800000000000000
+      internalID: -2260430049573302468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_popup
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1157
+        width: 271
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443267d5201dd9500800000000000000
+      internalID: 404709349621375812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap01
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 981
+        width: 55
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c197a90ea036b10800000000000000
+      internalID: 1973433021498989659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap02
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 674
+        width: 55
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da6b5ba3aa837940800000000000000
+      internalID: 5292726422649662168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap03
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 265
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7e9c5623b6ef3e0800000000000000
+      internalID: -2018057718815135756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap04
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 101
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dfc4749c5ab6590800000000000000
+      internalID: -7679862455647011444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon1
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 126
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b99753124f2d1450800000000000000
+      internalID: 6061052634349410737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon1b
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 38
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d8bf4863e063bd0800000000000000
+      internalID: -2650915703338857151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon2
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 279
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77d8487773fab6c0800000000000000
+      internalID: -4126718414086940805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon2b
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 907
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b05685ac0331130800000000000000
+      internalID: 3536223778040515378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon3
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 161
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8320569e303beb0800000000000000
+      internalID: -4705412884715128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon3b
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 265
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371feb1517ca6ad90800000000000000
+      internalID: -7086787360918146701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon4
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a59e3e9ac18cfc0800000000000000
+      internalID: -3474495596517565885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon4b
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 460
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875f4dabdc4c1bd00800000000000000
+      internalID: 986786181252707704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon5
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 130
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c852b664fc61de3c0800000000000000
+      internalID: -4328778587337710196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon5b
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 219
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14197676fde7c590800000000000000
+      internalID: -7653887398887484390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon6
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 243
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad90c5a53b8c040800000000000000
+      internalID: 4668178214442097288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goods_tap_icon6b
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 342
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea782c26804fb480800000000000000
+      internalID: -8881308995140683025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_bg
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1209
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810be8e68f851c1f0800000000000000
+      internalID: -1026441416033783784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 703
+        width: 165
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49789c5e2258ceac0800000000000000
+      internalID: -3824535598613821548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_bar1
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 333
+        width: 23
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba740ad6ebe85340800000000000000
+      internalID: 4852887975224441526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_bar2
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 333
+        width: 23
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fab0f5ba6e1f2850800000000000000
+      internalID: 6354331042910878451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_bar3
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 343
+        width: 23
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d48b143a3e887900800000000000000
+      internalID: 682451724180096215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_bar_bg
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 321
+        width: 27
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70075780cdb37bf20800000000000000
+      internalID: 3438282656741421063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_bar_bg2
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 321
+        width: 27
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a709ad1d887750800000000000000
+      internalID: 6302942837034427737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_bg
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 907
+        width: 164
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1305d47b031cb60800000000000000
+      internalID: 7764540796397695446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_box
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da23394f7b74ffc20800000000000000
+      internalID: 3242389112137921197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_btn_off
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 198
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4c803a03f0ba5f0800000000000000
+      internalID: -744484611831577378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_btn_on
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 198
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299ec4a4a5eec8160800000000000000
+      internalID: 7029255189979523474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_empty
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 881
+        width: 277
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81556b88104d09e10800000000000000
+      internalID: 2202493320837879064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_empty_icon
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0449411d0ce9dcb30800000000000000
+      internalID: 4309274969442128960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_deck_select
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1209
+        width: 285
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeadafabefa76960800000000000000
+      internalID: 7595232723383201518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_left_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 454
+        width: 208
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5188e630ba32b31c0800000000000000
+      internalID: -4522982183359576043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_left_2
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 614
+        width: 91
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2059c959b1b780e0800000000000000
+      internalID: -2267648477724323793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_left_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 9
+        width: 271
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfb48a0b00415110800000000000000
+      internalID: 1247848987923627955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_left_line
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 270
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4a094d0c9f160a0800000000000000
+      internalID: -6889951348304861963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_left_notice_icon
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 219
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a3242784eda840800000000000000
+      internalID: 5237093210779789143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_left_notice_tap
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 830
+        width: 371
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6db98dee7677550800000000000000
+      internalID: 6158505290986411689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_left_scroll
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 438
+        width: 4
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e774ba20a28c4c40800000000000000
+      internalID: 5497912869535381476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_left_scroll_btn
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 882
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975bf9296ab53f170800000000000000
+      internalID: 8211007316609185145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_right_btn1
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1
+        width: 225
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de0167174e1b1990800000000000000
+      internalID: -7414299070851641646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_right_btn2
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 680
+        width: 52
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d778972387f330800000000000000
+      internalID: 3744605821266810463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_right_btn3
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 704
+        width: 52
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0982e48da32e8ff0800000000000000
+      internalID: -32048919179261684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_right_btn4
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 704
+        width: 52
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c35ae07198304aa0800000000000000
+      internalID: -6178876491436502080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_right_btn_back
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 523
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f18881622e2090800000000000000
+      internalID: -8057464881021849541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_standby_btn1
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 486
+        width: 52
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bccdb422ac634ca0800000000000000
+      internalID: -6033859632089412424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest_standby_btn2
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 625
+        width: 111
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bea399030a3f2c00800000000000000
+      internalID: 877984237080522416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_box01
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c51998aef055d0800000000000000
+      internalID: -3075678545417747407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_buy
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 265
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d96005b5fbd98d0800000000000000
+      internalID: -2837901791268004485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_deck_new
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 411
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954c443b5d0a82a80800000000000000
+      internalID: -8491360257710963623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_display_drink
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 241
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af532b5c71e902d0800000000000000
+      internalID: -3311868126733049951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_display_fresh
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 98
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c506d699101ff08f0800000000000000
+      internalID: -571973638481420196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_display_ice
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 124
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d2451e162b52f0800000000000000
+      internalID: -983150183002746727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_display_ramen
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 50
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73482d9c06fc75b70800000000000000
+      internalID: 8887800404248790071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_display_snack
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1400
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68c8bce9f7457ed0800000000000000
+      internalID: -2416946486270441362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_display_sundry
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 98
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a59117dcb1984390800000000000000
+      internalID: -7833851311562844768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_drink
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 74
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3f60b4d16a2e590800000000000000
+      internalID: -7646366572578671709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_employee01
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 100
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcce71dd2a8bc240800000000000000
+      internalID: 4813092556168416472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_employee02
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 204
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c330fca2c7cac70800000000000000
+      internalID: 8983691880000863375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_employee03
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 134
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685c6b643a9de24b0800000000000000
+      internalID: -5463190002664553082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_employee04
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 619
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faddadbb9686e91c0800000000000000
+      internalID: -4495040574736638545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_employee05
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 161
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61a58c7c1819d760800000000000000
+      internalID: 7483038766480073071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_fresh
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e339a1a535d0c40800000000000000
+      internalID: 5480127968037781088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ice
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 65
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d71fff76ad06300800000000000000
+      internalID: 243434520088509746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ramen
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 164
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c5cdb4cc1038800800000000000000
+      internalID: 613335951210208267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_snack
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 86
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e5250395db8c20800000000000000
+      internalID: 3209893986854888740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_sundry
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 66
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b84ba691f3497010800000000000000
+      internalID: 1187054681682823353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_employee
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 625
+        width: 159
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6a1ae7d78ac56f0800000000000000
+      internalID: -694494985572997457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_goods
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 216
+        width: 159
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835fc229771e0aa80800000000000000
+      internalID: -8457512196532013768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_vip
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 306
+        width: 159
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfbafc955b1fcd80800000000000000
+      internalID: -8228327939662757940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_01
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1000
+        width: 233
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e1e9d01d45fa640800000000000000
+      internalID: 5093382960432684641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_02
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 379
+        width: 121
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997225b46233bc730800000000000000
+      internalID: 4020363331923748761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_03
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 218
+        width: 121
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c150aa06bfb3bc30800000000000000
+      internalID: 4374050451690115523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_04
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 215
+        width: 121
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ed4f60717d5b920800000000000000
+      internalID: 3005544820240604695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_bg_black
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 218
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7874dcecab6a094b0800000000000000
+      internalID: -5435661428972501113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_btn_arrow1
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 902
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973d0d0bc813b8710800000000000000
+      internalID: 1696504164966781817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_btn_arrow2
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 136
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937539e85821af0b0800000000000000
+      internalID: -5694218414024599751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_deck1
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 887
+        width: 271
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceb783a7ce042840800000000000000
+      internalID: 5198296120497258185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_deck1_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 159
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5eb79b5d411a980800000000000000
+      internalID: -8529513311090514437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_deck2
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 740
+        width: 271
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c845bf6b8c875290800000000000000
+      internalID: -7901692490695751485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_deck2_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 649
+        width: 159
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9943cab827004ca0800000000000000
+      internalID: -6034815629163017825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_icon_coin
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45b5901dd057b300800000000000000
+      internalID: 267771613248075087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_icon_heart
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 350
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f54e0e99994110c0800000000000000
+      internalID: -4606820019692747272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_num
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 238
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dfb89be9dcf59e0800000000000000
+      internalID: -1630358458483344037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_tap1
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1384
+        width: 575
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32bec387b2ae09c0800000000000000
+      internalID: -3959048113338011077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theme_tap2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 407
+        width: 55
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9206a3683d83fc7c0800000000000000
+      internalID: -4048955058841558999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_deck
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 228
+        width: 159
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d914a0c85652a8620800000000000000
+      internalID: 2777073238298739101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_deck0
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 306
+        width: 159
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63307266c4cabf660800000000000000
+      internalID: 7420714255154348854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_deck0_2
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 74
+        width: 210
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4088c00343601f790800000000000000
+      internalID: -7498205083380971516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_deck0_280
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 901
+        width: 280
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc633eb0d12491c10800000000000000
+      internalID: 2024722200000673484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_deck1
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 467
+        width: 159
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85f9801f30759ec0800000000000000
+      internalID: -3560816514203781750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_deck2
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1223
+        width: 321
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34e52578abfc7b90800000000000000
+      internalID: -7242637399780105156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_icon_buy
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 292
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910b50f8ee9fe19e0800000000000000
+      internalID: -1648605610573975527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_loading1
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 324
+        width: 33
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feb8f695c6d8d3b0800000000000000
+      internalID: -5487400001821163786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_loading2
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 325
+        width: 33
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d1f5ad5d7bb20f0800000000000000
+      internalID: -1140615951488705199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_loading_bg
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 468
+        width: 41
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae505b79e3c9825c0800000000000000
+      internalID: -4239967256522193430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vip_tap
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1384
+        width: 575
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eabce7179528eca0800000000000000
+      internalID: -5987494373717394716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +3960,189 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      arrow01: 7074783917910647521
+      arrow01_2: -1560377734211700871
+      back_01: -8425310567156802060
+      bg_black: 6105492310153502776
+      btn_deco01: 1738359432276839214
+      btn_deco02: 6439228411226780841
+      btn_deco03: -1630493500861951427
+      btn_employee01: 3231704025865155559
+      deco_bg: -1221408729271518563
+      deco_deck_bg: 1439564965190649458
+      deco_tap01: -2816479329306636418
+      deco_tap01_2: 5733031052535370127
+      deco_tap02: 3050472090169514563
+      deco_tap02_2: -8990950880539446477
+      deco_tap03: 5265965716872699278
+      deco_tap04: -4381013935368837560
+      deco_tap_icon1: 6712943638406875146
+      deco_tap_icon1_2: -1542130651186936148
+      deco_tap_icon2: -7174411383821489551
+      deco_tap_icon2_2: -8591585215881257482
+      deco_tap_icon3: 7327081021639151522
+      deco_tap_icon3_2: -8078800928581525643
+      deco_tap_icon4: 6678971241748844934
+      deco_tap_icon4_2: -837813130513420310
+      deco_tap_icon5: -619706081067377799
+      deco_tap_icon5_2: -42482440910757024
+      deco_tap_icon6: 4272841435956148771
+      deco_tap_icon6_2: 4676953210886721425
+      display_deck: 5266357284758420892
+      display_deck2: 4714443870258376273
+      display_deck2_arrow: 9201600393569412731
+      display_deck3: 2849119637775123751
+      display_deck_empty_icon: 9082690360658985022
+      display_deck_select: -5268979193127126408
+      employee_btn_l: -169306599742363340
+      employee_btn_levelup: -5205148126993534828
+      employee_btn_r: -2587313405006435702
+      employee_deck: 2307435175551835682
+      employee_deck0: -1282877076327340818
+      employee_deck1: 7394247066594903734
+      employee_deck1_2: -8025980913236257037
+      employee_deck1_280: -3854611718425854393
+      employee_deck2: -6256342735140274861
+      employee_deck2_2: -1257219869600973095
+      employee_deck3: -1021335318367096721
+      employee_deck3_2: -143626617409773681
+      employee_deck_bg: 60183516796107536
+      employee_deck_btn: 1275142665613931380
+      employee_deck_btn2: 6696022459662442618
+      employee_deck_levelup_bg: -9163410150472088592
+      employee_deck_levelup_bg2: 5348053289431925257
+      employee_deck_levelup_bg3: 6904219609688636391
+      employee_deck_levelup_bg4: 7391305166198800768
+      employee_deck_levelup_e1: 5425327001973741544
+      employee_deck_levelup_e2: -685482678158166185
+      employee_deck_loading: 8190244354747414975
+      employee_deck_loading2: 3698930320134816739
+      employee_deck_loading2_ok: -2968335586541015639
+      employee_deck_loading_arrow: 6781465191192421337
+      employee_deck_loading_bg: 1589155658683783919
+      employee_deck_loading_level: 5596725312057953715
+      employee_deck_lv: 6615099472545188602
+      employee_deck_lv2: -4881880404997764138
+      employee_deck_lv3: 5084027727503522972
+      employee_deck_star: 4142977353016817545
+      employee_deck_star2: -7141313422366035161
+      employee_deck_star3: 7691956355400146525
+      employee_popup: 6619349199993172531
+      goods_deck: 5393345722427279043
+      goods_deck2: 2964007143163931841
+      goods_deck2_2: 8542759773304443704
+      goods_deck2_280: -3953798855369483970
+      goods_deck2_280_lock: 5613045551708726120
+      goods_deck2_280_sale: 4896825128303049160
+      goods_deck2_280_work: 5505386096927687644
+      goods_deck_bg: -4977291128733896805
+      goods_deck_btn: -5987099239943928340
+      goods_deck_check: 5368626649790583724
+      goods_deck_coin: 7214042590165538323
+      goods_deck_levelup_bg: -4383581647299269473
+      goods_deck_lock: -1169740006249980649
+      goods_deck_lock_s: 4448257100415917882
+      goods_deck_lv: 1470054941073636214
+      goods_deck_lv2: 1712229933808765791
+      goods_deck_v: 7185446537818664488
+      goods_left_1: -2260430049573302468
+      goods_popup: 404709349621375812
+      goods_tap01: 1973433021498989659
+      goods_tap02: 5292726422649662168
+      goods_tap03: -2018057718815135756
+      goods_tap04: -7679862455647011444
+      goods_tap_icon1: 6061052634349410737
+      goods_tap_icon1b: -2650915703338857151
+      goods_tap_icon2: -4126718414086940805
+      goods_tap_icon2b: 3536223778040515378
+      goods_tap_icon3: -4705412884715128629
+      goods_tap_icon3b: -7086787360918146701
+      goods_tap_icon4: -3474495596517565885
+      goods_tap_icon4b: 986786181252707704
+      goods_tap_icon5: -4328778587337710196
+      goods_tap_icon5b: -7653887398887484390
+      goods_tap_icon6: 4668178214442097288
+      goods_tap_icon6b: -8881308995140683025
+      guest_bg: -1026441416033783784
+      guest_deck: -3824535598613821548
+      guest_deck_bar1: 4852887975224441526
+      guest_deck_bar2: 6354331042910878451
+      guest_deck_bar3: 682451724180096215
+      guest_deck_bar_bg: 3438282656741421063
+      guest_deck_bar_bg2: 6302942837034427737
+      guest_deck_bg: 7764540796397695446
+      guest_deck_box: 3242389112137921197
+      guest_deck_btn_off: -744484611831577378
+      guest_deck_btn_on: 7029255189979523474
+      guest_deck_empty: 2202493320837879064
+      guest_deck_empty_icon: 4309274969442128960
+      guest_deck_select: 7595232723383201518
+      guest_left_1: -4522982183359576043
+      guest_left_2: -2267648477724323793
+      guest_left_3: 1247848987923627955
+      guest_left_line: -6889951348304861963
+      guest_left_notice_icon: 5237093210779789143
+      guest_left_notice_tap: 6158505290986411689
+      guest_left_scroll: 5497912869535381476
+      guest_left_scroll_btn: 8211007316609185145
+      guest_right_btn1: -7414299070851641646
+      guest_right_btn2: 3744605821266810463
+      guest_right_btn3: -32048919179261684
+      guest_right_btn4: -6178876491436502080
+      guest_right_btn_back: -8057464881021849541
+      guest_standby_btn1: -6033859632089412424
+      guest_standby_btn2: 877984237080522416
+      icon_box01: -3075678545417747407
+      icon_buy: -2837901791268004485
+      icon_deck_new: -8491360257710963623
+      icon_display_drink: -3311868126733049951
+      icon_display_fresh: -571973638481420196
+      icon_display_ice: -983150183002746727
+      icon_display_ramen: 8887800404248790071
+      icon_display_snack: -2416946486270441362
+      icon_display_sundry: -7833851311562844768
+      icon_drink: -7646366572578671709
+      icon_employee01: 4813092556168416472
+      icon_employee02: 8983691880000863375
+      icon_employee03: -5463190002664553082
+      icon_employee04: -4495040574736638545
+      icon_employee05: 7483038766480073071
+      icon_fresh: 5480127968037781088
+      icon_ice: 243434520088509746
+      icon_ramen: 613335951210208267
+      icon_snack: 3209893986854888740
+      icon_sundry: 1187054681682823353
+      reward_employee: -694494985572997457
+      reward_goods: -8457512196532013768
+      reward_vip: -8228327939662757940
+      theme_01: 5093382960432684641
+      theme_02: 4020363331923748761
+      theme_03: 4374050451690115523
+      theme_04: 3005544820240604695
+      theme_bg_black: -5435661428972501113
+      theme_btn_arrow1: 1696504164966781817
+      theme_btn_arrow2: -5694218414024599751
+      theme_deck1: 5198296120497258185
+      theme_deck1_2: -8529513311090514437
+      theme_deck2: -7901692490695751485
+      theme_deck2_2: -6034815629163017825
+      theme_icon_coin: 267771613248075087
+      theme_icon_heart: -4606820019692747272
+      theme_num: -1630358458483344037
+      theme_tap1: -3959048113338011077
+      theme_tap2: -4048955058841558999
+      vip_deck: 2777073238298739101
+      vip_deck0: 7420714255154348854
+      vip_deck0_2: -7498205083380971516
+      vip_deck0_280: 2024722200000673484
+      vip_deck1: -3560816514203781750
+      vip_deck2: -7242637399780105156
+      vip_icon_buy: -1648605610573975527
+      vip_loading1: -5487400001821163786
+      vip_loading2: -1140615951488705199
+      vip_loading_bg: -4239967256522193430
+      vip_tap: -5987494373717394716
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
